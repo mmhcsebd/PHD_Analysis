@@ -1,0 +1,44 @@
+EEG Conformer + 1D TCN Dual Stream Cross Attention
+MED DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/med_dataset/Cleaned_oN_Selected_Med.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/med_dataset/EEG_Conformer_TCN_CrossAttention_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Features: 96
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Trainable Parameters: 530756
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Parameters: {'d_model': 96, 'num_heads': 4, 'n_conformer_blocks': 1, 'n_tcn_blocks': 2, 'conformer_kernel': 31, 'tcn_kernel': 5, 'dropout': 0.20435275078719473, 'classifier_hidden': 128, 'learning_rate': 0.0002749460374627859, 'weight_decay': 0.0006741074265640696, 'label_smoothing': 0.02585623456166042}
+
+Selected Run: 3
+Selected Seed: 44
+Best Epoch: 1
+
+Optuna GroupKFold Accuracy: 0.7873
+Training Accuracy: 0.9246
+Validation Accuracy: 0.8144
+Generalization Gap: 0.1102
+Testing Accuracy: 0.7642
+
+Five Run Training: 0.9342 plus or minus 0.0072
+Five Run Validation: 0.7976 plus or minus 0.0119
+Full LOGO Accuracy: 0.7719 plus or minus 0.1854
+Full LOGO Folds: 42
+
+Precision Weighted: 0.7731
+Recall Weighted: 0.7642
+F1 Weighted: 0.7663
+F1 Macro: 0.7645
+Cohen Kappa: 0.6846
+MCC: 0.6858
+ROC AUC Weighted OVR: 0.9372
+
+Optuna Time: 57.08 minutes
+Five Run Time: 5.75 minutes
+LOGO Time: 7.25 minutes
+Algorithm Total Time: 70.15 minutes

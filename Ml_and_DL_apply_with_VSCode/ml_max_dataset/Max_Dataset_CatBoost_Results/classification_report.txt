@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+class_lecture     0.9995    0.8460    0.9164      7103
+        music     0.8771    0.8916    0.8843      6257
+       normal     0.8357    0.9029    0.8680      7569
+      reading     0.8964    0.9505    0.9227      6264
+
+     accuracy                         0.8964     27193
+    macro avg     0.9022    0.8978    0.8978     27193
+ weighted avg     0.9020    0.8964    0.8970     27193

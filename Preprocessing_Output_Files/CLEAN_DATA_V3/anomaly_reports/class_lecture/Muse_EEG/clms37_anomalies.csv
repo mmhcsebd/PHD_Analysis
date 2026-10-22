@@ -1,0 +1,3 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+class_lecture,Muse EEG,clms37.csv,Gamma_AF7,391,0.45092884,0.33315239
+class_lecture,Muse EEG,clms37.csv,Gamma_AF7,1194,0.46014526,0.41478917000000004

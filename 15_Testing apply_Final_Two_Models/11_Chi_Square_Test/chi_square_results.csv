@@ -1,0 +1,3 @@
+Algorithm,Chi_Square,Degrees_of_Freedom,P_Value,Significance
+LightGBM,116865.5979906304,9,0.0,Statistically significant at alpha = 0.05
+XGBoost,114590.11966870556,9,0.0,Statistically significant at alpha = 0.05

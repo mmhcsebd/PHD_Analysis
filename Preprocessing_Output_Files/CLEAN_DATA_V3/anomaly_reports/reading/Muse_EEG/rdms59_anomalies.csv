@@ -1,0 +1,8 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms59.csv,Alpha_AF8,4417,1.6599424,0.433912585
+reading,Muse EEG,rdms59.csv,Alpha_AF8,4434,1.6802249,0.804506245
+reading,Muse EEG,rdms59.csv,Alpha_AF8,4435,1.5281224,0.937731455
+reading,Muse EEG,rdms59.csv,Beta_AF8,1155,0.88048637,0.29277319350000003
+reading,Muse EEG,rdms59.csv,Beta_AF8,1282,0.9593895,0.42394092
+reading,Muse EEG,rdms59.csv,Beta_AF8,1834,0.67850655,0.30356093500000003
+reading,Muse EEG,rdms59.csv,Gamma_AF8,2,0.44889542,-0.2185636369

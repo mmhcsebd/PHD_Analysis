@@ -1,0 +1,2 @@
+total_rows,total_columns,missing_values,duplicate_rows,participants,classes,participants_with_all_classes,class_column,participant_column,timestamp_column,numeric_features
+1080240,37,13016,0,60,4,60,Class,PersonSrial,TimeStamp,33

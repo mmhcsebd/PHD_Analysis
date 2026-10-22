@@ -1,0 +1,9 @@
+activity,folder,original_files,cleaned_files,missing_files,extra_files
+class_lecture,clms,60,60,0,0
+class_lecture,clmw,60,60,0,0
+music,mums,60,60,0,0
+music,mumw,60,60,0,0
+normal,norms,60,60,0,0
+normal,normw,60,60,0,0
+reading,rdms,60,60,0,0
+reading,rdmw,60,60,0,0

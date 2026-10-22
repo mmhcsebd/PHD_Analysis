@@ -1,0 +1,13 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+normal,Muse EEG,norms31.csv,Theta_AF8,2684,1.4428222,0.650028285
+normal,Muse EEG,norms31.csv,Alpha_AF7,4489,1.2376765,0.5571742799999999
+normal,Muse EEG,norms31.csv,Alpha_AF8,2683,1.7338578,1.056984125
+normal,Muse EEG,norms31.csv,Alpha_AF8,2684,1.7339172,0.8908043435
+normal,Muse EEG,norms31.csv,Gamma_TP9,3635,0.9600391,0.334104315
+normal,Muse EEG,norms31.csv,Gamma_AF7,1101,0.5326552,0.050568609999999986
+normal,Muse EEG,norms31.csv,Gamma_AF8,1020,0.74969393,0.16945358
+normal,Muse EEG,norms31.csv,Gamma_AF8,1646,0.6866537,-0.00795480500000001
+normal,Muse EEG,norms31.csv,Gamma_AF8,2652,0.5938979,-0.084151914
+normal,Muse EEG,norms31.csv,Gamma_AF8,3208,0.71505135,0.20370295
+normal,Muse EEG,norms31.csv,Gamma_AF8,3209,0.6138075,0.242697895
+normal,Muse EEG,norms31.csv,Gamma_AF8,3507,0.58930254,0.09298172500000002

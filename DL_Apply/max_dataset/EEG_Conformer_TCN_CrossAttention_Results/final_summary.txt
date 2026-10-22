@@ -1,0 +1,41 @@
+EEG CONFORMER + 1D TCN
+DUAL STREAM CROSS ATTENTION NETWORK
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/EEG_Conformer_TCN_CrossAttention_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Feature Count: 232
+Trainable Parameters: 530756
+
+Best Parameters: {'d_model': 96, 'num_heads': 4, 'n_conformer_blocks': 1, 'n_tcn_blocks': 2, 'conformer_kernel': 31, 'tcn_kernel': 5, 'dropout': 0.20435275078719473, 'classifier_hidden': 128, 'learning_rate': 0.0002749460374627859, 'weight_decay': 0.0006741074265640696, 'label_smoothing': 0.02585623456166042}
+
+Selected Run: 1
+Selected Seed: 42
+Best Epoch: 6
+
+Optuna GroupKFold Accuracy: 0.8597
+Training Accuracy: 0.9979
+Validation Accuracy: 0.8797
+Testing Accuracy: 0.7815
+
+Five Run Training Accuracy: 0.9979 plus or minus 0.0010
+Five Run Validation Accuracy: 0.8479 plus or minus 0.0227
+
+Full LOGO Accuracy: 0.8451 plus or minus 0.1972
+Full LOGO Folds Completed: 42
+
+Precision Weighted: 0.8020
+Recall Weighted: 0.7815
+F1 Weighted: 0.7829
+F1 Macro: 0.7863
+Cohen Kappa: 0.7092
+MCC: 0.7157
+ROC AUC Weighted OVR: 0.9539
+
+Optuna Time: 108.51 minutes
+Five Run Time This Session: 14.20 minutes
+LOGO Time This Session: 54.89 minutes
+Test Prediction Time: 1.22 seconds
+Total Execution Time: 177.82 minutes

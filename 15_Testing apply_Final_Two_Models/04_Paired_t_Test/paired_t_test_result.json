@@ -1,0 +1,9 @@
+{
+    "Statistic": 1.6915575577058666,
+    "P_Value": 0.10897839816762135,
+    "Significance": "Not statistically significant at alpha = 0.05",
+    "Mean_LightGBM_Participant_Accuracy": 0.908108196704875,
+    "Mean_XGBoost_Participant_Accuracy": 0.8981538936727745,
+    "Mean_Difference": 0.00995430303210045,
+    "Participants": 18
+}

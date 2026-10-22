@@ -1,0 +1,11 @@
+Property,Value
+Input_File,/home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V25/V25_All_Signals_21_Features.csv
+Output_File,/home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V26/08_Final_Dataset/V26_Quality_Controlled_Features.csv
+Rows,215760
+Columns,699
+Features,693
+Participant_Column,PersonSrial
+Class_Column,Class
+Window_Column,Window
+Participant_Count,60
+Class_Count,4

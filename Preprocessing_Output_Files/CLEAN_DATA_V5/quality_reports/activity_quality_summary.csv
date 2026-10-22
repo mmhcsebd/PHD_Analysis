@@ -1,0 +1,9 @@
+sensor,activity,files,missing_before,missing_after,outliers,flatline_points,corrected
+Motion Watch,class_lecture,60,4021,3917,1089,93450,815
+Motion Watch,music,60,0,0,1144,118061,899
+Motion Watch,normal,60,0,0,929,126984,713
+Motion Watch,reading,60,3903,0,1011,88755,781
+Muse,class_lecture,60,6696,3915,98674,3935478,64389
+Muse,music,60,2619,2080,123510,4384635,83078
+Muse,normal,60,45,0,110336,1863166,75001
+Muse,reading,60,4890,1835,95110,4004827,63456

@@ -1,0 +1,27 @@
+{
+    "Experiment_Signature": "fb7257467b30e117",
+    "Result_Row": {
+        "Algorithm": "LightGBM",
+        "Split_ID": "Split_01",
+        "Split_Name": "Train70_Test20_CV10",
+        "Train_Ratio": 0.7,
+        "Test_Ratio": 0.2,
+        "CV_Ratio": 0.1,
+        "Training_Participants": 42,
+        "Testing_Participants": 12,
+        "CV_Participants": 6,
+        "Training_Accuracy": 0.9999907194298018,
+        "Validation_Accuracy": 0.8968040621266428,
+        "GroupKFold_Accuracy": 0.8937891930738878,
+        "GroupKFold_STD": 0.013244982441847233,
+        "Test_Accuracy": 0.9231723746720556,
+        "Precision_Weighted": 0.927031800078751,
+        "Recall_Weighted": 0.9231723746720556,
+        "F1_Weighted": 0.9224319325399443,
+        "F1_Macro": 0.9241315029526285,
+        "MCC": 0.8987206990198089,
+        "Cohen_Kappa": 0.8968680052496915,
+        "ROC_AUC_Weighted": 0.9965703491124748,
+        "Result_Directory": "/home/rakib/Desktop/ml_apply/Final_Model_Test/LightGBM_Multiple_Split_Results/Train70_Test20_CV10"
+    }
+}

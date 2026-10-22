@@ -1,0 +1,3 @@
+Algorithm,Multiclass_Brier_Score
+LightGBM,0.08295639976681443
+XGBoost,0.09599345415011927

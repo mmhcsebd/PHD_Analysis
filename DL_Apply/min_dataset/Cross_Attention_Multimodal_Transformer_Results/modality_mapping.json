@@ -1,0 +1,46 @@
+{
+    "Grouping_Mode": "Balanced feature view fallback",
+    "Scientific_Note": "Streams represent EEG feature families or feature views, not automatically different physical sensors.",
+    "Modalities": {
+        "feature_view_1": {
+            "Feature_Count": 9,
+            "Features": [
+                "Delta_TP9__Range",
+                "Beta_TP10__Autocorrelation",
+                "Delta_AF7__RMS",
+                "Delta_TP9__Autocorrelation",
+                "Gamma_TP10__Autocorrelation",
+                "Gamma_AF7__Autocorrelation",
+                "Theta_TP9__Skewness",
+                "RAW_AF7__Autocorrelation",
+                "Alpha_TP9__Skewness"
+            ]
+        },
+        "feature_view_2": {
+            "Feature_Count": 8,
+            "Features": [
+                "Alpha_AF7__Autocorrelation",
+                "Theta_AF7__Autocorrelation",
+                "Delta_TP9__Mean_Absolute_Deviation",
+                "Gamma_TP10__Kurtosis",
+                "Theta_TP9__Standard_Deviation",
+                "Gamma_TP9__Kurtosis",
+                "Delta_AF7__Autocorrelation",
+                "RAW_TP10__Autocorrelation"
+            ]
+        },
+        "feature_view_3": {
+            "Feature_Count": 8,
+            "Features": [
+                "Beta_TP9__Standard_Deviation",
+                "Beta_TP9__Mean_Absolute_Deviation",
+                "Beta_TP10__Skewness",
+                "Delta_TP9__Standard_Deviation",
+                "Theta_TP9__IQR",
+                "Theta_TP9__Range",
+                "Theta_TP10__Autocorrelation",
+                "Alpha_TP9__IQR"
+            ]
+        }
+    }
+}

@@ -1,0 +1,50 @@
+OPTIMIZED 1D CNN
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/CNN_Results
+
+Device Type: xpu
+Device Name: Intel(R) Arc(TM) A750 Graphics
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Training Samples: 107752
+Validation Samples: 14405
+Testing Samples: 27193
+
+Best Parameters: {'n_conv_blocks': 3, 'base_filters': 64, 'kernel_size': 7, 'conv_dropout': 0.3396896099223678, 'dense_units': 64, 'dense_dropout': 0.3736932106048628, 'learning_rate': 0.00044684675025045853, 'weight_decay': 2.3233503515390116e-06, 'label_smoothing': 0.04951769101112702}
+
+Selected Run: 1
+Selected Seed: 42
+Best Epoch: 10
+
+Optuna GroupKFold Accuracy: 0.8128
+Training Accuracy: 0.9978
+Validation Accuracy: 0.8036
+Testing Accuracy: 0.8315
+
+Five Run Training Accuracy: 0.9630 plus or minus 0.0519
+Five Run Validation Accuracy: 0.7813 plus or minus 0.0144
+
+Full LOGO Accuracy: 0.7967 plus or minus 0.2149
+Full LOGO Folds Completed: 42
+
+Precision Weighted: 0.8567
+Recall Weighted: 0.8315
+F1 Weighted: 0.8322
+F1 Macro: 0.8327
+Cohen Kappa: 0.7762
+MCC: 0.7835
+ROC AUC Weighted OVR: 0.9825
+
+Optuna Time: 58.68 minutes
+Five Run Time This Session: 11.48 minutes
+LOGO Time This Session: 65.60 minutes
+Test Prediction Time: 1.08 seconds
+Total Execution Time: 135.96 minutes

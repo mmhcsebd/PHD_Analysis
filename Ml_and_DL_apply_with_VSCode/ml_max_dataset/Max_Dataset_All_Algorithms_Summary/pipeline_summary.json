@@ -1,0 +1,25 @@
+{
+    "Input_File": "/home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv",
+    "Feature_Count": 232,
+    "Classes": [
+        "class_lecture",
+        "music",
+        "normal",
+        "reading"
+    ],
+    "Training_Participants": 42,
+    "Validation_Participants": 6,
+    "Testing_Participants": 12,
+    "Training_Rows": 107752,
+    "Validation_Rows": 14405,
+    "Testing_Rows": 27193,
+    "GroupKFold_Folds": 5,
+    "Full_LOGO_Folds": 42,
+    "Selected_Overall_Model": "LightGBM",
+    "Selection_Basis": "Validation Accuracy",
+    "LightGBM_Device": "CPU",
+    "XGBoost_Device": "CPU hist",
+    "CPU_Workers": 8,
+    "Total_Execution_Time_Seconds": 3426.788528442383,
+    "Current_RAM_MB": 1962.53125
+}

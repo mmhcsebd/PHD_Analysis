@@ -1,0 +1,133 @@
+Feature,Removal_Reason
+Delta_TP9__Variance,Extreme kurtosis
+Delta_TP9__PSD_Mean,Extreme kurtosis
+Delta_TP9__PSD_Std,Extreme kurtosis
+Delta_TP9__Band_Power,Extreme kurtosis
+Delta_AF7__Variance,Extreme kurtosis
+Delta_AF7__Energy,Extreme kurtosis
+Delta_AF7__PSD_Mean,Extreme kurtosis
+Delta_AF7__PSD_Std,Extreme kurtosis
+Delta_AF7__Band_Power,Extreme kurtosis
+Delta_AF8__Variance,Extreme skewness; Extreme kurtosis
+Delta_AF8__Energy,Extreme skewness; Extreme kurtosis
+Delta_AF8__PSD_Mean,Extreme skewness; Extreme kurtosis
+Delta_AF8__PSD_Std,Extreme skewness; Extreme kurtosis
+Delta_AF8__Band_Power,Extreme skewness; Extreme kurtosis
+Delta_TP10__Variance,Extreme skewness; Extreme kurtosis
+Delta_TP10__Energy,Extreme skewness; Extreme kurtosis
+Delta_TP10__PSD_Mean,Extreme skewness; Extreme kurtosis
+Delta_TP10__PSD_Std,Extreme skewness; Extreme kurtosis
+Delta_TP10__Band_Power,Extreme skewness; Extreme kurtosis
+Theta_TP9__Variance,Extreme skewness; Extreme kurtosis
+Theta_TP9__Energy,Extreme skewness; Extreme kurtosis
+Theta_TP9__PSD_Mean,Extreme skewness; Extreme kurtosis
+Theta_TP9__PSD_Std,Extreme skewness; Extreme kurtosis
+Theta_TP9__Band_Power,Extreme skewness; Extreme kurtosis
+Theta_AF7__Variance,Extreme skewness; Extreme kurtosis
+Theta_AF7__Range,Extreme kurtosis
+Theta_AF7__Energy,Extreme kurtosis
+Theta_AF7__PSD_Mean,Extreme skewness; Extreme kurtosis
+Theta_AF7__PSD_Std,Extreme skewness; Extreme kurtosis
+Theta_AF7__Band_Power,Extreme skewness; Extreme kurtosis
+Theta_AF8__Variance,Extreme kurtosis
+Theta_AF8__PSD_Mean,Extreme kurtosis
+Theta_AF8__PSD_Std,Extreme kurtosis
+Theta_AF8__Band_Power,Extreme kurtosis
+Theta_TP10__Variance,Extreme kurtosis
+Theta_TP10__PSD_Mean,Extreme kurtosis
+Theta_TP10__PSD_Std,Extreme kurtosis
+Theta_TP10__Band_Power,Extreme kurtosis
+Alpha_TP9__Variance,Extreme skewness; Extreme kurtosis
+Alpha_TP9__Energy,Extreme kurtosis
+Alpha_TP9__PSD_Mean,Extreme skewness; Extreme kurtosis
+Alpha_TP9__PSD_Std,Extreme skewness; Extreme kurtosis
+Alpha_TP9__Band_Power,Extreme skewness; Extreme kurtosis
+Alpha_AF7__Variance,Extreme kurtosis
+Alpha_AF7__PSD_Mean,Extreme kurtosis
+Alpha_AF7__PSD_Std,Extreme kurtosis
+Alpha_AF7__Band_Power,Extreme kurtosis
+Alpha_AF8__Variance,Extreme kurtosis
+Alpha_AF8__PSD_Mean,Extreme kurtosis
+Alpha_AF8__PSD_Std,Extreme kurtosis
+Alpha_AF8__Band_Power,Extreme kurtosis
+Alpha_TP10__Variance,Extreme kurtosis
+Alpha_TP10__PSD_Mean,Extreme kurtosis
+Alpha_TP10__PSD_Std,Extreme kurtosis
+Alpha_TP10__Band_Power,Extreme kurtosis
+Beta_TP9__Variance,Extreme skewness; Extreme kurtosis
+Beta_TP9__Energy,Extreme skewness; Extreme kurtosis
+Beta_TP9__PSD_Mean,Extreme skewness; Extreme kurtosis
+Beta_TP9__PSD_Std,Extreme skewness; Extreme kurtosis
+Beta_TP9__Band_Power,Extreme skewness; Extreme kurtosis
+Beta_AF7__Variance,Extreme skewness; Extreme kurtosis
+Beta_AF7__PSD_Mean,Extreme skewness; Extreme kurtosis
+Beta_AF7__PSD_Std,Extreme skewness; Extreme kurtosis
+Beta_AF7__Band_Power,Extreme skewness; Extreme kurtosis
+Beta_AF8__Variance,Extreme kurtosis
+Beta_AF8__Energy,Extreme kurtosis
+Beta_AF8__PSD_Mean,Extreme skewness; Extreme kurtosis
+Beta_AF8__PSD_Std,Extreme kurtosis
+Beta_AF8__Band_Power,Extreme skewness; Extreme kurtosis
+Beta_TP10__Variance,Extreme kurtosis
+Beta_TP10__Energy,Extreme kurtosis
+Beta_TP10__PSD_Mean,Extreme skewness; Extreme kurtosis
+Beta_TP10__PSD_Std,Extreme skewness; Extreme kurtosis
+Beta_TP10__Band_Power,Extreme skewness; Extreme kurtosis
+Gamma_TP9__Variance,Extreme kurtosis
+Gamma_TP9__PSD_Mean,Extreme skewness; Extreme kurtosis
+Gamma_TP9__PSD_Std,Extreme kurtosis
+Gamma_TP9__Band_Power,Extreme skewness; Extreme kurtosis
+Gamma_AF7__Variance,Extreme skewness; Extreme kurtosis
+Gamma_AF7__Energy,Extreme kurtosis
+Gamma_AF7__PSD_Mean,Extreme skewness; Extreme kurtosis
+Gamma_AF7__PSD_Std,Extreme skewness; Extreme kurtosis
+Gamma_AF7__Band_Power,Extreme skewness; Extreme kurtosis
+Gamma_AF8__Variance,Extreme kurtosis
+Gamma_AF8__PSD_Mean,Extreme kurtosis
+Gamma_AF8__PSD_Std,Extreme kurtosis
+Gamma_AF8__Band_Power,Extreme kurtosis
+Gamma_TP10__Variance,Extreme kurtosis
+Gamma_TP10__PSD_Mean,Extreme kurtosis
+Gamma_TP10__PSD_Std,Extreme kurtosis
+Gamma_TP10__Band_Power,Extreme kurtosis
+RAW_TP9__Variance,Extreme skewness; Extreme kurtosis
+RAW_TP9__Energy,Extreme kurtosis
+RAW_TP9__PSD_Mean,Extreme skewness; Extreme kurtosis
+RAW_TP9__PSD_Std,Extreme skewness; Extreme kurtosis
+RAW_TP9__Band_Power,Extreme skewness; Extreme kurtosis
+RAW_AF7__Variance,Extreme kurtosis
+RAW_AF7__PSD_Mean,Extreme kurtosis
+RAW_AF7__PSD_Std,Extreme kurtosis
+RAW_AF7__Band_Power,Extreme kurtosis
+RAW_AF8__Energy,Extreme kurtosis
+RAW_AF8__PSD_Mean,Extreme kurtosis
+RAW_AF8__PSD_Std,Extreme kurtosis
+RAW_AF8__Band_Power,Extreme kurtosis
+RAW_TP10__Variance,Extreme kurtosis
+RAW_TP10__PSD_Mean,Extreme kurtosis
+RAW_TP10__PSD_Std,Extreme kurtosis
+RAW_TP10__Band_Power,Extreme kurtosis
+AUX_RIGHT__Variance,Extreme skewness; Extreme kurtosis
+AUX_RIGHT__Energy,Extreme kurtosis
+AUX_RIGHT__PSD_Mean,Extreme skewness; Extreme kurtosis
+AUX_RIGHT__PSD_Std,Extreme skewness; Extreme kurtosis
+AUX_RIGHT__Band_Power,Extreme skewness; Extreme kurtosis
+AUX_LEFT__PSD_Std,Extreme kurtosis
+Accelerometer_X__Variance,Extreme skewness; Extreme kurtosis
+Accelerometer_X__PSD_Mean,Extreme skewness; Extreme kurtosis
+Accelerometer_X__PSD_Std,Extreme skewness; Extreme kurtosis
+Accelerometer_X__Band_Power,Extreme skewness; Extreme kurtosis
+Accelerometer_Y__Variance,Extreme skewness; Extreme kurtosis
+Accelerometer_Y__Energy,Extreme kurtosis
+Accelerometer_Y__PSD_Mean,Extreme skewness; Extreme kurtosis
+Accelerometer_Y__PSD_Std,Extreme skewness; Extreme kurtosis
+Accelerometer_Y__Band_Power,Extreme skewness; Extreme kurtosis
+Accelerometer_Z__Variance,Extreme kurtosis
+Accelerometer_Z__PSD_Mean,Extreme kurtosis
+Accelerometer_Z__PSD_Std,Extreme kurtosis
+Accelerometer_Z__Band_Power,Extreme kurtosis
+Activity__Variance,Extreme skewness; Extreme kurtosis
+Activity__Energy,Extreme skewness; Extreme kurtosis
+Activity__PSD_Mean,Extreme skewness; Extreme kurtosis
+Activity__PSD_Std,Extreme skewness; Extreme kurtosis
+Activity__Band_Power,Extreme skewness; Extreme kurtosis

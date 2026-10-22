@@ -1,0 +1,8 @@
+{
+    "C": 0.041858227295469716,
+    "Penalty": "L2",
+    "Solver": "LBFGS",
+    "Maximum_Iterations": 2000,
+    "Tolerance": 0.0001,
+    "Best_GroupKFold_Accuracy": 0.7828181078888953
+}

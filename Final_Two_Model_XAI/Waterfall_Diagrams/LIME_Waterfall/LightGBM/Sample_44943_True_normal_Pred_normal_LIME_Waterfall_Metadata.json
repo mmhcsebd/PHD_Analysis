@@ -1,0 +1,11 @@
+{
+    "Model": "LightGBM",
+    "Sample_Index": 44943,
+    "Participant": "59",
+    "True_Class": "normal",
+    "Predicted_Class": "normal",
+    "Model_Probability": 0.9999923619596112,
+    "LIME_Intercept": -0.03285757143098733,
+    "Calculated_Local_Surrogate": 0.8868091961127567,
+    "LIME_Reported_Local_Prediction": 0.8868091961127567
+}

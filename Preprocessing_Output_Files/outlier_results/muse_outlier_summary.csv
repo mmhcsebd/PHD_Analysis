@@ -1,0 +1,241 @@
+Activity Class,File Name,Total Rows,Numerical Channels,Total Outlier Count,Graph
+Class Lecture,clms1.csv,5284,38,4724,./outlier_results/muse_graphs/Class_Lecture_clms1.png
+Class Lecture,clms10.csv,5368,38,10238,./outlier_results/muse_graphs/Class_Lecture_clms10.png
+Class Lecture,clms11.csv,3011,38,4823,./outlier_results/muse_graphs/Class_Lecture_clms11.png
+Class Lecture,clms12.csv,2110,38,3333,./outlier_results/muse_graphs/Class_Lecture_clms12.png
+Class Lecture,clms13.csv,1739,38,4937,./outlier_results/muse_graphs/Class_Lecture_clms13.png
+Class Lecture,clms14.csv,4132,38,5113,./outlier_results/muse_graphs/Class_Lecture_clms14.png
+Class Lecture,clms15.csv,5349,38,12614,./outlier_results/muse_graphs/Class_Lecture_clms15.png
+Class Lecture,clms16.csv,1633,38,3114,./outlier_results/muse_graphs/Class_Lecture_clms16.png
+Class Lecture,clms17.csv,2828,38,6249,./outlier_results/muse_graphs/Class_Lecture_clms17.png
+Class Lecture,clms18.csv,5565,38,7499,./outlier_results/muse_graphs/Class_Lecture_clms18.png
+Class Lecture,clms19.csv,5418,38,16537,./outlier_results/muse_graphs/Class_Lecture_clms19.png
+Class Lecture,clms2.csv,3011,38,4823,./outlier_results/muse_graphs/Class_Lecture_clms2.png
+Class Lecture,clms20.csv,2167,38,5431,./outlier_results/muse_graphs/Class_Lecture_clms20.png
+Class Lecture,clms21.csv,5644,38,5271,./outlier_results/muse_graphs/Class_Lecture_clms21.png
+Class Lecture,clms22.csv,2095,38,4916,./outlier_results/muse_graphs/Class_Lecture_clms22.png
+Class Lecture,clms23.csv,5284,38,4723,./outlier_results/muse_graphs/Class_Lecture_clms23.png
+Class Lecture,clms24.csv,5406,38,10705,./outlier_results/muse_graphs/Class_Lecture_clms24.png
+Class Lecture,clms25.csv,5261,38,8825,./outlier_results/muse_graphs/Class_Lecture_clms25.png
+Class Lecture,clms26.csv,5697,38,11761,./outlier_results/muse_graphs/Class_Lecture_clms26.png
+Class Lecture,clms27.csv,5368,38,10238,./outlier_results/muse_graphs/Class_Lecture_clms27.png
+Class Lecture,clms28.csv,5868,38,37713,./outlier_results/muse_graphs/Class_Lecture_clms28.png
+Class Lecture,clms29.csv,5285,38,4727,./outlier_results/muse_graphs/Class_Lecture_clms29.png
+Class Lecture,clms3.csv,2235,38,4634,./outlier_results/muse_graphs/Class_Lecture_clms3.png
+Class Lecture,clms30.csv,5355,38,5433,./outlier_results/muse_graphs/Class_Lecture_clms30.png
+Class Lecture,clms31.csv,2422,38,4203,./outlier_results/muse_graphs/Class_Lecture_clms31.png
+Class Lecture,clms32.csv,3482,38,5838,./outlier_results/muse_graphs/Class_Lecture_clms32.png
+Class Lecture,clms33.csv,5565,38,7499,./outlier_results/muse_graphs/Class_Lecture_clms33.png
+Class Lecture,clms34.csv,1606,38,5676,./outlier_results/muse_graphs/Class_Lecture_clms34.png
+Class Lecture,clms35.csv,5306,38,11536,./outlier_results/muse_graphs/Class_Lecture_clms35.png
+Class Lecture,clms36.csv,2419,38,3765,./outlier_results/muse_graphs/Class_Lecture_clms36.png
+Class Lecture,clms37.csv,2390,38,5291,./outlier_results/muse_graphs/Class_Lecture_clms37.png
+Class Lecture,clms38.csv,2280,38,3631,./outlier_results/muse_graphs/Class_Lecture_clms38.png
+Class Lecture,clms39.csv,5337,38,7787,./outlier_results/muse_graphs/Class_Lecture_clms39.png
+Class Lecture,clms4.csv,2167,38,5431,./outlier_results/muse_graphs/Class_Lecture_clms4.png
+Class Lecture,clms40.csv,2724,38,4595,./outlier_results/muse_graphs/Class_Lecture_clms40.png
+Class Lecture,clms41.csv,4736,38,3369,./outlier_results/muse_graphs/Class_Lecture_clms41.png
+Class Lecture,clms42.csv,5493,38,8351,./outlier_results/muse_graphs/Class_Lecture_clms42.png
+Class Lecture,clms43.csv,1633,38,3113,./outlier_results/muse_graphs/Class_Lecture_clms43.png
+Class Lecture,clms44.csv,5386,38,5962,./outlier_results/muse_graphs/Class_Lecture_clms44.png
+Class Lecture,clms45.csv,1505,38,3937,./outlier_results/muse_graphs/Class_Lecture_clms45.png
+Class Lecture,clms46.csv,5424,38,10646,./outlier_results/muse_graphs/Class_Lecture_clms46.png
+Class Lecture,clms47.csv,5339,38,11623,./outlier_results/muse_graphs/Class_Lecture_clms47.png
+Class Lecture,clms48.csv,5387,38,6589,./outlier_results/muse_graphs/Class_Lecture_clms48.png
+Class Lecture,clms49.csv,6018,38,5420,./outlier_results/muse_graphs/Class_Lecture_clms49.png
+Class Lecture,clms5.csv,5285,38,4728,./outlier_results/muse_graphs/Class_Lecture_clms5.png
+Class Lecture,clms50.csv,5285,38,4727,./outlier_results/muse_graphs/Class_Lecture_clms50.png
+Class Lecture,clms51.csv,5355,38,5433,./outlier_results/muse_graphs/Class_Lecture_clms51.png
+Class Lecture,clms52.csv,5373,38,5419,./outlier_results/muse_graphs/Class_Lecture_clms52.png
+Class Lecture,clms53.csv,5326,38,6982,./outlier_results/muse_graphs/Class_Lecture_clms53.png
+Class Lecture,clms54.csv,5153,38,6962,./outlier_results/muse_graphs/Class_Lecture_clms54.png
+Class Lecture,clms55.csv,5150,38,9271,./outlier_results/muse_graphs/Class_Lecture_clms55.png
+Class Lecture,clms56.csv,3011,38,4823,./outlier_results/muse_graphs/Class_Lecture_clms56.png
+Class Lecture,clms57.csv,5166,38,5589,./outlier_results/muse_graphs/Class_Lecture_clms57.png
+Class Lecture,clms58.csv,6751,38,11017,./outlier_results/muse_graphs/Class_Lecture_clms58.png
+Class Lecture,clms59.csv,4998,38,11503,./outlier_results/muse_graphs/Class_Lecture_clms59.png
+Class Lecture,clms6.csv,3914,38,8292,./outlier_results/muse_graphs/Class_Lecture_clms6.png
+Class Lecture,clms60.csv,5182,38,5565,./outlier_results/muse_graphs/Class_Lecture_clms60.png
+Class Lecture,clms7.csv,2437,38,5424,./outlier_results/muse_graphs/Class_Lecture_clms7.png
+Class Lecture,clms8.csv,2391,38,5052,./outlier_results/muse_graphs/Class_Lecture_clms8.png
+Class Lecture,clms9.csv,5644,38,5272,./outlier_results/muse_graphs/Class_Lecture_clms9.png
+Music,mums1.csv,5418,38,16537,./outlier_results/muse_graphs/Music_mums1.png
+Music,mums10.csv,5368,38,10238,./outlier_results/muse_graphs/Music_mums10.png
+Music,mums11.csv,5225,42,8475,./outlier_results/muse_graphs/Music_mums11.png
+Music,mums12.csv,5349,38,12614,./outlier_results/muse_graphs/Music_mums12.png
+Music,mums13.csv,4637,38,6041,./outlier_results/muse_graphs/Music_mums13.png
+Music,mums14.csv,4823,38,7021,./outlier_results/muse_graphs/Music_mums14.png
+Music,mums15.csv,5384,42,5504,./outlier_results/muse_graphs/Music_mums15.png
+Music,mums16.csv,5314,38,5037,./outlier_results/muse_graphs/Music_mums16.png
+Music,mums17.csv,5412,42,5503,./outlier_results/muse_graphs/Music_mums17.png
+Music,mums18.csv,5387,38,6589,./outlier_results/muse_graphs/Music_mums18.png
+Music,mums19.csv,5029,38,11190,./outlier_results/muse_graphs/Music_mums19.png
+Music,mums2.csv,5354,38,6162,./outlier_results/muse_graphs/Music_mums2.png
+Music,mums20.csv,5354,38,5726,./outlier_results/muse_graphs/Music_mums20.png
+Music,mums21.csv,5198,38,3673,./outlier_results/muse_graphs/Music_mums21.png
+Music,mums22.csv,5455,38,3264,./outlier_results/muse_graphs/Music_mums22.png
+Music,mums23.csv,5454,38,16592,./outlier_results/muse_graphs/Music_mums23.png
+Music,mums24.csv,5406,38,10705,./outlier_results/muse_graphs/Music_mums24.png
+Music,mums25.csv,5261,38,8825,./outlier_results/muse_graphs/Music_mums25.png
+Music,mums26.csv,5697,38,11761,./outlier_results/muse_graphs/Music_mums26.png
+Music,mums27.csv,5267,42,6718,./outlier_results/muse_graphs/Music_mums27.png
+Music,mums28.csv,5868,38,37713,./outlier_results/muse_graphs/Music_mums28.png
+Music,mums29.csv,5339,38,11623,./outlier_results/muse_graphs/Music_mums29.png
+Music,mums3.csv,5188,42,6780,./outlier_results/muse_graphs/Music_mums3.png
+Music,mums30.csv,5432,38,9461,./outlier_results/muse_graphs/Music_mums30.png
+Music,mums31.csv,6704,38,12556,./outlier_results/muse_graphs/Music_mums31.png
+Music,mums32.csv,4816,38,5131,./outlier_results/muse_graphs/Music_mums32.png
+Music,mums33.csv,5644,38,5271,./outlier_results/muse_graphs/Music_mums33.png
+Music,mums34.csv,5374,38,5760,./outlier_results/muse_graphs/Music_mums34.png
+Music,mums35.csv,5775,42,8788,./outlier_results/muse_graphs/Music_mums35.png
+Music,mums36.csv,6817,38,9365,./outlier_results/muse_graphs/Music_mums36.png
+Music,mums37.csv,5368,38,8298,./outlier_results/muse_graphs/Music_mums37.png
+Music,mums38.csv,5231,42,8549,./outlier_results/muse_graphs/Music_mums38.png
+Music,mums39.csv,5337,38,7787,./outlier_results/muse_graphs/Music_mums39.png
+Music,mums4.csv,5330,38,13900,./outlier_results/muse_graphs/Music_mums4.png
+Music,mums40.csv,5565,38,7499,./outlier_results/muse_graphs/Music_mums40.png
+Music,mums41.csv,4736,38,3369,./outlier_results/muse_graphs/Music_mums41.png
+Music,mums42.csv,5355,38,5433,./outlier_results/muse_graphs/Music_mums42.png
+Music,mums43.csv,5357,38,5955,./outlier_results/muse_graphs/Music_mums43.png
+Music,mums44.csv,5487,38,5692,./outlier_results/muse_graphs/Music_mums44.png
+Music,mums45.csv,4865,38,6229,./outlier_results/muse_graphs/Music_mums45.png
+Music,mums46.csv,5276,42,9372,./outlier_results/muse_graphs/Music_mums46.png
+Music,mums47.csv,4772,38,6137,./outlier_results/muse_graphs/Music_mums47.png
+Music,mums48.csv,5269,42,8928,./outlier_results/muse_graphs/Music_mums48.png
+Music,mums49.csv,5306,38,11536,./outlier_results/muse_graphs/Music_mums49.png
+Music,mums5.csv,5402,38,8310,./outlier_results/muse_graphs/Music_mums5.png
+Music,mums50.csv,4707,38,8048,./outlier_results/muse_graphs/Music_mums50.png
+Music,mums51.csv,4931,42,14055,./outlier_results/muse_graphs/Music_mums51.png
+Music,mums52.csv,5370,42,9631,./outlier_results/muse_graphs/Music_mums52.png
+Music,mums53.csv,5326,38,6982,./outlier_results/muse_graphs/Music_mums53.png
+Music,mums54.csv,4743,38,5416,./outlier_results/muse_graphs/Music_mums54.png
+Music,mums55.csv,5410,38,4775,./outlier_results/muse_graphs/Music_mums55.png
+Music,mums56.csv,5277,42,11232,./outlier_results/muse_graphs/Music_mums56.png
+Music,mums57.csv,6018,38,5420,./outlier_results/muse_graphs/Music_mums57.png
+Music,mums58.csv,4559,42,5192,./outlier_results/muse_graphs/Music_mums58.png
+Music,mums59.csv,5285,38,4727,./outlier_results/muse_graphs/Music_mums59.png
+Music,mums6.csv,5238,42,7753,./outlier_results/muse_graphs/Music_mums6.png
+Music,mums60.csv,5386,38,5962,./outlier_results/muse_graphs/Music_mums60.png
+Music,mums7.csv,9442,38,8646,./outlier_results/muse_graphs/Music_mums7.png
+Music,mums8.csv,5149,42,11883,./outlier_results/muse_graphs/Music_mums8.png
+Music,mums9.csv,5660,38,12078,./outlier_results/muse_graphs/Music_mums9.png
+Normal,norms1.csv,6313,38,14194,./outlier_results/muse_graphs/Normal_norms1.png
+Normal,norms10.csv,2909,38,5515,./outlier_results/muse_graphs/Normal_norms10.png
+Normal,norms11.csv,4663,38,5298,./outlier_results/muse_graphs/Normal_norms11.png
+Normal,norms12.csv,4650,38,5764,./outlier_results/muse_graphs/Normal_norms12.png
+Normal,norms13.csv,5187,38,7831,./outlier_results/muse_graphs/Normal_norms13.png
+Normal,norms14.csv,5493,38,8351,./outlier_results/muse_graphs/Normal_norms14.png
+Normal,norms15.csv,3275,38,2568,./outlier_results/muse_graphs/Normal_norms15.png
+Normal,norms16.csv,4803,38,7930,./outlier_results/muse_graphs/Normal_norms16.png
+Normal,norms17.csv,4508,38,5788,./outlier_results/muse_graphs/Normal_norms17.png
+Normal,norms18.csv,4836,38,5195,./outlier_results/muse_graphs/Normal_norms18.png
+Normal,norms19.csv,5188,38,5972,./outlier_results/muse_graphs/Normal_norms19.png
+Normal,norms2.csv,4912,38,7272,./outlier_results/muse_graphs/Normal_norms2.png
+Normal,norms20.csv,4714,38,7902,./outlier_results/muse_graphs/Normal_norms20.png
+Normal,norms21.csv,4818,38,5270,./outlier_results/muse_graphs/Normal_norms21.png
+Normal,norms22.csv,4732,38,6816,./outlier_results/muse_graphs/Normal_norms22.png
+Normal,norms23.csv,4664,38,5522,./outlier_results/muse_graphs/Normal_norms23.png
+Normal,norms24.csv,4864,38,4911,./outlier_results/muse_graphs/Normal_norms24.png
+Normal,norms25.csv,4906,38,9814,./outlier_results/muse_graphs/Normal_norms25.png
+Normal,norms26.csv,4733,38,5465,./outlier_results/muse_graphs/Normal_norms26.png
+Normal,norms27.csv,4953,38,7005,./outlier_results/muse_graphs/Normal_norms27.png
+Normal,norms28.csv,4749,38,8994,./outlier_results/muse_graphs/Normal_norms28.png
+Normal,norms29.csv,4750,38,7032,./outlier_results/muse_graphs/Normal_norms29.png
+Normal,norms3.csv,4771,38,5720,./outlier_results/muse_graphs/Normal_norms3.png
+Normal,norms30.csv,4950,38,5289,./outlier_results/muse_graphs/Normal_norms30.png
+Normal,norms31.csv,4909,38,7662,./outlier_results/muse_graphs/Normal_norms31.png
+Normal,norms32.csv,4477,42,5391,./outlier_results/muse_graphs/Normal_norms32.png
+Normal,norms33.csv,4864,38,8465,./outlier_results/muse_graphs/Normal_norms33.png
+Normal,norms34.csv,4896,38,7748,./outlier_results/muse_graphs/Normal_norms34.png
+Normal,norms35.csv,5244,38,6257,./outlier_results/muse_graphs/Normal_norms35.png
+Normal,norms36.csv,4870,38,8776,./outlier_results/muse_graphs/Normal_norms36.png
+Normal,norms37.csv,5437,38,6871,./outlier_results/muse_graphs/Normal_norms37.png
+Normal,norms38.csv,4759,38,5707,./outlier_results/muse_graphs/Normal_norms38.png
+Normal,norms39.csv,4804,38,6506,./outlier_results/muse_graphs/Normal_norms39.png
+Normal,norms4.csv,4739,38,6818,./outlier_results/muse_graphs/Normal_norms4.png
+Normal,norms40.csv,4865,38,6602,./outlier_results/muse_graphs/Normal_norms40.png
+Normal,norms41.csv,5030,38,6347,./outlier_results/muse_graphs/Normal_norms41.png
+Normal,norms42.csv,4810,38,7242,./outlier_results/muse_graphs/Normal_norms42.png
+Normal,norms43.csv,4450,38,4472,./outlier_results/muse_graphs/Normal_norms43.png
+Normal,norms44.csv,5053,38,6113,./outlier_results/muse_graphs/Normal_norms44.png
+Normal,norms45.csv,4222,42,6979,./outlier_results/muse_graphs/Normal_norms45.png
+Normal,norms46.csv,4637,38,8555,./outlier_results/muse_graphs/Normal_norms46.png
+Normal,norms47.csv,5277,38,8207,./outlier_results/muse_graphs/Normal_norms47.png
+Normal,norms48.csv,4774,38,5676,./outlier_results/muse_graphs/Normal_norms48.png
+Normal,norms49.csv,4790,38,7716,./outlier_results/muse_graphs/Normal_norms49.png
+Normal,norms5.csv,2557,38,4358,./outlier_results/muse_graphs/Normal_norms5.png
+Normal,norms50.csv,4834,38,4466,./outlier_results/muse_graphs/Normal_norms50.png
+Normal,norms51.csv,4828,38,8097,./outlier_results/muse_graphs/Normal_norms51.png
+Normal,norms52.csv,4903,38,5556,./outlier_results/muse_graphs/Normal_norms52.png
+Normal,norms53.csv,4738,38,9549,./outlier_results/muse_graphs/Normal_norms53.png
+Normal,norms54.csv,4818,38,8769,./outlier_results/muse_graphs/Normal_norms54.png
+Normal,norms55.csv,4753,38,4541,./outlier_results/muse_graphs/Normal_norms55.png
+Normal,norms56.csv,4644,38,8306,./outlier_results/muse_graphs/Normal_norms56.png
+Normal,norms57.csv,4853,38,5188,./outlier_results/muse_graphs/Normal_norms57.png
+Normal,norms58.csv,4737,38,5668,./outlier_results/muse_graphs/Normal_norms58.png
+Normal,norms59.csv,4732,38,8076,./outlier_results/muse_graphs/Normal_norms59.png
+Normal,norms6.csv,3609,38,6259,./outlier_results/muse_graphs/Normal_norms6.png
+Normal,norms60.csv,3945,38,4764,./outlier_results/muse_graphs/Normal_norms60.png
+Normal,norms7.csv,4732,38,10790,./outlier_results/muse_graphs/Normal_norms7.png
+Normal,norms8.csv,3221,38,3178,./outlier_results/muse_graphs/Normal_norms8.png
+Normal,norms9.csv,3989,38,3919,./outlier_results/muse_graphs/Normal_norms9.png
+Reading,rdms1.csv,5418,38,16537,./outlier_results/muse_graphs/Reading_rdms1.png
+Reading,rdms10.csv,2177,38,4918,./outlier_results/muse_graphs/Reading_rdms10.png
+Reading,rdms11.csv,5565,38,7499,./outlier_results/muse_graphs/Reading_rdms11.png
+Reading,rdms12.csv,2434,38,3959,./outlier_results/muse_graphs/Reading_rdms12.png
+Reading,rdms13.csv,2094,38,4446,./outlier_results/muse_graphs/Reading_rdms13.png
+Reading,rdms14.csv,4132,38,5112,./outlier_results/muse_graphs/Reading_rdms14.png
+Reading,rdms15.csv,3275,38,2568,./outlier_results/muse_graphs/Reading_rdms15.png
+Reading,rdms16.csv,2132,38,4687,./outlier_results/muse_graphs/Reading_rdms16.png
+Reading,rdms17.csv,2421,38,4965,./outlier_results/muse_graphs/Reading_rdms17.png
+Reading,rdms18.csv,5418,38,16537,./outlier_results/muse_graphs/Reading_rdms18.png
+Reading,rdms19.csv,5029,38,11190,./outlier_results/muse_graphs/Reading_rdms19.png
+Reading,rdms2.csv,5354,38,6163,./outlier_results/muse_graphs/Reading_rdms2.png
+Reading,rdms20.csv,2667,38,5081,./outlier_results/muse_graphs/Reading_rdms20.png
+Reading,rdms21.csv,4637,38,6041,./outlier_results/muse_graphs/Reading_rdms21.png
+Reading,rdms22.csv,2278,38,4068,./outlier_results/muse_graphs/Reading_rdms22.png
+Reading,rdms23.csv,5565,38,7499,./outlier_results/muse_graphs/Reading_rdms23.png
+Reading,rdms24.csv,5644,38,5271,./outlier_results/muse_graphs/Reading_rdms24.png
+Reading,rdms25.csv,5644,38,5271,./outlier_results/muse_graphs/Reading_rdms25.png
+Reading,rdms26.csv,5493,38,8351,./outlier_results/muse_graphs/Reading_rdms26.png
+Reading,rdms27.csv,5418,38,16537,./outlier_results/muse_graphs/Reading_rdms27.png
+Reading,rdms28.csv,5418,38,16537,./outlier_results/muse_graphs/Reading_rdms28.png
+Reading,rdms29.csv,5306,38,11536,./outlier_results/muse_graphs/Reading_rdms29.png
+Reading,rdms3.csv,2239,38,5238,./outlier_results/muse_graphs/Reading_rdms3.png
+Reading,rdms30.csv,5432,38,9461,./outlier_results/muse_graphs/Reading_rdms30.png
+Reading,rdms31.csv,1468,38,4422,./outlier_results/muse_graphs/Reading_rdms31.png
+Reading,rdms32.csv,3482,38,5838,./outlier_results/muse_graphs/Reading_rdms32.png
+Reading,rdms33.csv,5644,38,5271,./outlier_results/muse_graphs/Reading_rdms33.png
+Reading,rdms34.csv,5374,38,5760,./outlier_results/muse_graphs/Reading_rdms34.png
+Reading,rdms35.csv,5375,38,17199,./outlier_results/muse_graphs/Reading_rdms35.png
+Reading,rdms36.csv,1930,38,4406,./outlier_results/muse_graphs/Reading_rdms36.png
+Reading,rdms37.csv,1454,38,5002,./outlier_results/muse_graphs/Reading_rdms37.png
+Reading,rdms38.csv,5349,38,12614,./outlier_results/muse_graphs/Reading_rdms38.png
+Reading,rdms39.csv,3275,38,2568,./outlier_results/muse_graphs/Reading_rdms39.png
+Reading,rdms4.csv,5565,38,7499,./outlier_results/muse_graphs/Reading_rdms4.png
+Reading,rdms40.csv,1830,38,2182,./outlier_results/muse_graphs/Reading_rdms40.png
+Reading,rdms41.csv,4736,38,3369,./outlier_results/muse_graphs/Reading_rdms41.png
+Reading,rdms42.csv,2177,38,4918,./outlier_results/muse_graphs/Reading_rdms42.png
+Reading,rdms43.csv,5493,38,8351,./outlier_results/muse_graphs/Reading_rdms43.png
+Reading,rdms44.csv,4912,38,7272,./outlier_results/muse_graphs/Reading_rdms44.png
+Reading,rdms45.csv,3103,38,7306,./outlier_results/muse_graphs/Reading_rdms45.png
+Reading,rdms46.csv,5368,38,8298,./outlier_results/muse_graphs/Reading_rdms46.png
+Reading,rdms47.csv,5285,38,4727,./outlier_results/muse_graphs/Reading_rdms47.png
+Reading,rdms48.csv,5454,38,16592,./outlier_results/muse_graphs/Reading_rdms48.png
+Reading,rdms49.csv,5339,38,11623,./outlier_results/muse_graphs/Reading_rdms49.png
+Reading,rdms5.csv,5402,38,8310,./outlier_results/muse_graphs/Reading_rdms5.png
+Reading,rdms50.csv,5285,38,4727,./outlier_results/muse_graphs/Reading_rdms50.png
+Reading,rdms51.csv,5355,38,5433,./outlier_results/muse_graphs/Reading_rdms51.png
+Reading,rdms52.csv,5493,38,8351,./outlier_results/muse_graphs/Reading_rdms52.png
+Reading,rdms53.csv,5354,38,6162,./outlier_results/muse_graphs/Reading_rdms53.png
+Reading,rdms54.csv,4774,38,5676,./outlier_results/muse_graphs/Reading_rdms54.png
+Reading,rdms55.csv,4508,38,5788,./outlier_results/muse_graphs/Reading_rdms55.png
+Reading,rdms56.csv,4663,38,5298,./outlier_results/muse_graphs/Reading_rdms56.png
+Reading,rdms57.csv,2909,38,5515,./outlier_results/muse_graphs/Reading_rdms57.png
+Reading,rdms58.csv,4790,38,7716,./outlier_results/muse_graphs/Reading_rdms58.png
+Reading,rdms59.csv,4772,38,6137,./outlier_results/muse_graphs/Reading_rdms59.png
+Reading,rdms6.csv,3914,38,8292,./outlier_results/muse_graphs/Reading_rdms6.png
+Reading,rdms60.csv,5386,38,5962,./outlier_results/muse_graphs/Reading_rdms60.png
+Reading,rdms7.csv,2233,38,5517,./outlier_results/muse_graphs/Reading_rdms7.png
+Reading,rdms8.csv,2138,38,4881,./outlier_results/muse_graphs/Reading_rdms8.png
+Reading,rdms9.csv,5644,38,5271,./outlier_results/muse_graphs/Reading_rdms9.png

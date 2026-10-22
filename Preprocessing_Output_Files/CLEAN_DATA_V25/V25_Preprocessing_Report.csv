@@ -1,0 +1,27 @@
+Parameter,Value
+Input file,/home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V23_REVISED/V23_Revised_Cleaned_All_Classes_All_Persons.csv
+Output file,/home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V25/V25_All_Signals_21_Features.csv
+Original rows,1080240
+Original columns,36
+Number of participants,60
+Number of classes,4
+Participant × class segments,240
+Number of individual signals,33
+Features per signal,21
+Total extracted feature columns,693
+Sampling interval seconds,1.0
+Sampling rate Hz,1.0
+Wavelet,db4
+Wavelet level,
+Normalization,Z Score
+Target window seconds,10.0
+Window samples,10
+Actual window seconds,10.0
+Overlap percent,50.0
+Step samples,5
+Actual step seconds,5.0
+Total generated windows,215760
+Skipped windows,0
+Missing feature values,3364996
+Final rows,215760
+Final columns,699

@@ -1,0 +1,8 @@
+{
+    "criterion": "entropy",
+    "max_depth": 23,
+    "min_samples_split": 37,
+    "min_samples_leaf": 24,
+    "max_features": "sqrt",
+    "ccp_alpha": 0.0038842777547031426
+}

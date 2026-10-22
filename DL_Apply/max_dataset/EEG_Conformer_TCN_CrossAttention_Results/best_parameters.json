@@ -1,0 +1,13 @@
+{
+    "d_model": 96,
+    "num_heads": 4,
+    "n_conformer_blocks": 1,
+    "n_tcn_blocks": 2,
+    "conformer_kernel": 31,
+    "tcn_kernel": 5,
+    "dropout": 0.20435275078719473,
+    "classifier_hidden": 128,
+    "learning_rate": 0.0002749460374627859,
+    "weight_decay": 0.0006741074265640696,
+    "label_smoothing": 0.02585623456166042
+}

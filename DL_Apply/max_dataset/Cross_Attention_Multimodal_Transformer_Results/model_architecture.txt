@@ -1,0 +1,83 @@
+CrossAttentionMultimodalTransformer(
+  (tokenizers): ModuleList(
+    (0-2): 3 x FeatureTokenizer(
+      (tokenizer): Sequential(
+        (0): Conv1d(1, 96, kernel_size=(3,), stride=(4,), padding=(1,), bias=False)
+        (1): BatchNorm1d(96, eps=1e-05, momentum=0.1, affine=True, bias=True, track_running_stats=True)
+        (2): GELU(approximate='none')
+        (3): Dropout(p=0.31518264581408584, inplace=False)
+      )
+      (position): SinusoidalPositionEncoding()
+    )
+  )
+  (self_encoders): ModuleList(
+    (0-2): 3 x ModuleList(
+      (0-1): 2 x TransformerBlock(
+        (attention_norm): LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+        (attention): MultiHeadAttention(
+          (query_projection): Linear(in_features=96, out_features=96, bias=True)
+          (key_projection): Linear(in_features=96, out_features=96, bias=True)
+          (value_projection): Linear(in_features=96, out_features=96, bias=True)
+          (output_projection): Linear(in_features=96, out_features=96, bias=True)
+          (attention_dropout): Dropout(p=0.31518264581408584, inplace=False)
+          (output_dropout): Dropout(p=0.31518264581408584, inplace=False)
+        )
+        (ffn_norm): LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+        (ffn): FeedForward(
+          (network): Sequential(
+            (0): Linear(in_features=96, out_features=384, bias=True)
+            (1): GELU(approximate='none')
+            (2): Dropout(p=0.31518264581408584, inplace=False)
+            (3): Linear(in_features=384, out_features=96, bias=True)
+            (4): Dropout(p=0.31518264581408584, inplace=False)
+          )
+        )
+      )
+    )
+  )
+  (cross_layers): ModuleList(
+    (0-1): 2 x CrossModalAttentionLayer(
+      (query_norms): ModuleList(
+        (0-2): 3 x LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+      )
+      (context_norms): ModuleList(
+        (0-2): 3 x LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+      )
+      (cross_attentions): ModuleList(
+        (0-2): 3 x MultiHeadAttention(
+          (query_projection): Linear(in_features=96, out_features=96, bias=True)
+          (key_projection): Linear(in_features=96, out_features=96, bias=True)
+          (value_projection): Linear(in_features=96, out_features=96, bias=True)
+          (output_projection): Linear(in_features=96, out_features=96, bias=True)
+          (attention_dropout): Dropout(p=0.31518264581408584, inplace=False)
+          (output_dropout): Dropout(p=0.31518264581408584, inplace=False)
+        )
+      )
+      (output_norms): ModuleList(
+        (0-2): 3 x LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+      )
+      (feedforward_norms): ModuleList(
+        (0-2): 3 x LayerNorm((96,), eps=1e-05, elementwise_affine=True, bias=True)
+      )
+      (feedforwards): ModuleList(
+        (0-2): 3 x FeedForward(
+          (network): Sequential(
+            (0): Linear(in_features=96, out_features=384, bias=True)
+            (1): GELU(approximate='none')
+            (2): Dropout(p=0.31518264581408584, inplace=False)
+            (3): Linear(in_features=384, out_features=96, bias=True)
+            (4): Dropout(p=0.31518264581408584, inplace=False)
+          )
+        )
+      )
+      (dropout): Dropout(p=0.31518264581408584, inplace=False)
+    )
+  )
+  (classifier): Sequential(
+    (0): LayerNorm((480,), eps=1e-05, elementwise_affine=True, bias=True)
+    (1): Linear(in_features=480, out_features=256, bias=True)
+    (2): GELU(approximate='none')
+    (3): Dropout(p=0.31518264581408584, inplace=False)
+    (4): Linear(in_features=256, out_features=4, bias=True)
+  )
+)

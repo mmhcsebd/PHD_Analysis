@@ -1,0 +1,9 @@
+{
+    "Model": "LightGBM",
+    "Sample_Index": 44943,
+    "PersonSrial": "59",
+    "Case_Type": "Correct_High_Confidence",
+    "True_Class": "normal",
+    "Predicted_Class": "normal",
+    "Prediction_Confidence": 0.9999923619596113
+}

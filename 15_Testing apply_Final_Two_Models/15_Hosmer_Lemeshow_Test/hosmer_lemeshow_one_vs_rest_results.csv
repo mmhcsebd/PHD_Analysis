@@ -1,0 +1,9 @@
+Algorithm,Class,HL_Statistic,Degrees_of_Freedom,P_Value,Method,Bonferroni_Adjusted_P,Significance_After_Bonferroni
+LightGBM,class_lecture,225.90657804527956,8,2.173402280786241e-44,One versus rest multiclass extension,8.693609123144964e-44,Statistically significant at alpha = 0.05
+LightGBM,music,68.85945465624258,8,8.28643574363918e-12,One versus rest multiclass extension,3.314574297455672e-11,Statistically significant at alpha = 0.05
+LightGBM,normal,107.78145844018135,8,1.0872686805306228e-19,One versus rest multiclass extension,4.349074722122491e-19,Statistically significant at alpha = 0.05
+LightGBM,reading,430.22696398248326,8,6.358052373715235e-88,One versus rest multiclass extension,2.543220949486094e-87,Statistically significant at alpha = 0.05
+XGBoost,class_lecture,2706.038304256409,8,0.0,One versus rest multiclass extension,0.0,Statistically significant at alpha = 0.05
+XGBoost,music,1128.2802783750012,8,2.9879396901409567e-238,One versus rest multiclass extension,1.1951758760563827e-237,Statistically significant at alpha = 0.05
+XGBoost,normal,1455.357799784025,8,6.06078624085796e-309,One versus rest multiclass extension,2.4243144963431845e-308,Statistically significant at alpha = 0.05
+XGBoost,reading,1115.3264814357933,8,1.8760094164996024e-235,One versus rest multiclass extension,7.50403766599841e-235,Statistically significant at alpha = 0.05

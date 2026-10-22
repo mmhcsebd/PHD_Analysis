@@ -1,0 +1,22 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+class_lecture,Muse EEG,clms45.csv,Alpha_TP9,962,3.5715926,2.4855510499999998
+class_lecture,Muse EEG,clms45.csv,Alpha_TP9,963,3.5715926,2.4512338
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,134,2.9970737,1.3365418
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,205,3.5319092,2.2132109
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,368,2.6351676,0.477516571
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,392,2.7277575,2.1112399
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,398,3.282832,2.7745135
+class_lecture,Muse EEG,clms45.csv,Alpha_AF7,399,3.4078608,2.6628636500000002
+class_lecture,Muse EEG,clms45.csv,Alpha_AF8,368,2.6247451,1.490829615
+class_lecture,Muse EEG,clms45.csv,Alpha_AF8,654,2.4151785,1.1569283000000001
+class_lecture,Muse EEG,clms45.csv,Beta_TP9,962,2.868379,1.9759799
+class_lecture,Muse EEG,clms45.csv,Beta_TP9,963,2.8752406,1.87648377
+class_lecture,Muse EEG,clms45.csv,Beta_AF7,105,1.9212914,1.12637085
+class_lecture,Muse EEG,clms45.csv,Beta_AF7,134,2.0627313,0.368936315
+class_lecture,Muse EEG,clms45.csv,Beta_AF7,205,2.314506,1.58028425
+class_lecture,Muse EEG,clms45.csv,Beta_AF7,398,2.394547,1.96602085
+class_lecture,Muse EEG,clms45.csv,Beta_AF7,399,2.7069352,1.8451898
+class_lecture,Muse EEG,clms45.csv,Gamma_AF7,205,1.8526754,0.986402775
+class_lecture,Muse EEG,clms45.csv,Gamma_AF7,398,1.898008,1.40745815
+class_lecture,Muse EEG,clms45.csv,Gamma_AF7,399,2.2093039,1.2838629849999998
+class_lecture,Muse EEG,clms45.csv,Gamma_AF8,534,2.298899,0.909068345

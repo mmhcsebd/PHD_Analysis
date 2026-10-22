@@ -1,0 +1,10 @@
+{
+    "Method": "Friedman Test",
+    "Status": "Not Applicable",
+    "Reason": "The Friedman test requires three or more related algorithms or treatments for a meaningful algorithm comparison. The current experiment contains only LightGBM and XGBoost. Therefore the Friedman test is not performed.",
+    "Number_of_Models": 2,
+    "Models": [
+        "LightGBM",
+        "XGBoost"
+    ]
+}

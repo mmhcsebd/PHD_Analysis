@@ -1,0 +1,36 @@
+LOGISTIC REGRESSION FINAL RESULTS
+MAX DATASET
+
+Input: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_Logistic_Regression_Results
+
+Best C: 0.041858227295469716
+Penalty: L2
+Solver: LBFGS
+Maximum Iterations: 2000
+Tolerance: 0.0001
+
+Optuna GroupKFold Accuracy: 0.7828
+Training Accuracy: 0.9829
+Validation Accuracy: 0.8749
+Testing Accuracy: 0.7723
+
+Five Run Training: 0.9829 plus or minus 0.0000
+Five Run Validation: 0.8749 plus or minus 0.0000
+
+Full LOGO Accuracy: 0.7912 plus or minus 0.2198
+Full LOGO Folds: 42
+
+Precision Weighted: 0.7939
+Recall Weighted: 0.7723
+F1 Weighted: 0.7756
+F1 Macro: 0.7806
+Cohen Kappa: 0.6968
+MCC: 0.7022
+ROC AUC Weighted OVR: 0.8979
+
+Optuna Time: 17.85 minutes
+Learning Curve Time: 4.83 minutes
+Five Run Time: 1.45 minutes
+Full LOGO Time This Session: 12.93 minutes
+Total Execution Time: 37.24 minutes

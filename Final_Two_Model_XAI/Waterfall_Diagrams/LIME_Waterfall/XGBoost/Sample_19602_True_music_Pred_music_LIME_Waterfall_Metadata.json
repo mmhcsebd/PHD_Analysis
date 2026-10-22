@@ -1,0 +1,11 @@
+{
+    "Model": "XGBoost",
+    "Sample_Index": 19602,
+    "Participant": "34",
+    "True_Class": "music",
+    "Predicted_Class": "music",
+    "Model_Probability": 0.9999992847442628,
+    "LIME_Intercept": 0.2160275967972486,
+    "Calculated_Local_Surrogate": 0.9715779358925267,
+    "LIME_Reported_Local_Prediction": 0.9715779358925266
+}

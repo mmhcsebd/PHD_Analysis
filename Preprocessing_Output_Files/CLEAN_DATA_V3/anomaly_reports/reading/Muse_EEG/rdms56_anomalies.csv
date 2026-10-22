@@ -1,0 +1,4 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms56.csv,Gamma_TP9,452,0.63699675,0.029840774999999986
+reading,Muse EEG,rdms56.csv,Gamma_TP9,546,0.5296991,-0.00842958499999999
+reading,Muse EEG,rdms56.csv,Gamma_TP9,4024,0.7000732,0.44649546

@@ -1,0 +1,241 @@
+Activity Class,File Name,Total Rows,Numeric Channels,Outlier Count
+Class Lecture,clms1.csv,5284,38,4724
+Class Lecture,clms10.csv,5368,38,10238
+Class Lecture,clms11.csv,3011,38,4823
+Class Lecture,clms12.csv,2110,38,3333
+Class Lecture,clms13.csv,1739,38,4937
+Class Lecture,clms14.csv,4132,38,5113
+Class Lecture,clms15.csv,5349,38,12614
+Class Lecture,clms16.csv,1633,38,3114
+Class Lecture,clms17.csv,2828,38,6249
+Class Lecture,clms18.csv,5565,38,7499
+Class Lecture,clms19.csv,5418,38,16537
+Class Lecture,clms2.csv,3011,38,4823
+Class Lecture,clms20.csv,2167,38,5431
+Class Lecture,clms21.csv,5644,38,5271
+Class Lecture,clms22.csv,2095,38,4916
+Class Lecture,clms23.csv,5284,38,4723
+Class Lecture,clms24.csv,5406,38,10705
+Class Lecture,clms25.csv,5261,38,8825
+Class Lecture,clms26.csv,5697,38,11761
+Class Lecture,clms27.csv,5368,38,10238
+Class Lecture,clms28.csv,5868,38,37713
+Class Lecture,clms29.csv,5285,38,4727
+Class Lecture,clms3.csv,2235,38,4634
+Class Lecture,clms30.csv,5355,38,5433
+Class Lecture,clms31.csv,2422,38,4203
+Class Lecture,clms32.csv,3482,38,5838
+Class Lecture,clms33.csv,5565,38,7499
+Class Lecture,clms34.csv,1606,38,5676
+Class Lecture,clms35.csv,5306,38,11536
+Class Lecture,clms36.csv,2419,38,3765
+Class Lecture,clms37.csv,2390,38,5291
+Class Lecture,clms38.csv,2280,38,3631
+Class Lecture,clms39.csv,5337,38,7787
+Class Lecture,clms4.csv,2167,38,5431
+Class Lecture,clms40.csv,2724,38,4595
+Class Lecture,clms41.csv,4736,38,3369
+Class Lecture,clms42.csv,5493,38,8351
+Class Lecture,clms43.csv,1633,38,3113
+Class Lecture,clms44.csv,5386,38,5962
+Class Lecture,clms45.csv,1505,38,3937
+Class Lecture,clms46.csv,5424,38,10646
+Class Lecture,clms47.csv,5339,38,11623
+Class Lecture,clms48.csv,5387,38,6589
+Class Lecture,clms49.csv,6018,38,5420
+Class Lecture,clms5.csv,5285,38,4728
+Class Lecture,clms50.csv,5285,38,4727
+Class Lecture,clms51.csv,5355,38,5433
+Class Lecture,clms52.csv,5373,38,5419
+Class Lecture,clms53.csv,5326,38,6982
+Class Lecture,clms54.csv,5153,38,6962
+Class Lecture,clms55.csv,5150,38,9271
+Class Lecture,clms56.csv,3011,38,4823
+Class Lecture,clms57.csv,5166,38,5589
+Class Lecture,clms58.csv,6751,38,11017
+Class Lecture,clms59.csv,4998,38,11503
+Class Lecture,clms6.csv,3914,38,8292
+Class Lecture,clms60.csv,5182,38,5565
+Class Lecture,clms7.csv,2437,38,5424
+Class Lecture,clms8.csv,2391,38,5052
+Class Lecture,clms9.csv,5644,38,5272
+Music,mums1.csv,5418,38,16537
+Music,mums10.csv,5368,38,10238
+Music,mums11.csv,5225,42,8475
+Music,mums12.csv,5349,38,12614
+Music,mums13.csv,4637,38,6041
+Music,mums14.csv,4823,38,7021
+Music,mums15.csv,5384,42,5504
+Music,mums16.csv,5314,38,5037
+Music,mums17.csv,5412,42,5503
+Music,mums18.csv,5387,38,6589
+Music,mums19.csv,5029,38,11190
+Music,mums2.csv,5354,38,6162
+Music,mums20.csv,5354,38,5726
+Music,mums21.csv,5198,38,3673
+Music,mums22.csv,5455,38,3264
+Music,mums23.csv,5454,38,16592
+Music,mums24.csv,5406,38,10705
+Music,mums25.csv,5261,38,8825
+Music,mums26.csv,5697,38,11761
+Music,mums27.csv,5267,42,6718
+Music,mums28.csv,5868,38,37713
+Music,mums29.csv,5339,38,11623
+Music,mums3.csv,5188,42,6780
+Music,mums30.csv,5432,38,9461
+Music,mums31.csv,6704,38,12556
+Music,mums32.csv,4816,38,5131
+Music,mums33.csv,5644,38,5271
+Music,mums34.csv,5374,38,5760
+Music,mums35.csv,5775,42,8788
+Music,mums36.csv,6817,38,9365
+Music,mums37.csv,5368,38,8298
+Music,mums38.csv,5231,42,8549
+Music,mums39.csv,5337,38,7787
+Music,mums4.csv,5330,38,13900
+Music,mums40.csv,5565,38,7499
+Music,mums41.csv,4736,38,3369
+Music,mums42.csv,5355,38,5433
+Music,mums43.csv,5357,38,5955
+Music,mums44.csv,5487,38,5692
+Music,mums45.csv,4865,38,6229
+Music,mums46.csv,5276,42,9372
+Music,mums47.csv,4772,38,6137
+Music,mums48.csv,5269,42,8928
+Music,mums49.csv,5306,38,11536
+Music,mums5.csv,5402,38,8310
+Music,mums50.csv,4707,38,8048
+Music,mums51.csv,4931,42,14055
+Music,mums52.csv,5370,42,9631
+Music,mums53.csv,5326,38,6982
+Music,mums54.csv,4743,38,5416
+Music,mums55.csv,5410,38,4775
+Music,mums56.csv,5277,42,11232
+Music,mums57.csv,6018,38,5420
+Music,mums58.csv,4559,42,5192
+Music,mums59.csv,5285,38,4727
+Music,mums6.csv,5238,42,7753
+Music,mums60.csv,5386,38,5962
+Music,mums7.csv,9442,38,8646
+Music,mums8.csv,5149,42,11883
+Music,mums9.csv,5660,38,12078
+Normal,norms1.csv,6313,38,14194
+Normal,norms10.csv,2909,38,5515
+Normal,norms11.csv,4663,38,5298
+Normal,norms12.csv,4650,38,5764
+Normal,norms13.csv,5187,38,7831
+Normal,norms14.csv,5493,38,8351
+Normal,norms15.csv,3275,38,2568
+Normal,norms16.csv,4803,38,7930
+Normal,norms17.csv,4508,38,5788
+Normal,norms18.csv,4836,38,5195
+Normal,norms19.csv,5188,38,5972
+Normal,norms2.csv,4912,38,7272
+Normal,norms20.csv,4714,38,7902
+Normal,norms21.csv,4818,38,5270
+Normal,norms22.csv,4732,38,6816
+Normal,norms23.csv,4664,38,5522
+Normal,norms24.csv,4864,38,4911
+Normal,norms25.csv,4906,38,9814
+Normal,norms26.csv,4733,38,5465
+Normal,norms27.csv,4953,38,7005
+Normal,norms28.csv,4749,38,8994
+Normal,norms29.csv,4750,38,7032
+Normal,norms3.csv,4771,38,5720
+Normal,norms30.csv,4950,38,5289
+Normal,norms31.csv,4909,38,7662
+Normal,norms32.csv,4477,42,5391
+Normal,norms33.csv,4864,38,8465
+Normal,norms34.csv,4896,38,7748
+Normal,norms35.csv,5244,38,6257
+Normal,norms36.csv,4870,38,8776
+Normal,norms37.csv,5437,38,6871
+Normal,norms38.csv,4759,38,5707
+Normal,norms39.csv,4804,38,6506
+Normal,norms4.csv,4739,38,6818
+Normal,norms40.csv,4865,38,6602
+Normal,norms41.csv,5030,38,6347
+Normal,norms42.csv,4810,38,7242
+Normal,norms43.csv,4450,38,4472
+Normal,norms44.csv,5053,38,6113
+Normal,norms45.csv,4222,42,6979
+Normal,norms46.csv,4637,38,8555
+Normal,norms47.csv,5277,38,8207
+Normal,norms48.csv,4774,38,5676
+Normal,norms49.csv,4790,38,7716
+Normal,norms5.csv,2557,38,4358
+Normal,norms50.csv,4834,38,4466
+Normal,norms51.csv,4828,38,8097
+Normal,norms52.csv,4903,38,5556
+Normal,norms53.csv,4738,38,9549
+Normal,norms54.csv,4818,38,8769
+Normal,norms55.csv,4753,38,4541
+Normal,norms56.csv,4644,38,8306
+Normal,norms57.csv,4853,38,5188
+Normal,norms58.csv,4737,38,5668
+Normal,norms59.csv,4732,38,8076
+Normal,norms6.csv,3609,38,6259
+Normal,norms60.csv,3945,38,4764
+Normal,norms7.csv,4732,38,10790
+Normal,norms8.csv,3221,38,3178
+Normal,norms9.csv,3989,38,3919
+Reading,rdms1.csv,5418,38,16537
+Reading,rdms10.csv,2177,38,4918
+Reading,rdms11.csv,5565,38,7499
+Reading,rdms12.csv,2434,38,3959
+Reading,rdms13.csv,2094,38,4446
+Reading,rdms14.csv,4132,38,5112
+Reading,rdms15.csv,3275,38,2568
+Reading,rdms16.csv,2132,38,4687
+Reading,rdms17.csv,2421,38,4965
+Reading,rdms18.csv,5418,38,16537
+Reading,rdms19.csv,5029,38,11190
+Reading,rdms2.csv,5354,38,6163
+Reading,rdms20.csv,2667,38,5081
+Reading,rdms21.csv,4637,38,6041
+Reading,rdms22.csv,2278,38,4068
+Reading,rdms23.csv,5565,38,7499
+Reading,rdms24.csv,5644,38,5271
+Reading,rdms25.csv,5644,38,5271
+Reading,rdms26.csv,5493,38,8351
+Reading,rdms27.csv,5418,38,16537
+Reading,rdms28.csv,5418,38,16537
+Reading,rdms29.csv,5306,38,11536
+Reading,rdms3.csv,2239,38,5238
+Reading,rdms30.csv,5432,38,9461
+Reading,rdms31.csv,1468,38,4422
+Reading,rdms32.csv,3482,38,5838
+Reading,rdms33.csv,5644,38,5271
+Reading,rdms34.csv,5374,38,5760
+Reading,rdms35.csv,5375,38,17199
+Reading,rdms36.csv,1930,38,4406
+Reading,rdms37.csv,1454,38,5002
+Reading,rdms38.csv,5349,38,12614
+Reading,rdms39.csv,3275,38,2568
+Reading,rdms4.csv,5565,38,7499
+Reading,rdms40.csv,1830,38,2182
+Reading,rdms41.csv,4736,38,3369
+Reading,rdms42.csv,2177,38,4918
+Reading,rdms43.csv,5493,38,8351
+Reading,rdms44.csv,4912,38,7272
+Reading,rdms45.csv,3103,38,7306
+Reading,rdms46.csv,5368,38,8298
+Reading,rdms47.csv,5285,38,4727
+Reading,rdms48.csv,5454,38,16592
+Reading,rdms49.csv,5339,38,11623
+Reading,rdms5.csv,5402,38,8310
+Reading,rdms50.csv,5285,38,4727
+Reading,rdms51.csv,5355,38,5433
+Reading,rdms52.csv,5493,38,8351
+Reading,rdms53.csv,5354,38,6162
+Reading,rdms54.csv,4774,38,5676
+Reading,rdms55.csv,4508,38,5788
+Reading,rdms56.csv,4663,38,5298
+Reading,rdms57.csv,2909,38,5515
+Reading,rdms58.csv,4790,38,7716
+Reading,rdms59.csv,4772,38,6137
+Reading,rdms6.csv,3914,38,8292
+Reading,rdms60.csv,5386,38,5962
+Reading,rdms7.csv,2233,38,5517
+Reading,rdms8.csv,2138,38,4881
+Reading,rdms9.csv,5644,38,5271

@@ -1,0 +1,16 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms58.csv,Beta_AF7,3942,0.773032,0.42579563499999995
+reading,Muse EEG,rdms58.csv,Beta_AF7,4038,0.75311047,0.2064150625
+reading,Muse EEG,rdms58.csv,Beta_AF8,737,0.76821864,0.53493967
+reading,Muse EEG,rdms58.csv,Beta_AF8,738,1.0144668,0.42112047999999996
+reading,Muse EEG,rdms58.csv,Beta_AF8,4038,0.8602324,0.35328613999999997
+reading,Muse EEG,rdms58.csv,Gamma_AF7,3929,0.39316294,-0.006863984
+reading,Muse EEG,rdms58.csv,Gamma_AF7,3942,0.72156936,0.24254732
+reading,Muse EEG,rdms58.csv,Gamma_AF7,3980,0.42071453,0.152010389
+reading,Muse EEG,rdms58.csv,Gamma_AF7,4038,0.4109739,0.032778175
+reading,Muse EEG,rdms58.csv,Gamma_AF7,4063,0.518001,0.029184729999999992
+reading,Muse EEG,rdms58.csv,Gamma_AF8,738,0.4890081,0.027262764999999994
+reading,Muse EEG,rdms58.csv,Gamma_AF8,1967,0.40628266,-0.144783245
+reading,Muse EEG,rdms58.csv,Gamma_AF8,2117,0.66109526,0.0688890025
+reading,Muse EEG,rdms58.csv,Gamma_AF8,3346,0.6628529,0.432043865
+reading,Muse EEG,rdms58.csv,Gamma_AF8,3932,0.38846478,-0.31863712

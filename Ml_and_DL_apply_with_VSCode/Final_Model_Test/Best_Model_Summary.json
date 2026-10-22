@@ -1,0 +1,8 @@
+{
+    "Best_Overall_Model": "XGBoost",
+    "Selection_Basis": "Mean Test Accuracy across all five requested split ratios",
+    "Overall_Test_Accuracy": 0.9278568673484697,
+    "Best_Single_Configuration_Model": "LightGBM",
+    "Best_Single_Configuration_Split": "Train60_Test30_CV10",
+    "Best_Single_Test_Accuracy": 0.9414816760803888
+}

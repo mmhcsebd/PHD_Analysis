@@ -1,0 +1,12 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+music,Muse EEG,mums52.csv,Alpha_AF7,2209,1.4262607,0.8577216999999999
+music,Muse EEG,mums52.csv,Beta_AF7,1648,0.60364056,0.252714844
+music,Muse EEG,mums52.csv,Beta_AF7,2133,0.5660127,0.7222122
+music,Muse EEG,mums52.csv,Beta_AF7,2208,0.6052276,0.4551523
+music,Muse EEG,mums52.csv,Beta_AF7,2209,0.6902257,0.428307165
+music,Muse EEG,mums52.csv,Gamma_AF7,2027,0.4229836,-0.1600184335
+music,Muse EEG,mums52.csv,Gamma_AF7,2050,0.16509712,-0.014007135000000004
+music,Muse EEG,mums52.csv,Gamma_AF7,2092,0.31324852,0.08924286249999999
+music,Muse EEG,mums52.csv,Gamma_AF7,2146,0.18521428,0.199500265
+music,Muse EEG,mums52.csv,Gamma_AF7,2209,0.33039978,0.06852733000000001
+music,Muse EEG,mums52.csv,Gamma_AF7,5117,0.257385,-0.350084245

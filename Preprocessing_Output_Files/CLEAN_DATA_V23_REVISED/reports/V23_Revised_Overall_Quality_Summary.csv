@@ -1,0 +1,15 @@
+Metric,Value
+Total rows,1080240.0
+Total columns,36.0
+Signal channels,32.0
+RAW EEG channels,4.0
+Band power channels,20.0
+Motion channels,8.0
+Other signal channels,0.0
+Total signal points,34567680.0
+Missing values before cleaning,0.0
+Nonfinite values detected,0.0
+Conservative Hampel outliers,163537.0
+Short gap interpolations,150521.0
+Missing values after cleaning,13016.0
+Missing percentage after cleaning,0.03765366955491372

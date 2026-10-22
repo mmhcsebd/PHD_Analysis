@@ -1,0 +1,4 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+music,Muse EEG,mums45.csv,Delta_AF7,313,1.4116635,0.93753115
+music,Muse EEG,mums45.csv,Gamma_TP9,847,0.96781033,0.12922787200000002
+music,Muse EEG,mums45.csv,Gamma_TP9,2529,0.8966986,0.342862957

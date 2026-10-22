@@ -1,0 +1,3 @@
+Sensor,Files,Total_Rows,Detected_Outliers,Corrected_Outliers,Retained_Outliers,Detected_Outlier_Percentage
+Motion Watch,240,1163230,696,692,4,0.059833394943390385
+Muse,240,1115623,1066602,1036732,29870,95.60595290703043

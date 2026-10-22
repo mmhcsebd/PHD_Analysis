@@ -1,0 +1,11 @@
+Metric,Value
+Total rows,1080240
+Total columns,36
+Signal channels,32
+Missing values before,0
+Zero values,6969194
+Flatline points,16397278
+Hampel outliers,529778
+Abrupt changes,680382
+Total repaired values,17452081
+Missing values after,11423317

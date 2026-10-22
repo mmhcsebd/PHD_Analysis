@@ -1,0 +1,14 @@
+{
+    "Signature": "cf01301a255c89730ed6",
+    "Model": "LightGBM",
+    "Samples": 6013,
+    "Features": 232,
+    "Classes": [
+        "class_lecture",
+        "music",
+        "normal",
+        "reading"
+    ],
+    "SHAP_Output_Scale": "TreeExplainer raw model output scale",
+    "Computation_Seconds": 8.848084688186646
+}

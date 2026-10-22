@@ -1,0 +1,23 @@
+{
+    "Input_Dataset": "/home/rakib/Desktop/ml_apply/Final_Model_Test/Cleaned_oN_Selected_Max.csv",
+    "Training_Participants": 36,
+    "Validation_Participants": 6,
+    "Testing_Participants": 18,
+    "Training_Rows": 90280,
+    "Testing_Rows": 45678,
+    "Features": 232,
+    "Classes": [
+        "class_lecture",
+        "music",
+        "normal",
+        "reading"
+    ],
+    "LightGBM_Test_Accuracy": 0.9414816760803888,
+    "XGBoost_Test_Accuracy": 0.9338193441043828,
+    "SHAP_Global_Max_Samples": 6000,
+    "SHAP_Dependence_Features": 6,
+    "LIME_Background_Max_Samples": 6000,
+    "LIME_Explanations_Per_Class": 5,
+    "LIME_Num_Features": 15,
+    "LIME_Num_Samples": 3000
+}

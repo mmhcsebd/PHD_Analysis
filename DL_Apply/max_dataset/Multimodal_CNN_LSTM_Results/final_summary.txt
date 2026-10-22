@@ -1,0 +1,49 @@
+MULTIMODAL CNN LSTM
+MAX DATASET
+MANUAL XPU TRAINABLE LSTM
+
+Architecture Version: manual_xpu_lstm_v2
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Multimodal_CNN_LSTM_Results
+
+Device Type: xpu
+Device Name: Intel(R) Arc(TM) A750 Graphics
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Modality Grouping: Balanced feature view fallback
+Modalities: ['feature_view_1', 'feature_view_2', 'feature_view_3']
+Trainable Parameters: 182021
+
+Best Parameters: {'base_channels': 64, 'kernel_size': 3, 'lstm_hidden': 32, 'lstm_layers': 1, 'conv_dropout': 0.1732756919514748, 'lstm_dropout': 0.3743039394883317, 'input_dropout': 0.18506270857449958, 'input_noise': 0.0316550728636634, 'classifier_hidden': 128, 'dense_dropout': 0.43148891971755987, 'learning_rate': 0.0014694924450340523, 'weight_decay': 0.0008478107036312342, 'label_smoothing': 0.0779875545857624}
+
+Selected Run: 1
+Selected Seed: 42
+Best Epoch: 6
+
+Optuna GroupKFold Accuracy: 0.8283
+Training Accuracy: 0.9874
+Validation Accuracy: 0.8106
+Generalization Gap: 0.1768
+Testing Accuracy: 0.7670
+
+Five Run Training Accuracy: 0.9833 plus or minus 0.0094
+Five Run Validation Accuracy: 0.7947 plus or minus 0.0115
+Five Run Generalization Gap: 0.1886 plus or minus 0.0169
+
+Full LOGO Accuracy: 0.8214 plus or minus 0.1924
+Full LOGO Folds: 42
+
+Precision Weighted: 0.7848
+Recall Weighted: 0.7670
+F1 Weighted: 0.7659
+F1 Macro: 0.7670
+Cohen Kappa: 0.6904
+MCC: 0.6965
+ROC AUC Weighted OVR: 0.9614
+
+Optuna Time: 321.66 minutes
+Five Run Time: 19.54 minutes
+Full LOGO Time: 77.95 minutes
+Test Prediction Time: 1.42 seconds
+Total Execution Time: 419.38 minutes

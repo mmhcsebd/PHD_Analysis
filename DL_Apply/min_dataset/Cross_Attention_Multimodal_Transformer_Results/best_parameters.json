@@ -1,0 +1,14 @@
+{
+    "d_model": 64,
+    "num_heads": 8,
+    "self_layers": 1,
+    "cross_layers": 2,
+    "ffn_expansion": 2,
+    "tokenizer_kernel": 7,
+    "tokenizer_stride": 4,
+    "dropout": 0.29306119232416433,
+    "classifier_hidden": 128,
+    "learning_rate": 0.0011506408247250173,
+    "weight_decay": 0.00013199942261535007,
+    "label_smoothing": 0.058320573443278984
+}

@@ -1,0 +1,42 @@
+
+================================================================================
+DATASET CLEANING AND VALIDATION V3
+================================================================================
+
+Files discovered: 480
+Successfully processed: 479
+Failed files: 1
+
+Rows before cleaning: 2278850
+Rows after cleaning: 2278850
+Row count preserved: True
+
+Missing detected: 125286
+Missing corrected: 99389
+Missing remaining: 25897
+Long missing retained: 25378
+
+Isolated outliers detected: 1372
+Isolated outliers corrected: 1372
+Isolated outliers remaining: 82
+
+Constant channels: 955
+
+Muse EEG files: 240
+Motion Watch files: 239
+Muse EEG files with zero signal columns: 0
+Motion Watch files with zero signal columns: 0
+
+================================================================================
+FAILED FILES
+================================================================================
+reading | Motion Watch | rdmw8.csv | Error tokenizing data. C error: Expected 3 fields in line 4, saw 5
+
+
+================================================================================
+OUTPUT LOCATIONS
+================================================================================
+Clean data: /home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V3/clean_data
+Reports: /home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V3/cleaning_reports
+Validation plots: /home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V3/validation_plots
+Anomaly reports: /home/rakib/Desktop/RAW_DATA/CLEAN_DATA_V3/anomaly_reports

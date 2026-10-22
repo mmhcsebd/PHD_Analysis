@@ -1,0 +1,25 @@
+SVM RBF FINAL RESULTS
+
+Backend: Intel Extension for Scikit Learn
+Kernel: RBF
+Best C: 1.4445251022763053
+Best gamma: 0.0002858549394196192
+
+Optuna GroupKFold accuracy: 0.7702
+Training accuracy: 0.8637
+Validation accuracy: 0.7927
+Testing accuracy: 0.7656
+Full LOGO accuracy: 0.7556 ± 0.1930
+Full LOGO folds: 42
+
+Precision weighted: 0.7929
+Recall weighted: 0.7656
+F1 weighted: 0.7731
+F1 macro: 0.7722
+Cohen Kappa: 0.6864
+MCC: 0.6899
+
+Optuna time: 8.92 minutes
+Five run time: 1.84 minutes
+Full LOGO time: 7.32 minutes
+Total execution time: 18.20 minutes

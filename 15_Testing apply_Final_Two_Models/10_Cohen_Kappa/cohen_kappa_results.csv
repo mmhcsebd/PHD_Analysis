@@ -1,0 +1,4 @@
+Comparison,Cohen_Kappa
+True Labels vs LightGBM,0.9217477022481995
+True Labels vs XGBoost,0.9115598908201672
+LightGBM vs XGBoost Predictions,0.9689737638852519

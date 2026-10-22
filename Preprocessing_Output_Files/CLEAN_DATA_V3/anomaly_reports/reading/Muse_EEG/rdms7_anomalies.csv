@@ -1,0 +1,8 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms7.csv,Delta_TP9,32,3.6909893,2.71073665
+reading,Muse EEG,rdms7.csv,Alpha_TP9,32,2.8743846,2.0923254
+reading,Muse EEG,rdms7.csv,Alpha_TP10,243,3.1878812,2.39678785
+reading,Muse EEG,rdms7.csv,Alpha_TP10,2168,2.9096591,1.88147845
+reading,Muse EEG,rdms7.csv,Beta_TP9,32,2.2335467,1.37230725
+reading,Muse EEG,rdms7.csv,Gamma_TP9,32,1.6843393,0.92290402
+reading,Muse EEG,rdms7.csv,Gamma_TP10,243,1.7327346,1.11839675

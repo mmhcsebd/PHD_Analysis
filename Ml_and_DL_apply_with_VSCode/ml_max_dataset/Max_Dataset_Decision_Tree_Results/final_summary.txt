@@ -1,0 +1,42 @@
+DECISION TREE
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_Decision_Tree_Results
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Parameters: {'criterion': 'entropy', 'max_depth': 23, 'min_samples_split': 37, 'min_samples_leaf': 24, 'max_features': 'sqrt', 'ccp_alpha': 0.0038842777547031426}
+
+Selected Run: 5
+Selected Random State: 46
+
+Training Accuracy: 0.9411
+Validation Accuracy: 0.8607
+Testing Accuracy: 0.8002
+
+GroupKFold Accuracy: 0.8093 plus or minus 0.0404
+Full LOGO Accuracy: 0.7765 plus or minus 0.2224
+Full LOGO Folds: 42
+
+Tree Depth: 9
+Tree Leaves: 48
+
+Precision Weighted: 0.8167
+Recall Weighted: 0.8002
+F1 Weighted: 0.8036
+F1 Macro: 0.8045
+Cohen Kappa: 0.7329
+MCC: 0.7358
+ROC AUC Weighted OVR: 0.9167
+
+Optuna Time: 0.04 seconds
+Five Run Time: 44.37 seconds
+LOGO Time This Session: 0.00 seconds
+Learning Curve Time: 7.26 seconds
+Total Execution Time: 64.55 seconds

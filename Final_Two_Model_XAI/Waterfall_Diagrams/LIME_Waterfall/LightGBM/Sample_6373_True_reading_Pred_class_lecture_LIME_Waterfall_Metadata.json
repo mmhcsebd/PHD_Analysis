@@ -1,0 +1,11 @@
+{
+    "Model": "LightGBM",
+    "Sample_Index": 6373,
+    "Participant": "7",
+    "True_Class": "reading",
+    "Predicted_Class": "class_lecture",
+    "Model_Probability": 0.8675874419825477,
+    "LIME_Intercept": 0.03854447525797666,
+    "Calculated_Local_Surrogate": 0.7796726729833688,
+    "LIME_Reported_Local_Prediction": 0.7796726729833687
+}

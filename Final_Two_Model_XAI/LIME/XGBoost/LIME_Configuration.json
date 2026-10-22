@@ -1,0 +1,29 @@
+{
+    "Signature": "92ca9b0bc1f8a82e15fb",
+    "Model": "XGBoost",
+    "Dataset": {
+        "path": "/home/rakib/Desktop/ml_apply/Final_Model_Test/Cleaned_oN_Selected_Max.csv",
+        "size": 402926319,
+        "mtime_ns": 1792230521588999835
+    },
+    "Model_File": {
+        "path": "/home/rakib/Desktop/ml_apply/Final_Model_Test/XGBoost_Multiple_Split_Results/Train60_Test30_CV10/xgboost_model.joblib",
+        "size": 2952154,
+        "mtime_ns": 1792526124155422453
+    },
+    "Scaler_File": {
+        "path": "/home/rakib/Desktop/ml_apply/Final_Model_Test/XGBoost_Multiple_Split_Results/Train60_Test30_CV10/standard_scaler.joblib",
+        "size": 6151,
+        "mtime_ns": 1792524824463684020
+    },
+    "Background_Indices_Hash": "bf857cb9e5823ca3",
+    "Explanation_Indices_Hash": "29d263b0b150dd07",
+    "Number_Samples": 3000,
+    "Number_Features": 15,
+    "Classes": [
+        "class_lecture",
+        "music",
+        "normal",
+        "reading"
+    ]
+}

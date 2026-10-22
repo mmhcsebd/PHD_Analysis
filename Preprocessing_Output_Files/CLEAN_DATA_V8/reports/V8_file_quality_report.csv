@@ -1,0 +1,481 @@
+sensor,file,activity,rows_v7,rows_v8,numeric_signal_columns,V7_outliers,total_replaced,V8_remaining_outliers,row_count_preserved
+Muse,class_lecture/clms/clms1.csv,class_lecture,5284,5284,32,2271,8969,0,True
+Muse,class_lecture/clms/clms10.csv,class_lecture,5368,5368,32,3621,11752,7,True
+Muse,class_lecture/clms/clms11.csv,class_lecture,3011,3011,32,1714,19825,1145,True
+Muse,class_lecture/clms/clms12.csv,class_lecture,2110,2110,32,1995,6286,1,True
+Muse,class_lecture/clms/clms13.csv,class_lecture,1739,1739,32,2005,9479,965,True
+Muse,class_lecture/clms/clms14.csv,class_lecture,4132,4132,32,1877,11080,1018,True
+Muse,class_lecture/clms/clms15.csv,class_lecture,5349,5349,32,3532,16277,0,True
+Muse,class_lecture/clms/clms16.csv,class_lecture,1633,1633,32,1852,5589,594,True
+Muse,class_lecture/clms/clms17.csv,class_lecture,2828,2828,32,1785,17160,597,True
+Muse,class_lecture/clms/clms18.csv,class_lecture,5565,5565,32,3886,21340,12,True
+Muse,class_lecture/clms/clms19.csv,class_lecture,5418,5418,32,2174,12499,1,True
+Muse,class_lecture/clms/clms2.csv,class_lecture,3011,3011,32,1714,19825,1145,True
+Muse,class_lecture/clms/clms20.csv,class_lecture,2167,2167,32,2410,20197,788,True
+Muse,class_lecture/clms/clms21.csv,class_lecture,5644,5644,32,3077,8591,200,True
+Muse,class_lecture/clms/clms22.csv,class_lecture,2095,2095,32,3206,14954,273,True
+Muse,class_lecture/clms/clms23.csv,class_lecture,5284,5284,32,2271,8935,0,True
+Muse,class_lecture/clms/clms24.csv,class_lecture,5406,5406,32,6070,20844,231,True
+Muse,class_lecture/clms/clms25.csv,class_lecture,5261,5261,32,7142,31377,1696,True
+Muse,class_lecture/clms/clms26.csv,class_lecture,5697,5697,32,4826,24027,0,True
+Muse,class_lecture/clms/clms27.csv,class_lecture,5368,5368,32,3621,11703,6,True
+Muse,class_lecture/clms/clms28.csv,class_lecture,5868,5868,32,0,0,0,True
+Muse,class_lecture/clms/clms29.csv,class_lecture,5285,5285,32,2273,8873,0,True
+Muse,class_lecture/clms/clms3.csv,class_lecture,2235,2235,32,1318,6798,192,True
+Muse,class_lecture/clms/clms30.csv,class_lecture,5355,5355,32,2778,11557,296,True
+Muse,class_lecture/clms/clms31.csv,class_lecture,2422,2422,32,1902,6934,374,True
+Muse,class_lecture/clms/clms32.csv,class_lecture,3482,3482,32,2391,15857,218,True
+Muse,class_lecture/clms/clms33.csv,class_lecture,5565,5565,32,3887,21745,12,True
+Muse,class_lecture/clms/clms34.csv,class_lecture,1606,1606,32,2216,11990,36,True
+Muse,class_lecture/clms/clms35.csv,class_lecture,5306,5306,32,4493,17789,0,True
+Muse,class_lecture/clms/clms36.csv,class_lecture,2419,2419,32,1825,7511,625,True
+Muse,class_lecture/clms/clms37.csv,class_lecture,2390,2390,32,3017,15972,1042,True
+Muse,class_lecture/clms/clms38.csv,class_lecture,2280,2280,32,1792,7309,203,True
+Muse,class_lecture/clms/clms39.csv,class_lecture,5337,5337,32,4215,19426,0,True
+Muse,class_lecture/clms/clms4.csv,class_lecture,2167,2167,32,2411,20135,788,True
+Muse,class_lecture/clms/clms40.csv,class_lecture,2724,2724,32,3038,11606,20,True
+Muse,class_lecture/clms/clms41.csv,class_lecture,4736,4736,32,2197,14148,0,True
+Muse,class_lecture/clms/clms42.csv,class_lecture,5493,5493,32,3843,29715,1426,True
+Muse,class_lecture/clms/clms43.csv,class_lecture,1633,1633,32,1852,5589,594,True
+Muse,class_lecture/clms/clms44.csv,class_lecture,5386,5386,32,1752,10491,0,True
+Muse,class_lecture/clms/clms45.csv,class_lecture,1505,1505,32,2564,9192,819,True
+Muse,class_lecture/clms/clms46.csv,class_lecture,5424,5424,32,2861,18545,7,True
+Muse,class_lecture/clms/clms47.csv,class_lecture,5339,5339,32,4190,14635,0,True
+Muse,class_lecture/clms/clms48.csv,class_lecture,5387,5387,32,3378,16136,1,True
+Muse,class_lecture/clms/clms49.csv,class_lecture,6018,6018,32,2639,16924,0,True
+Muse,class_lecture/clms/clms5.csv,class_lecture,5285,5285,32,2276,8974,0,True
+Muse,class_lecture/clms/clms50.csv,class_lecture,5285,5285,32,2273,8873,0,True
+Muse,class_lecture/clms/clms51.csv,class_lecture,5355,5355,32,2778,11557,296,True
+Muse,class_lecture/clms/clms52.csv,class_lecture,5373,5373,32,2515,12260,0,True
+Muse,class_lecture/clms/clms53.csv,class_lecture,5326,5326,32,4146,12052,731,True
+Muse,class_lecture/clms/clms54.csv,class_lecture,5153,5153,32,2625,20912,460,True
+Muse,class_lecture/clms/clms55.csv,class_lecture,5150,5150,32,4852,37499,1586,True
+Muse,class_lecture/clms/clms56.csv,class_lecture,3011,3011,32,1713,19591,1145,True
+Muse,class_lecture/clms/clms57.csv,class_lecture,5166,5166,32,2814,14511,11,True
+Muse,class_lecture/clms/clms58.csv,class_lecture,6751,6751,32,3564,30967,2984,True
+Muse,class_lecture/clms/clms59.csv,class_lecture,4998,4998,32,5510,27409,2,True
+Muse,class_lecture/clms/clms6.csv,class_lecture,3914,3914,32,2734,16617,650,True
+Muse,class_lecture/clms/clms60.csv,class_lecture,5182,5182,32,1870,8896,1,True
+Muse,class_lecture/clms/clms7.csv,class_lecture,2437,2437,32,3295,8556,191,True
+Muse,class_lecture/clms/clms8.csv,class_lecture,2391,2391,32,1712,7412,1,True
+Muse,class_lecture/clms/clms9.csv,class_lecture,5644,5644,32,3082,9798,216,True
+Motion Watch,class_lecture/clmw/clmw1.csv,class_lecture,5372,5372,7,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw10.csv,class_lecture,2924,2924,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw11.csv,class_lecture,3179,3179,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw12.csv,class_lecture,1918,1918,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw13.csv,class_lecture,2084,2084,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw14.csv,class_lecture,1801,1801,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw15.csv,class_lecture,5433,5433,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw16.csv,class_lecture,1998,1998,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw17.csv,class_lecture,2720,2720,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw18.csv,class_lecture,5509,5509,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw19.csv,class_lecture,5509,5509,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw2.csv,class_lecture,5511,5511,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw20.csv,class_lecture,2241,2241,1,121,121,0,True
+Motion Watch,class_lecture/clmw/clmw21.csv,class_lecture,5777,5777,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw22.csv,class_lecture,1785,1785,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw23.csv,class_lecture,5543,5543,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw24.csv,class_lecture,5553,5553,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw25.csv,class_lecture,5561,5561,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw26.csv,class_lecture,5737,5737,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw27.csv,class_lecture,5496,5496,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw28.csv,class_lecture,5883,5883,1,204,499,0,True
+Motion Watch,class_lecture/clmw/clmw29.csv,class_lecture,5372,5372,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw3.csv,class_lecture,3185,3185,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw30.csv,class_lecture,5372,5372,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw31.csv,class_lecture,5793,5793,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw32.csv,class_lecture,6083,6083,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw33.csv,class_lecture,5701,5701,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw34.csv,class_lecture,5777,5777,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw35.csv,class_lecture,5479,5479,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw36.csv,class_lecture,3512,3512,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw37.csv,class_lecture,2700,2700,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw38.csv,class_lecture,2390,2390,1,103,286,0,True
+Motion Watch,class_lecture/clmw/clmw39.csv,class_lecture,5527,5527,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw4.csv,class_lecture,5447,5447,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw40.csv,class_lecture,2780,2780,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw41.csv,class_lecture,4834,4834,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw42.csv,class_lecture,5617,5617,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw43.csv,class_lecture,5441,5441,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw44.csv,class_lecture,5272,5272,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw45.csv,class_lecture,1801,1801,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw46.csv,class_lecture,5511,5511,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw47.csv,class_lecture,6083,6083,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw48.csv,class_lecture,5530,5530,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw49.csv,class_lecture,5441,5441,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw5.csv,class_lecture,5372,5372,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw50.csv,class_lecture,5372,5372,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw51.csv,class_lecture,5485,5485,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw52.csv,class_lecture,5494,5494,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw53.csv,class_lecture,5484,5484,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw54.csv,class_lecture,5366,5366,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw55.csv,class_lecture,5262,5262,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw56.csv,class_lecture,3179,3179,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw57.csv,class_lecture,5261,5261,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw58.csv,class_lecture,5456,5456,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw59.csv,class_lecture,5097,5097,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw6.csv,class_lecture,5737,5737,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw60.csv,class_lecture,5511,5511,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw7.csv,class_lecture,5777,5777,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw8.csv,class_lecture,3179,3179,1,0,0,0,True
+Motion Watch,class_lecture/clmw/clmw9.csv,class_lecture,5777,5777,1,0,0,0,True
+Muse,music/mums/mums1.csv,music,5418,5418,32,2174,12500,1,True
+Muse,music/mums/mums10.csv,music,5368,5368,32,3621,11703,6,True
+Muse,music/mums/mums11.csv,music,5225,5225,36,3738,17991,0,True
+Muse,music/mums/mums12.csv,music,5349,5349,32,3536,16215,0,True
+Muse,music/mums/mums13.csv,music,4637,4637,32,4248,25351,1107,True
+Muse,music/mums/mums14.csv,music,4823,4823,32,2342,13882,0,True
+Muse,music/mums/mums15.csv,music,5384,5384,36,2579,9945,0,True
+Muse,music/mums/mums16.csv,music,5314,5314,32,3115,16792,0,True
+Muse,music/mums/mums17.csv,music,5412,5412,36,3063,12116,0,True
+Muse,music/mums/mums18.csv,music,5387,5387,32,3378,16136,1,True
+Muse,music/mums/mums19.csv,music,5029,5029,32,5383,25824,826,True
+Muse,music/mums/mums2.csv,music,5354,5354,32,3309,15241,4,True
+Muse,music/mums/mums20.csv,music,5354,5354,32,3799,17213,0,True
+Muse,music/mums/mums21.csv,music,5198,5198,32,2298,28626,1698,True
+Muse,music/mums/mums22.csv,music,5455,5455,32,1276,9448,0,True
+Muse,music/mums/mums23.csv,music,5454,5454,32,8834,54890,3470,True
+Muse,music/mums/mums24.csv,music,5406,5406,32,6070,20844,231,True
+Muse,music/mums/mums25.csv,music,5261,5261,32,7142,31377,1696,True
+Muse,music/mums/mums26.csv,music,5697,5697,32,4826,24027,0,True
+Muse,music/mums/mums27.csv,music,5267,5267,36,2293,12397,0,True
+Muse,music/mums/mums28.csv,music,5868,5868,32,0,0,0,True
+Muse,music/mums/mums29.csv,music,5339,5339,32,4190,14635,0,True
+Muse,music/mums/mums3.csv,music,5188,5188,36,2802,21396,9,True
+Muse,music/mums/mums30.csv,music,5432,5432,32,3062,16288,0,True
+Muse,music/mums/mums31.csv,music,6704,6704,32,6258,46399,2002,True
+Muse,music/mums/mums32.csv,music,4816,4816,32,1894,11521,3,True
+Muse,music/mums/mums33.csv,music,5644,5644,32,3077,8591,200,True
+Muse,music/mums/mums34.csv,music,5374,5374,32,2799,14641,2422,True
+Muse,music/mums/mums35.csv,music,5775,5775,36,4321,21415,1974,True
+Muse,music/mums/mums36.csv,music,6817,6817,32,3252,16608,0,True
+Muse,music/mums/mums37.csv,music,5368,5368,32,5514,40200,3418,True
+Muse,music/mums/mums38.csv,music,5231,5231,36,3296,14549,17,True
+Muse,music/mums/mums39.csv,music,5337,5337,32,4215,19426,0,True
+Muse,music/mums/mums4.csv,music,5330,5330,32,3020,32459,1404,True
+Muse,music/mums/mums40.csv,music,5565,5565,32,3887,21745,12,True
+Muse,music/mums/mums41.csv,music,4736,4736,32,2197,14148,0,True
+Muse,music/mums/mums42.csv,music,5355,5355,32,2778,11557,296,True
+Muse,music/mums/mums43.csv,music,5357,5357,32,3431,14244,42,True
+Muse,music/mums/mums44.csv,music,5487,5487,32,3724,19361,276,True
+Muse,music/mums/mums45.csv,music,4865,4865,32,2393,14883,0,True
+Muse,music/mums/mums46.csv,music,5276,5276,36,3573,20261,31,True
+Muse,music/mums/mums47.csv,music,4772,4772,32,3453,7959,0,True
+Muse,music/mums/mums48.csv,music,5269,5269,36,3649,14157,52,True
+Muse,music/mums/mums49.csv,music,5306,5306,32,4493,17789,0,True
+Muse,music/mums/mums5.csv,music,5402,5402,32,5096,20845,8,True
+Muse,music/mums/mums50.csv,music,4707,4707,32,4333,24581,0,True
+Muse,music/mums/mums51.csv,music,4931,4931,36,6890,36750,1223,True
+Muse,music/mums/mums52.csv,music,5370,5370,36,3400,22953,0,True
+Muse,music/mums/mums53.csv,music,5326,5326,32,4146,12052,731,True
+Muse,music/mums/mums54.csv,music,4743,4743,32,2226,10476,317,True
+Muse,music/mums/mums55.csv,music,5410,5410,32,2022,14049,0,True
+Muse,music/mums/mums56.csv,music,5277,5277,36,4602,14342,249,True
+Muse,music/mums/mums57.csv,music,6018,6018,32,2639,16924,0,True
+Muse,music/mums/mums58.csv,music,4559,4559,36,2811,9586,7,True
+Muse,music/mums/mums59.csv,music,5285,5285,32,2273,8873,0,True
+Muse,music/mums/mums6.csv,music,5238,5238,36,2565,14273,555,True
+Muse,music/mums/mums60.csv,music,5386,5386,32,1752,10491,0,True
+Muse,music/mums/mums7.csv,music,9442,9442,32,4939,63651,3628,True
+Muse,music/mums/mums8.csv,music,5149,5149,36,4337,60249,3222,True
+Muse,music/mums/mums9.csv,music,5660,5660,32,2672,13562,0,True
+Motion Watch,music/mumw/mumw1.csv,music,5509,5509,1,0,0,0,True
+Motion Watch,music/mumw/mumw10.csv,music,5496,5496,1,0,0,0,True
+Motion Watch,music/mumw/mumw11.csv,music,5408,5408,1,0,0,0,True
+Motion Watch,music/mumw/mumw12.csv,music,5433,5433,1,0,0,0,True
+Motion Watch,music/mumw/mumw13.csv,music,5289,5289,1,0,0,0,True
+Motion Watch,music/mumw/mumw14.csv,music,4920,4920,1,0,0,0,True
+Motion Watch,music/mumw/mumw15.csv,music,5243,5243,1,0,0,0,True
+Motion Watch,music/mumw/mumw16.csv,music,5441,5441,1,0,0,0,True
+Motion Watch,music/mumw/mumw17.csv,music,5494,5494,1,0,0,0,True
+Motion Watch,music/mumw/mumw18.csv,music,5530,5530,1,0,0,0,True
+Motion Watch,music/mumw/mumw19.csv,music,5233,5233,1,0,0,0,True
+Motion Watch,music/mumw/mumw2.csv,music,5511,5511,1,0,0,0,True
+Motion Watch,music/mumw/mumw20.csv,music,5447,5447,1,0,0,0,True
+Motion Watch,music/mumw/mumw21.csv,music,5501,5501,1,0,0,0,True
+Motion Watch,music/mumw/mumw22.csv,music,5525,5525,1,0,0,0,True
+Motion Watch,music/mumw/mumw23.csv,music,5543,5543,1,0,0,0,True
+Motion Watch,music/mumw/mumw24.csv,music,5553,5553,1,0,0,0,True
+Motion Watch,music/mumw/mumw25.csv,music,5561,5561,1,0,0,0,True
+Motion Watch,music/mumw/mumw26.csv,music,5737,5737,1,0,0,0,True
+Motion Watch,music/mumw/mumw27.csv,music,5511,5511,1,0,0,0,True
+Motion Watch,music/mumw/mumw28.csv,music,5883,5883,1,204,499,0,True
+Motion Watch,music/mumw/mumw29.csv,music,5441,5441,1,0,0,0,True
+Motion Watch,music/mumw/mumw3.csv,music,5328,5328,1,0,0,0,True
+Motion Watch,music/mumw/mumw30.csv,music,5560,5560,1,0,0,0,True
+Motion Watch,music/mumw/mumw31.csv,music,5472,5472,1,0,0,0,True
+Motion Watch,music/mumw/mumw32.csv,music,4903,4903,1,0,0,0,True
+Motion Watch,music/mumw/mumw33.csv,music,5777,5777,1,0,0,0,True
+Motion Watch,music/mumw/mumw34.csv,music,5441,5441,1,0,0,0,True
+Motion Watch,music/mumw/mumw35.csv,music,5492,5492,1,0,0,0,True
+Motion Watch,music/mumw/mumw36.csv,music,5567,5567,1,0,0,0,True
+Motion Watch,music/mumw/mumw37.csv,music,5481,5481,1,0,0,0,True
+Motion Watch,music/mumw/mumw38.csv,music,5538,5538,1,0,0,0,True
+Motion Watch,music/mumw/mumw39.csv,music,5527,5527,1,0,0,0,True
+Motion Watch,music/mumw/mumw4.csv,music,5521,5521,1,0,0,0,True
+Motion Watch,music/mumw/mumw40.csv,music,5701,5701,1,0,0,0,True
+Motion Watch,music/mumw/mumw41.csv,music,4834,4834,1,0,0,0,True
+Motion Watch,music/mumw/mumw42.csv,music,5485,5485,1,0,0,0,True
+Motion Watch,music/mumw/mumw43.csv,music,5466,5466,1,0,0,0,True
+Motion Watch,music/mumw/mumw44.csv,music,5663,5663,1,0,0,0,True
+Motion Watch,music/mumw/mumw45.csv,music,4985,4985,1,0,0,0,True
+Motion Watch,music/mumw/mumw46.csv,music,5247,5247,1,0,0,0,True
+Motion Watch,music/mumw/mumw47.csv,music,4800,4800,1,0,0,0,True
+Motion Watch,music/mumw/mumw48.csv,music,5192,5192,1,0,0,0,True
+Motion Watch,music/mumw/mumw49.csv,music,5479,5479,1,0,0,0,True
+Motion Watch,music/mumw/mumw5.csv,music,5499,5499,1,0,0,0,True
+Motion Watch,music/mumw/mumw50.csv,music,4816,4816,1,215,215,0,True
+Motion Watch,music/mumw/mumw51.csv,music,5471,5471,1,0,0,0,True
+Motion Watch,music/mumw/mumw52.csv,music,5657,5657,1,0,0,0,True
+Motion Watch,music/mumw/mumw53.csv,music,5484,5484,1,0,0,0,True
+Motion Watch,music/mumw/mumw54.csv,music,4809,4809,1,0,0,0,True
+Motion Watch,music/mumw/mumw55.csv,music,5544,5544,1,0,0,0,True
+Motion Watch,music/mumw/mumw56.csv,music,5497,5497,1,0,0,0,True
+Motion Watch,music/mumw/mumw57.csv,music,6083,6083,1,0,0,0,True
+Motion Watch,music/mumw/mumw58.csv,music,5410,5410,1,0,0,0,True
+Motion Watch,music/mumw/mumw59.csv,music,5372,5372,1,0,0,0,True
+Motion Watch,music/mumw/mumw6.csv,music,5465,5465,1,0,0,0,True
+Motion Watch,music/mumw/mumw60.csv,music,5511,5511,1,0,0,0,True
+Motion Watch,music/mumw/mumw7.csv,music,5418,5418,1,0,0,0,True
+Motion Watch,music/mumw/mumw8.csv,music,5363,5363,1,0,0,0,True
+Motion Watch,music/mumw/mumw9.csv,music,5801,5801,1,0,0,0,True
+Muse,normal/norms/norms1.csv,normal,6313,6313,32,5414,68556,5368,True
+Muse,normal/norms/norms10.csv,normal,2909,2909,32,1858,5659,130,True
+Muse,normal/norms/norms11.csv,normal,4663,4663,32,2019,13825,1036,True
+Muse,normal/norms/norms12.csv,normal,4650,4650,32,1958,11656,0,True
+Muse,normal/norms/norms13.csv,normal,5187,5187,32,3372,15372,0,True
+Muse,normal/norms/norms14.csv,normal,5493,5493,32,3843,29715,1426,True
+Muse,normal/norms/norms15.csv,normal,3275,3275,32,1223,8097,0,True
+Muse,normal/norms/norms16.csv,normal,4803,4803,32,3474,18650,20,True
+Muse,normal/norms/norms17.csv,normal,4508,4508,32,1768,13847,0,True
+Muse,normal/norms/norms18.csv,normal,4836,4836,32,1619,10876,12,True
+Muse,normal/norms/norms19.csv,normal,5188,5188,32,2359,11947,7,True
+Muse,normal/norms/norms2.csv,normal,4912,4912,32,3924,17668,0,True
+Muse,normal/norms/norms20.csv,normal,4714,4714,32,3675,20986,285,True
+Muse,normal/norms/norms21.csv,normal,4818,4818,32,2172,15550,0,True
+Muse,normal/norms/norms22.csv,normal,4732,4732,32,3121,17318,185,True
+Muse,normal/norms/norms23.csv,normal,4664,4664,32,1963,8209,0,True
+Muse,normal/norms/norms24.csv,normal,4864,4864,32,2318,10171,0,True
+Muse,normal/norms/norms25.csv,normal,4906,4906,32,4638,30766,44,True
+Muse,normal/norms/norms26.csv,normal,4733,4733,32,2199,9290,0,True
+Muse,normal/norms/norms27.csv,normal,4953,4953,32,3227,25469,567,True
+Muse,normal/norms/norms28.csv,normal,4749,4749,32,3729,23856,22,True
+Muse,normal/norms/norms29.csv,normal,4750,4750,32,2260,12362,997,True
+Muse,normal/norms/norms3.csv,normal,4771,4771,32,2621,10042,3,True
+Muse,normal/norms/norms30.csv,normal,4950,4950,32,3328,16864,0,True
+Muse,normal/norms/norms31.csv,normal,4909,4909,32,2998,18347,673,True
+Muse,normal/norms/norms32.csv,normal,4477,4477,36,1915,9757,0,True
+Muse,normal/norms/norms33.csv,normal,4864,4864,32,4501,28607,1481,True
+Muse,normal/norms/norms34.csv,normal,4896,4896,32,3189,24177,283,True
+Muse,normal/norms/norms35.csv,normal,5244,5244,32,2596,11940,0,True
+Muse,normal/norms/norms36.csv,normal,4870,4870,32,4871,19030,77,True
+Muse,normal/norms/norms37.csv,normal,5437,5437,32,3997,24552,848,True
+Muse,normal/norms/norms38.csv,normal,4759,4759,32,2262,12079,396,True
+Muse,normal/norms/norms39.csv,normal,4804,4804,32,2731,14314,847,True
+Muse,normal/norms/norms4.csv,normal,4739,4739,32,3386,13606,0,True
+Muse,normal/norms/norms40.csv,normal,4865,4865,32,2944,9771,180,True
+Muse,normal/norms/norms41.csv,normal,5030,5030,32,2747,14513,4,True
+Muse,normal/norms/norms42.csv,normal,4810,4810,32,2897,14804,14,True
+Muse,normal/norms/norms43.csv,normal,4450,4450,32,2010,11993,0,True
+Muse,normal/norms/norms44.csv,normal,5053,5053,32,3056,10539,0,True
+Muse,normal/norms/norms45.csv,normal,4222,4222,36,3027,25093,68,True
+Muse,normal/norms/norms46.csv,normal,4637,4637,32,5678,27395,0,True
+Muse,normal/norms/norms47.csv,normal,5277,5277,32,3122,15693,1030,True
+Muse,normal/norms/norms48.csv,normal,4774,4774,32,1841,12842,1815,True
+Muse,normal/norms/norms49.csv,normal,4790,4790,32,3640,14827,1879,True
+Muse,normal/norms/norms5.csv,normal,2557,2557,32,1454,16040,1948,True
+Muse,normal/norms/norms50.csv,normal,4834,4834,32,1655,8904,0,True
+Muse,normal/norms/norms51.csv,normal,4828,4828,32,5145,25272,213,True
+Muse,normal/norms/norms52.csv,normal,4903,4903,32,3113,19695,0,True
+Muse,normal/norms/norms53.csv,normal,4738,4738,32,4890,21067,4,True
+Muse,normal/norms/norms54.csv,normal,4818,4818,32,3946,23347,0,True
+Muse,normal/norms/norms55.csv,normal,4753,4753,32,1458,12209,7,True
+Muse,normal/norms/norms56.csv,normal,4644,4644,32,3837,17048,0,True
+Muse,normal/norms/norms57.csv,normal,4853,4853,32,1644,12229,31,True
+Muse,normal/norms/norms58.csv,normal,4737,4737,32,1742,7935,0,True
+Muse,normal/norms/norms59.csv,normal,4732,4732,32,3078,15148,18,True
+Muse,normal/norms/norms6.csv,normal,3609,3609,32,3715,14536,0,True
+Muse,normal/norms/norms60.csv,normal,3945,3945,32,1905,16374,52,True
+Muse,normal/norms/norms7.csv,normal,4732,4732,32,4051,12684,3,True
+Muse,normal/norms/norms8.csv,normal,3221,3221,32,1638,16304,938,True
+Muse,normal/norms/norms9.csv,normal,3989,3989,32,1409,9237,20,True
+Motion Watch,normal/normw/normw1.csv,normal,5264,5264,1,0,0,0,True
+Motion Watch,normal/normw/normw10.csv,normal,2978,2978,1,0,0,0,True
+Motion Watch,normal/normw/normw11.csv,normal,5031,5031,1,0,0,0,True
+Motion Watch,normal/normw/normw12.csv,normal,4714,4714,1,0,0,0,True
+Motion Watch,normal/normw/normw13.csv,normal,5356,5356,1,0,0,0,True
+Motion Watch,normal/normw/normw14.csv,normal,5617,5617,1,0,0,0,True
+Motion Watch,normal/normw/normw15.csv,normal,3560,3560,1,0,0,0,True
+Motion Watch,normal/normw/normw16.csv,normal,4910,4910,1,0,0,0,True
+Motion Watch,normal/normw/normw17.csv,normal,4528,4528,1,0,0,0,True
+Motion Watch,normal/normw/normw18.csv,normal,4940,4940,1,0,0,0,True
+Motion Watch,normal/normw/normw19.csv,normal,5275,5275,1,0,0,0,True
+Motion Watch,normal/normw/normw2.csv,normal,5065,5065,1,0,0,0,True
+Motion Watch,normal/normw/normw20.csv,normal,4830,4830,1,0,0,0,True
+Motion Watch,normal/normw/normw21.csv,normal,4895,4895,1,0,0,0,True
+Motion Watch,normal/normw/normw22.csv,normal,4815,4815,1,0,0,0,True
+Motion Watch,normal/normw/normw23.csv,normal,4770,4770,1,0,0,0,True
+Motion Watch,normal/normw/normw24.csv,normal,4946,4946,1,0,0,0,True
+Motion Watch,normal/normw/normw25.csv,normal,4968,4968,1,0,0,0,True
+Motion Watch,normal/normw/normw26.csv,normal,4892,4892,1,0,0,0,True
+Motion Watch,normal/normw/normw27.csv,normal,4751,4751,1,0,0,0,True
+Motion Watch,normal/normw/normw28.csv,normal,4825,4825,1,0,0,0,True
+Motion Watch,normal/normw/normw29.csv,normal,4825,4825,1,0,0,0,True
+Motion Watch,normal/normw/normw3.csv,normal,4928,4928,1,0,0,0,True
+Motion Watch,normal/normw/normw30.csv,normal,5049,5049,1,0,0,0,True
+Motion Watch,normal/normw/normw31.csv,normal,4978,4978,1,0,0,0,True
+Motion Watch,normal/normw/normw32.csv,normal,5517,5517,1,0,0,0,True
+Motion Watch,normal/normw/normw33.csv,normal,4980,4980,1,0,0,0,True
+Motion Watch,normal/normw/normw34.csv,normal,5056,5056,1,0,0,0,True
+Motion Watch,normal/normw/normw35.csv,normal,5344,5344,1,0,0,0,True
+Motion Watch,normal/normw/normw36.csv,normal,5045,5045,1,0,0,0,True
+Motion Watch,normal/normw/normw37.csv,normal,5491,5491,1,0,0,0,True
+Motion Watch,normal/normw/normw38.csv,normal,4876,4876,1,0,0,0,True
+Motion Watch,normal/normw/normw39.csv,normal,4874,4874,1,0,0,0,True
+Motion Watch,normal/normw/normw4.csv,normal,4800,4800,1,0,0,0,True
+Motion Watch,normal/normw/normw40.csv,normal,4960,4960,1,0,0,0,True
+Motion Watch,normal/normw/normw41.csv,normal,5085,5085,1,0,0,0,True
+Motion Watch,normal/normw/normw42.csv,normal,4943,4943,1,0,0,0,True
+Motion Watch,normal/normw/normw43.csv,normal,5051,5051,1,0,0,0,True
+Motion Watch,normal/normw/normw44.csv,normal,5181,5181,1,0,0,0,True
+Motion Watch,normal/normw/normw45.csv,normal,5448,5448,1,0,0,0,True
+Motion Watch,normal/normw/normw46.csv,normal,4728,4728,1,0,0,0,True
+Motion Watch,normal/normw/normw47.csv,normal,5321,5321,1,0,0,0,True
+Motion Watch,normal/normw/normw48.csv,normal,4891,4891,1,0,0,0,True
+Motion Watch,normal/normw/normw49.csv,normal,4878,4878,1,0,0,0,True
+Motion Watch,normal/normw/normw5.csv,normal,2588,2588,1,0,0,0,True
+Motion Watch,normal/normw/normw50.csv,normal,4856,4856,1,0,0,0,True
+Motion Watch,normal/normw/normw51.csv,normal,4800,4800,1,0,0,0,True
+Motion Watch,normal/normw/normw52.csv,normal,4976,4976,1,0,0,0,True
+Motion Watch,normal/normw/normw53.csv,normal,4831,4831,1,0,0,0,True
+Motion Watch,normal/normw/normw54.csv,normal,4878,4878,1,0,0,0,True
+Motion Watch,normal/normw/normw55.csv,normal,4817,4817,1,0,0,0,True
+Motion Watch,normal/normw/normw56.csv,normal,4800,4800,1,0,0,0,True
+Motion Watch,normal/normw/normw57.csv,normal,4941,4941,1,0,0,0,True
+Motion Watch,normal/normw/normw58.csv,normal,4801,4801,1,0,0,0,True
+Motion Watch,normal/normw/normw59.csv,normal,4843,4843,1,0,0,0,True
+Motion Watch,normal/normw/normw6.csv,normal,2400,2400,1,0,0,0,True
+Motion Watch,normal/normw/normw60.csv,normal,2401,2401,1,0,0,0,True
+Motion Watch,normal/normw/normw7.csv,normal,4848,4848,1,0,0,0,True
+Motion Watch,normal/normw/normw8.csv,normal,3418,3418,1,0,0,0,True
+Motion Watch,normal/normw/normw9.csv,normal,2401,2401,1,0,0,0,True
+Muse,reading/rdms/rdms1.csv,reading,5418,5418,32,2174,12499,1,True
+Muse,reading/rdms/rdms10.csv,reading,2177,2177,32,2116,8732,174,True
+Muse,reading/rdms/rdms11.csv,reading,5565,5565,32,3887,21745,12,True
+Muse,reading/rdms/rdms12.csv,reading,2434,2434,32,1250,5639,0,True
+Muse,reading/rdms/rdms13.csv,reading,2094,2094,32,2510,8259,0,True
+Muse,reading/rdms/rdms14.csv,reading,4132,4132,32,1874,11080,1018,True
+Muse,reading/rdms/rdms15.csv,reading,3275,3275,32,1223,8097,0,True
+Muse,reading/rdms/rdms16.csv,reading,2132,2132,32,2055,5974,1,True
+Muse,reading/rdms/rdms17.csv,reading,2421,2421,32,2302,6159,1255,True
+Muse,reading/rdms/rdms18.csv,reading,5418,5418,32,2174,12500,1,True
+Muse,reading/rdms/rdms19.csv,reading,5029,5029,32,5383,25824,826,True
+Muse,reading/rdms/rdms2.csv,reading,5354,5354,32,3310,15281,4,True
+Muse,reading/rdms/rdms20.csv,reading,2667,2667,32,2352,8930,1311,True
+Muse,reading/rdms/rdms21.csv,reading,4637,4637,32,4248,25351,1107,True
+Muse,reading/rdms/rdms22.csv,reading,2278,2278,32,1519,16272,1731,True
+Muse,reading/rdms/rdms23.csv,reading,5565,5565,32,3887,21745,12,True
+Muse,reading/rdms/rdms24.csv,reading,5644,5644,32,3077,8591,200,True
+Muse,reading/rdms/rdms25.csv,reading,5644,5644,32,3077,8591,200,True
+Muse,reading/rdms/rdms26.csv,reading,5493,5493,32,3843,29715,1426,True
+Muse,reading/rdms/rdms27.csv,reading,5418,5418,32,2174,12500,1,True
+Muse,reading/rdms/rdms28.csv,reading,5418,5418,32,2174,12500,1,True
+Muse,reading/rdms/rdms29.csv,reading,5306,5306,32,4493,17789,0,True
+Muse,reading/rdms/rdms3.csv,reading,2239,2239,32,2187,7707,8,True
+Muse,reading/rdms/rdms30.csv,reading,5432,5432,32,3062,16288,0,True
+Muse,reading/rdms/rdms31.csv,reading,1468,1468,32,3023,20121,1090,True
+Muse,reading/rdms/rdms32.csv,reading,3482,3482,32,2391,15857,218,True
+Muse,reading/rdms/rdms33.csv,reading,5644,5644,32,3077,8591,200,True
+Muse,reading/rdms/rdms34.csv,reading,5374,5374,32,2799,14641,2422,True
+Muse,reading/rdms/rdms35.csv,reading,5375,5375,32,3218,11828,0,True
+Muse,reading/rdms/rdms36.csv,reading,1930,1930,32,2389,15732,656,True
+Muse,reading/rdms/rdms37.csv,reading,1454,1454,32,3187,12331,580,True
+Muse,reading/rdms/rdms38.csv,reading,5349,5349,32,3536,16215,0,True
+Muse,reading/rdms/rdms39.csv,reading,3275,3275,32,1223,8097,0,True
+Muse,reading/rdms/rdms4.csv,reading,5565,5565,32,3887,21745,12,True
+Muse,reading/rdms/rdms40.csv,reading,1830,1830,32,844,7667,144,True
+Muse,reading/rdms/rdms41.csv,reading,4736,4736,32,2197,14148,0,True
+Muse,reading/rdms/rdms42.csv,reading,2177,2177,32,2116,8732,174,True
+Muse,reading/rdms/rdms43.csv,reading,5493,5493,32,3843,29715,1426,True
+Muse,reading/rdms/rdms44.csv,reading,4912,4912,32,3924,17668,0,True
+Muse,reading/rdms/rdms45.csv,reading,3103,3103,32,2996,24321,1416,True
+Muse,reading/rdms/rdms46.csv,reading,5368,5368,32,5514,40200,3418,True
+Muse,reading/rdms/rdms47.csv,reading,5285,5285,32,2273,8873,0,True
+Muse,reading/rdms/rdms48.csv,reading,5454,5454,32,8834,54890,3470,True
+Muse,reading/rdms/rdms49.csv,reading,5339,5339,32,4190,14635,0,True
+Muse,reading/rdms/rdms5.csv,reading,5402,5402,32,5096,20845,8,True
+Muse,reading/rdms/rdms50.csv,reading,5285,5285,32,2273,8873,0,True
+Muse,reading/rdms/rdms51.csv,reading,5355,5355,32,2778,11557,296,True
+Muse,reading/rdms/rdms52.csv,reading,5493,5493,32,3843,29715,1426,True
+Muse,reading/rdms/rdms53.csv,reading,5354,5354,32,3309,15241,4,True
+Muse,reading/rdms/rdms54.csv,reading,4774,4774,32,1841,12842,1815,True
+Muse,reading/rdms/rdms55.csv,reading,4508,4508,32,1768,13847,0,True
+Muse,reading/rdms/rdms56.csv,reading,4663,4663,32,2019,13825,1036,True
+Muse,reading/rdms/rdms57.csv,reading,2909,2909,32,1858,5659,130,True
+Muse,reading/rdms/rdms58.csv,reading,4790,4790,32,3640,14827,1879,True
+Muse,reading/rdms/rdms59.csv,reading,4772,4772,32,3453,7959,0,True
+Muse,reading/rdms/rdms6.csv,reading,3914,3914,32,2737,16622,649,True
+Muse,reading/rdms/rdms60.csv,reading,5386,5386,32,1752,10491,0,True
+Muse,reading/rdms/rdms7.csv,reading,2233,2233,32,3602,7834,0,True
+Muse,reading/rdms/rdms8.csv,reading,2138,2138,32,2039,18913,1445,True
+Muse,reading/rdms/rdms9.csv,reading,5644,5644,32,3077,8591,200,True
+Motion Watch,reading/rdmw/rdmw1.csv,reading,5509,5509,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw10.csv,reading,2419,2419,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw11.csv,reading,5701,5701,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw12.csv,reading,2336,2336,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw13.csv,reading,3577,3577,2,0,0,0,True
+Motion Watch,reading/rdmw/rdmw14.csv,reading,1801,1801,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw15.csv,reading,3560,3560,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw16.csv,reading,2370,2370,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw17.csv,reading,4834,4834,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw18.csv,reading,5509,5509,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw19.csv,reading,5233,5233,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw2.csv,reading,5511,5511,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw20.csv,reading,5617,5617,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw21.csv,reading,5289,5289,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw22.csv,reading,3045,3045,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw23.csv,reading,5701,5701,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw24.csv,reading,5777,5777,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw25.csv,reading,5777,5777,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw26.csv,reading,5617,5617,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw27.csv,reading,2419,2419,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw28.csv,reading,5509,5509,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw29.csv,reading,5479,5479,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw3.csv,reading,2297,2297,1,194,194,0,True
+Motion Watch,reading/rdmw/rdmw30.csv,reading,5560,5560,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw31.csv,reading,1909,1909,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw32.csv,reading,6083,6083,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw33.csv,reading,5777,5777,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw34.csv,reading,5441,5441,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw35.csv,reading,5492,5492,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw36.csv,reading,6083,6083,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw37.csv,reading,1221,1221,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw38.csv,reading,2460,2460,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw39.csv,reading,3560,3560,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw4.csv,reading,5701,5701,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw40.csv,reading,1948,1948,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw41.csv,reading,4834,4834,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw42.csv,reading,2336,2336,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw43.csv,reading,5617,5617,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw44.csv,reading,5065,5065,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw45.csv,reading,3600,3600,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw46.csv,reading,5481,5481,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw47.csv,reading,5372,5372,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw48.csv,reading,5543,5543,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw49.csv,reading,5441,5441,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw5.csv,reading,5499,5499,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw50.csv,reading,5372,5372,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw51.csv,reading,5485,5485,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw52.csv,reading,5617,5617,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw53.csv,reading,5511,5511,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw54.csv,reading,4891,4891,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw55.csv,reading,4978,4978,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw56.csv,reading,4817,4817,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw57.csv,reading,2978,2978,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw58.csv,reading,4714,4714,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw59.csv,reading,4800,4800,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw6.csv,reading,5737,5737,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw60.csv,reading,5511,5511,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw7.csv,reading,5492,5492,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw8.csv,reading,3,3,1,0,0,0,True
+Motion Watch,reading/rdmw/rdmw9.csv,reading,5777,5777,1,0,0,0,True

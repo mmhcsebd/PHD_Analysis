@@ -1,0 +1,11 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+class_lecture,Muse EEG,clms54.csv,Theta_TP9,977,2.0402842,0.951489305
+class_lecture,Muse EEG,clms54.csv,Beta_AF8,4850,0.5783617,0.3426746045
+class_lecture,Muse EEG,clms54.csv,Beta_AF8,4851,0.65470433,0.307267723
+class_lecture,Muse EEG,clms54.csv,Gamma_AF7,4181,1.0947752,0.543720795
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,9,0.26679012,-0.0276681
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,4257,0.28496057,-0.05447194999999999
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,4258,0.3558257,-0.10325256499999999
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,4291,0.17896454,-0.34133605499999997
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,4321,0.40696463,-0.15362179999999998
+class_lecture,Muse EEG,clms54.csv,Gamma_AF8,5052,0.17967643,0.1044245465

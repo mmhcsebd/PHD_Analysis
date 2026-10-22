@@ -1,0 +1,16 @@
+{
+    "accuracy": 0.8742691133747655,
+    "precision_weighted": 0.8871067358140761,
+    "recall_weighted": 0.8742691133747655,
+    "f1_weighted": 0.8732998598904481,
+    "f1_macro": 0.8722489344305633,
+    "cohen_kappa": 0.8319351982354496,
+    "mcc": 0.8365501408565312,
+    "roc_auc_weighted": 0.9779773134401177,
+    "training_accuracy": 1.0,
+    "validation_accuracy": 0.8974661575841721,
+    "groupkfold_accuracy": 0.8376727163065432,
+    "groupkfold_std": 0.060174508662141114,
+    "cross_validation_time_seconds": 132.31372475624084,
+    "training_time_seconds": 35.45691275596619
+}

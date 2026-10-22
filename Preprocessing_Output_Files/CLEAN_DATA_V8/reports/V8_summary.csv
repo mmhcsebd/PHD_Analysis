@@ -1,0 +1,14 @@
+metric,value
+Total CSV files,480.0
+Muse files,240.0
+Motion Watch files,240.0
+Muse V7 outliers,739712.0
+Muse replacements,3975952.0
+Muse V8 remaining outliers,111078.0
+Muse outlier reduction percentage,84.98361524485205
+Motion Watch V7 outliers,1041.0
+Motion Watch replacements,1814.0
+Motion Watch V8 remaining outliers,0.0
+Motion Watch outlier reduction percentage,100.0
+V7 total rows,2278853.0
+V8 total rows,2278853.0

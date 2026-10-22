@@ -1,0 +1,9 @@
+{
+    "Model": "XGBoost",
+    "Sample_Index": 10485,
+    "PersonSrial": "13",
+    "Case_Type": "Misclassified_High_Confidence",
+    "True_Class": "class_lecture",
+    "Predicted_Class": "reading",
+    "Prediction_Confidence": 0.9967337846755981
+}

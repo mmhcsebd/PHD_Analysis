@@ -1,0 +1,10 @@
+{
+    "Method": "Cochran Q Test",
+    "Status": "Not Applicable",
+    "Reason": "Cochran Q is an extension of McNemar testing for three or more matched classifiers or treatments. Only two classifiers are included here. Therefore McNemar is the appropriate corresponding test.",
+    "Number_of_Models": 2,
+    "Models": [
+        "LightGBM",
+        "XGBoost"
+    ]
+}

@@ -1,0 +1,45 @@
+MULTILAYER PERCEPTRON
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_MLP_Results
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Architecture: (128,)
+Best Activation: relu
+Best Alpha: 0.0011290133559092666
+Best Learning Rate: 0.0007591104805282694
+
+Selected Run: 3
+Selected Random State: 44
+Iterations Trained: 30
+
+Training Accuracy: 0.9997
+Validation Accuracy: 0.8732
+Testing Accuracy: 0.8372
+
+GroupKFold Accuracy: 0.7998 plus or minus 0.0431
+
+LOGO Folds Available: 42
+LOGO Folds Used: 5
+LOGO Accuracy: 0.7372 plus or minus 0.1941
+
+Precision Weighted: 0.8480
+Recall Weighted: 0.8372
+F1 Weighted: 0.8393
+F1 Macro: 0.8416
+Cohen Kappa: 0.7829
+MCC: 0.7853
+ROC AUC Weighted OVR: 0.9609
+
+Optuna Time: 17.04 minutes
+Five Run Time: 6.31 minutes
+LOGO Time: 1.07 minutes
+Learning Curve Time: 1.17 minutes
+Total Execution Time: 25.77 minutes

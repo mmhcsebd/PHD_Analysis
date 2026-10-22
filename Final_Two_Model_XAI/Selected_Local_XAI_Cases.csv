@@ -1,0 +1,17 @@
+Model,Sample_Index,Case_Type,True_Class_Index,True_Class,Predicted_Class_Index,Predicted_Class,Prediction_Confidence,PersonSrial
+LightGBM,35735,Correct_High_Confidence,0,class_lecture,0,class_lecture,0.9999891896963874,51
+LightGBM,10485,Misclassified_High_Confidence,0,class_lecture,3,reading,0.980518362381555,13
+LightGBM,34996,Correct_High_Confidence,1,music,1,music,0.9999780957593113,49
+LightGBM,36636,Misclassified_High_Confidence,1,music,2,normal,0.9996610207696743,51
+LightGBM,44943,Correct_High_Confidence,2,normal,2,normal,0.9999923619596113,59
+LightGBM,18732,Misclassified_High_Confidence,2,normal,1,music,0.9858351817217739,32
+LightGBM,32818,Correct_High_Confidence,3,reading,3,reading,0.999980417591605,47
+LightGBM,6373,Misclassified_High_Confidence,3,reading,0,class_lecture,0.8675874419825477,7
+XGBoost,3636,Correct_High_Confidence,0,class_lecture,0,class_lecture,0.9999996423721313,5
+XGBoost,10485,Misclassified_High_Confidence,0,class_lecture,3,reading,0.9967337846755981,13
+XGBoost,19602,Correct_High_Confidence,1,music,1,music,0.9999992847442627,34
+XGBoost,36636,Misclassified_High_Confidence,1,music,2,normal,0.9999586343765259,51
+XGBoost,8914,Correct_High_Confidence,2,normal,2,normal,0.9999996423721313,9
+XGBoost,18732,Misclassified_High_Confidence,2,normal,1,music,0.9968018531799316,32
+XGBoost,9936,Correct_High_Confidence,3,reading,3,reading,0.9999988079071045,9
+XGBoost,19029,Misclassified_High_Confidence,3,reading,2,normal,0.9247528910636902,32

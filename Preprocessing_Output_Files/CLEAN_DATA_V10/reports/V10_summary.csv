@@ -1,0 +1,13 @@
+Metric,Value
+V9 total CSV files,480.0
+V10 total CSV files,480.0
+V9 Muse files,240.0
+V10 Muse files,240.0
+V9 Motion Watch files,240.0
+V10 Motion Watch files,240.0
+Muse values replaced,725220.0
+Motion Watch values replaced,0.0
+Hampel half window,3.0
+Hampel total window,7.0
+Hampel threshold,3.5
+Row count errors,0.0

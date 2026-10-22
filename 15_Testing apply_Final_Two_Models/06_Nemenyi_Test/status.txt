@@ -1,0 +1,5 @@
+Nemenyi Test
+
+Status: Not Applicable
+
+The Nemenyi procedure is normally a post hoc test following a Friedman comparison involving three or more algorithms. With only LightGBM and XGBoost, a Nemenyi comparison is not appropriate.

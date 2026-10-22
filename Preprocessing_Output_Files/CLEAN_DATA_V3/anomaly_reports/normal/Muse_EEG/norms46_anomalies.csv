@@ -1,0 +1,2 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+normal,Muse EEG,norms46.csv,Gamma_AF8,3814,0.5686095,0.00963265000000002

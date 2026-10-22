@@ -1,0 +1,11 @@
+{
+    "Model": "XGBoost",
+    "Sample_Index": 3636,
+    "Participant": "5",
+    "True_Class": "class_lecture",
+    "Predicted_Class": "class_lecture",
+    "Model_Probability": 0.9999996423721312,
+    "LIME_Intercept": -0.004228933053991246,
+    "Calculated_Local_Surrogate": 0.8881958840086039,
+    "LIME_Reported_Local_Prediction": 0.8881958840086039
+}

@@ -1,0 +1,11 @@
+Metric,Value
+Total rows,1080240
+Total columns,36
+Numerical features,33
+Target feature,Delta_TP9
+Minute observations,76
+ARIMA order,"(0, 1, 1)"
+ARIMA AIC,-430.51903576629417
+ARIMA BIC,-425.88405953922154
+Residual mean,0.005032148596562736
+Residual standard deviation,0.0563654450457251

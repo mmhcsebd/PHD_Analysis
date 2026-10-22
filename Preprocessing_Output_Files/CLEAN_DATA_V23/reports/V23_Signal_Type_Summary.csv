@@ -1,0 +1,4 @@
+Signal_Type,Total_Points,Missing_Before,Zero_Run_Points,Hampel_Outliers,Abrupt_Changes,Flatline_Points,Total_Repaired,Missing_After
+band_power,21604800,0,6893443,319557,462628,11048797,849451,10866154
+motion,8641920,0,0,581020,500516,1894023,638637,1654678
+raw_eeg,4320960,0,0,150303,113009,614832,172880,577154

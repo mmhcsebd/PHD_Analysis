@@ -1,0 +1,47 @@
+Cross Attention Multimodal Transformer
+MED DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/med_dataset/Cleaned_oN_Selected_Med.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/med_dataset/Cross_Attention_Multimodal_Transformer_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Features: 96
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Trainable Parameters: 1471236
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Parameters: {'d_model': 96, 'num_heads': 4, 'self_layers': 2, 'cross_layers': 2, 'ffn_expansion': 4, 'tokenizer_kernel': 3, 'tokenizer_stride': 4, 'dropout': 0.31518264581408584, 'classifier_hidden': 256, 'learning_rate': 0.00034919195993436214, 'weight_decay': 4.637921903458029e-06, 'label_smoothing': 0.009589229386694624}
+
+Selected Run: 5
+Selected Seed: 46
+Best Epoch: 4
+
+Optuna GroupKFold Accuracy: 0.7962
+Training Accuracy: 0.9386
+Validation Accuracy: 0.8694
+Generalization Gap: 0.0692
+Testing Accuracy: 0.7861
+
+Five Run Training: 0.9128 plus or minus 0.0131
+Five Run Validation: 0.8401 plus or minus 0.0232
+Full LOGO Accuracy: 0.7831 plus or minus 0.1712
+Full LOGO Folds: 42
+
+Precision Weighted: 0.7999
+Recall Weighted: 0.7861
+F1 Weighted: 0.7854
+F1 Macro: 0.7832
+Cohen Kappa: 0.7132
+MCC: 0.7177
+ROC AUC Weighted OVR: 0.9442
+
+Optuna Time: 103.17 minutes
+Five Run Time: 15.91 minutes
+LOGO Time: 64.54 minutes
+Algorithm Total Time: 183.70 minutes
+
+Modality Grouping: Balanced feature view fallback
+Modalities: ['feature_view_1', 'feature_view_2', 'feature_view_3']

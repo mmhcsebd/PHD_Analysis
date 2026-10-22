@@ -1,0 +1,38 @@
+FINAL MODEL STATISTICAL TESTING
+========================================
+
+Split: Train 60%, Test 30%, Validation 10%
+
+Test Participants: 18
+Test Rows: 45678
+
+LightGBM Test Accuracy: 0.941482
+XGBoost Test Accuracy: 0.933819
+
+BEST MODEL BY TEST ACCURACY: LightGBM
+Best Test Accuracy: 0.941482
+
+Bootstrap Difference 95% CI: [-0.000273, 0.017152]
+McNemar Exact p: 0.0000000000
+Wilcoxon p: 0.1306650896
+Paired t Test p: 0.1089783982
+Permutation p: 0.1103889611
+
+LightGBM Cohen Kappa: 0.921748
+XGBoost Cohen Kappa: 0.911560
+
+LightGBM Brier Score: 0.082956
+XGBoost Brier Score: 0.095993
+Best Brier Model: LightGBM
+
+LightGBM ECE: 0.008721
+XGBoost ECE: 0.029195
+Best Calibration Model: LightGBM
+
+Repeated CV LightGBM: 0.906349 plus or minus 0.039439
+Repeated CV XGBoost: 0.909295 plus or minus 0.039118
+Repeated CV Best Model: XGBoost
+
+Friedman Test: Not Applicable
+Nemenyi Test: Not Applicable
+Cochran Q Test: Not Applicable

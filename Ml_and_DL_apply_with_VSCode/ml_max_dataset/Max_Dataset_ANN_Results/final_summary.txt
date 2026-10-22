@@ -1,0 +1,43 @@
+ARTIFICIAL NEURAL NETWORK
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_ANN_Results
+
+Features: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Architecture: (128, 512)
+Best Activation: gelu
+Best Dropout: 0.0598
+Best L2: 1.379540e-04
+Best Learning Rate: 1.961331e-03
+
+Selected Run: 4
+Selected Seed: 45
+Selected Epochs: 11
+
+Training Accuracy: 0.9975
+Validation Accuracy: 0.8647
+Testing Accuracy: 0.8401
+
+GroupKFold Accuracy: 0.8263 plus or minus 0.0224
+Full LOGO Accuracy: 0.8268 plus or minus 0.2134
+Full LOGO Folds: 42
+
+Precision Weighted: 0.8497
+Recall Weighted: 0.8401
+F1 Weighted: 0.8406
+F1 Macro: 0.8424
+Cohen Kappa: 0.7871
+MCC: 0.7903
+ROC AUC Weighted OVR: 0.9641
+
+Optuna Time: 10.64 minutes
+Five Run Time: 8.99 minutes
+LOGO Time This Session: 10.53 minutes
+Total Execution Time: 30.35 minutes

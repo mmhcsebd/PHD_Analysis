@@ -1,0 +1,28 @@
+FINAL TWO MODEL XAI SUMMARY
+========================================
+
+Models: LightGBM and XGBoost
+Split: Train 60%, Test 30%, Validation 10%
+
+LightGBM Test Accuracy: 0.941482
+XGBoost Test Accuracy: 0.933819
+
+SHAP Explained Test Rows: 6013
+LIME Background Training Rows: 6000
+
+Top LightGBM SHAP Feature:
+Beta_AF7__Kurtosis
+
+Top XGBoost SHAP Feature:
+Beta_AF7__Autocorrelation
+
+Top LightGBM LIME Feature:
+Theta_AF7__Kurtosis
+
+Top XGBoost LIME Feature:
+Beta_AF7__Autocorrelation
+
+SHAP Top 20 Model Similarity: 0.739130
+LIME Top 20 Model Similarity: 0.739130
+
+Execution Time: 2.07 minutes

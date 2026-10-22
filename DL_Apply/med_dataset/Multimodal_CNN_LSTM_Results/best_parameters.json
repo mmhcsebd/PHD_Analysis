@@ -1,0 +1,15 @@
+{
+    "base_channels": 32,
+    "kernel_size": 7,
+    "lstm_hidden": 96,
+    "lstm_layers": 1,
+    "conv_dropout": 0.17989856148457542,
+    "lstm_dropout": 0.3283111968057487,
+    "input_dropout": 0.16411775729253464,
+    "input_noise": 0.028063859878474814,
+    "classifier_hidden": 64,
+    "dense_dropout": 0.38068320734549854,
+    "learning_rate": 0.0003599512526417234,
+    "weight_decay": 1.2131354669452392e-06,
+    "label_smoothing": 0.010789142699330446
+}

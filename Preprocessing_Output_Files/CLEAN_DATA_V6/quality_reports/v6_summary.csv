@@ -1,0 +1,8 @@
+metric,value
+Input CSV files,480
+Muse CSV files,240
+Motion Watch CSV files,240
+Columns requested for removal,6
+Total V5 outliers detected,1511327
+Total outliers replaced,1511327
+Total V6 outliers remaining,749471

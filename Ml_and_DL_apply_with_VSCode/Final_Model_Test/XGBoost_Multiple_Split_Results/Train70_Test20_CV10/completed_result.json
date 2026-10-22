@@ -1,0 +1,27 @@
+{
+    "Experiment_Signature": "1218aedcccece376",
+    "Result_Row": {
+        "Algorithm": "XGBoost",
+        "Split_ID": "Split_01",
+        "Split_Name": "Train70_Test20_CV10",
+        "Train_Ratio": 0.7,
+        "Test_Ratio": 0.2,
+        "CV_Ratio": 0.1,
+        "Training_Participants": 42,
+        "Testing_Participants": 12,
+        "CV_Participants": 6,
+        "Training_Accuracy": 1.0,
+        "Validation_Accuracy": 0.8804510155316607,
+        "GroupKFold_Accuracy": 0.9079173129896534,
+        "GroupKFold_STD": 0.023564975449041414,
+        "Test_Accuracy": 0.9267177196341204,
+        "Precision_Weighted": 0.9311018354408287,
+        "Recall_Weighted": 0.9267177196341204,
+        "F1_Weighted": 0.9259001446999457,
+        "F1_Macro": 0.9277140702836166,
+        "MCC": 0.9037154677453079,
+        "Cohen_Kappa": 0.9016524298395571,
+        "ROC_AUC_Weighted": 0.9967621147888786,
+        "Result_Directory": "/home/rakib/Desktop/ml_apply/Final_Model_Test/XGBoost_Multiple_Split_Results/Train70_Test20_CV10"
+    }
+}

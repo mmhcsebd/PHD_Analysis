@@ -1,0 +1,5 @@
+Outcome,Count
+Both Correct,42343
+LightGBM Correct XGBoost Wrong,662
+LightGBM Wrong XGBoost Correct,312
+Both Wrong,2361

@@ -1,0 +1,13 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+music,Muse EEG,mums27.csv,Delta_AF7,211,2.5256286,1.87063115
+music,Muse EEG,mums27.csv,Theta_AF8,4675,1.1265152,0.62223553
+music,Muse EEG,mums27.csv,Alpha_AF8,33,1.0094352,0.67631708
+music,Muse EEG,mums27.csv,Beta_AF7,4781,0.42630115,0.103041285
+music,Muse EEG,mums27.csv,Gamma_TP9,4776,0.95135206,0.25791688900000004
+music,Muse EEG,mums27.csv,Gamma_TP9,4777,0.52186805,0.47434905800000005
+music,Muse EEG,mums27.csv,Gamma_AF7,4381,0.0943977,-0.24481672999999998
+music,Muse EEG,mums27.csv,Gamma_AF7,4679,0.28478226,-0.23196336199999998
+music,Muse EEG,mums27.csv,Gamma_AF7,4781,0.253013,-0.16186065
+music,Muse EEG,mums27.csv,Gamma_AF7,4782,0.2156574,-0.13803145000000003
+music,Muse EEG,mums27.csv,Gamma_AF7,5060,0.5524455,-0.11847089
+music,Muse EEG,mums27.csv,Gamma_AF7,5061,0.23890272,0.057837150000000004

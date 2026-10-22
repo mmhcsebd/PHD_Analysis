@@ -1,0 +1,10 @@
+{
+    "Method": "Nemenyi Test",
+    "Status": "Not Applicable",
+    "Reason": "The Nemenyi procedure is normally a post hoc test following a Friedman comparison involving three or more algorithms. With only LightGBM and XGBoost, a Nemenyi comparison is not appropriate.",
+    "Number_of_Models": 2,
+    "Models": [
+        "LightGBM",
+        "XGBoost"
+    ]
+}

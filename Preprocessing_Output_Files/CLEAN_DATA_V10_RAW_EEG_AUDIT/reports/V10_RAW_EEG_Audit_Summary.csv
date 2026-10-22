@@ -1,0 +1,11 @@
+Metric,Value
+"Median sampling rate, Hz",980.3923005177516
+"Minimum sampling rate, Hz",0.4065040650468063
+"Maximum sampling rate, Hz",1000.0000689178753
+Total RAW EEG missing values,1638.0
+Total flatline points,570621.0
+Total extreme points,0.0
+Total zero values,135597.0
+RAW EEG missing percentage,0.03671942636992827
+RAW EEG flatline percentage,12.791743464368032
+RAW EEG zero value percentage,3.0397094368029083

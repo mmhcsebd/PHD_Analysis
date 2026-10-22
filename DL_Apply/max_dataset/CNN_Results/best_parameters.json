@@ -1,0 +1,11 @@
+{
+    "n_conv_blocks": 3,
+    "base_filters": 64,
+    "kernel_size": 7,
+    "conv_dropout": 0.3396896099223678,
+    "dense_units": 64,
+    "dense_dropout": 0.3736932106048628,
+    "learning_rate": 0.00044684675025045853,
+    "weight_decay": 2.3233503515390116e-06,
+    "label_smoothing": 0.04951769101112702
+}

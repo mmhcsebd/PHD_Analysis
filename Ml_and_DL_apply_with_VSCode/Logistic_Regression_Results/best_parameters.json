@@ -1,0 +1,6 @@
+{
+    "C": 0.0012363188277052211,
+    "Penalty": "L2",
+    "Solver": "LBFGS",
+    "Best_GroupKFold_Accuracy": 0.7035729016272669
+}

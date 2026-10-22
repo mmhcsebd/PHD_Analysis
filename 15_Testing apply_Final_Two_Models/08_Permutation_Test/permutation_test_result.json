@@ -1,0 +1,7 @@
+{
+    "Observed_Mean_Participant_Accuracy_Difference": 0.00995430303210045,
+    "Iterations": 10000,
+    "P_Value": 0.11038896110388961,
+    "Significance": "Not statistically significant at alpha = 0.05",
+    "Direction": "LightGBM minus XGBoost"
+}

@@ -1,0 +1,23 @@
+{
+    "Models": [
+        "LightGBM",
+        "XGBoost"
+    ],
+    "Selected_Data_Split": "Training 60 percent, Testing 30 percent, Validation 10 percent",
+    "LightGBM_Test_Accuracy": 0.9414816760803888,
+    "XGBoost_Test_Accuracy": 0.9338193441043828,
+    "SHAP_Explained_Test_Rows": 6013,
+    "LIME_Background_Training_Rows": 6000,
+    "LightGBM_LIME_Explained_Test_Rows": 28,
+    "XGBoost_LIME_Explained_Test_Rows": 28,
+    "SHAP_Top_Feature_LightGBM": "Beta_AF7__Kurtosis",
+    "SHAP_Top_Feature_XGBoost": "Beta_AF7__Autocorrelation",
+    "LIME_Top_Feature_LightGBM": "Theta_AF7__Kurtosis",
+    "LIME_Top_Feature_XGBoost": "Beta_AF7__Autocorrelation",
+    "SHAP_Top20_Model_Jaccard": 0.7391304347826086,
+    "LIME_Top20_Model_Jaccard": 0.7391304347826086,
+    "SHAP_Output_Interpretation": "Tree SHAP values are calculated on the tree model output scale. Original feature values are used for visual display.",
+    "LIME_Output_Interpretation": "LIME operates on original feature values while the prediction wrapper applies the saved model scaler before prediction.",
+    "Descriptive_Consensus_Note": "The SHAP and LIME consensus score is a descriptive normalized ranking and is not a statistical significance test.",
+    "Execution_Time_Minutes": 2.0717251102129617
+}

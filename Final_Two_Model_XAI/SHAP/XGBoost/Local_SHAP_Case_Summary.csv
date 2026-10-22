@@ -1,0 +1,9 @@
+Sample_Index,PersonSrial,Case_Type,True_Class,Predicted_Class,Prediction_Confidence,Explained_Class,Base_Value
+3636,5,Correct_High_Confidence,class_lecture,class_lecture,0.9999996423721313,class_lecture,-0.06279239803552628
+10485,13,Misclassified_High_Confidence,class_lecture,reading,0.9967337846755981,reading,-0.7223091721534729
+19602,34,Correct_High_Confidence,music,music,0.9999992847442627,music,0.2267424613237381
+36636,51,Misclassified_High_Confidence,music,normal,0.9999586343765259,normal,0.14403122663497925
+8914,9,Correct_High_Confidence,normal,normal,0.9999996423721313,normal,0.14403122663497925
+18732,32,Misclassified_High_Confidence,normal,music,0.9968018531799316,music,0.2267424613237381
+9936,9,Correct_High_Confidence,reading,reading,0.9999988079071045,reading,-0.7223091721534729
+19029,32,Misclassified_High_Confidence,reading,normal,0.9247528910636902,normal,0.14403122663497925

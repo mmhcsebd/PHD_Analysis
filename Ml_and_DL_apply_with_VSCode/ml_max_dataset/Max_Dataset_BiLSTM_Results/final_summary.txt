@@ -1,0 +1,43 @@
+BiLSTM WITH INTEL ARC A750
+MAX DATASET
+
+GPU: Intel(R) Arc(TM) A750 Graphics
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_BiLSTM_Results
+
+Input Features: 232
+Sequence Length: 10
+Sequence Stride: 1
+Sequence Strategy: window_seq
+
+Training Sequences: 107374
+Validation Sequences: 14351
+Testing Sequences: 27085
+
+Best Parameters: {'n_lstm_layers': 1, 'lstm_units': 32, 'dense_units': 128, 'dropout': 0.09242722776276352, 'recurrent_dropout': 0.38783385110582347, 'input_dropout': 0.23253984700833435, 'l2': 0.0006584106160121611, 'learning_rate': 0.00331348361550895, 'activation': 'tanh'}
+
+Selected Run: 5
+Selected Seed: 46
+Best Epoch: 17
+
+Training Accuracy: 0.9972
+Validation Accuracy: 0.8285
+Testing Accuracy: 0.6157
+
+GroupKFold Accuracy: 0.6410 plus or minus 0.0763
+LOGO Accuracy: 0.4596 plus or minus 0.2617
+LOGO Folds Used: 3
+
+Precision Weighted: 0.6066
+Recall Weighted: 0.6157
+F1 Weighted: 0.6079
+F1 Macro: 0.5945
+Cohen Kappa: 0.4402
+MCC: 0.4427
+ROC AUC Weighted OVR: 0.8317
+
+Optuna Time: 21.94 minutes
+Five Run Time: 15.42 minutes
+LOGO Time This Session: 2.67 minutes
+Test Prediction Time: 0.46 seconds
+Total Execution Time: 40.26 minutes

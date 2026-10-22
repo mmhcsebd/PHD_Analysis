@@ -1,0 +1,22 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+normal,Muse EEG,norms52.csv,Beta_AF7,98,0.72096586,0.442533057
+normal,Muse EEG,norms52.csv,Beta_AF7,99,0.8046,0.38491019299999996
+normal,Muse EEG,norms52.csv,Beta_AF7,867,0.72991014,0.22928093
+normal,Muse EEG,norms52.csv,Beta_AF8,4748,0.9457347,0.55267518
+normal,Muse EEG,norms52.csv,Beta_AF8,4901,0.98948777,0.7952372
+normal,Muse EEG,norms52.csv,Gamma_TP9,3907,0.98748755,0.29208814935000005
+normal,Muse EEG,norms52.csv,Gamma_AF8,1023,0.41583183,0.02571712000000001
+normal,Muse EEG,norms52.csv,Gamma_AF8,1024,0.3852665,0.021930439999999995
+normal,Muse EEG,norms52.csv,Gamma_AF8,1277,0.35339218,0.0020972099999999883
+normal,Muse EEG,norms52.csv,Gamma_AF8,1278,0.4179482,-0.012803275000000003
+normal,Muse EEG,norms52.csv,Gamma_AF8,1306,0.41376227,-0.297812385
+normal,Muse EEG,norms52.csv,Gamma_AF8,1382,0.47823483,-0.27621525999999996
+normal,Muse EEG,norms52.csv,Gamma_AF8,1659,0.3798021,-0.11064825
+normal,Muse EEG,norms52.csv,Gamma_AF8,1890,0.56094706,-0.063802075
+normal,Muse EEG,norms52.csv,Gamma_AF8,2324,0.5126059,-0.19497976849999998
+normal,Muse EEG,norms52.csv,Gamma_AF8,2939,0.35898846,-0.37606083
+normal,Muse EEG,norms52.csv,Gamma_AF8,3160,0.3813326,0.04644129999999996
+normal,Muse EEG,norms52.csv,Gamma_AF8,3161,0.54238236,-0.06418309999999999
+normal,Muse EEG,norms52.csv,Gamma_AF8,3201,0.551441,-0.147507695
+normal,Muse EEG,norms52.csv,Gamma_AF8,4749,0.33963126,0.125829445
+normal,Muse EEG,norms52.csv,Gamma_TP10,83,1.0258765,0.065734308

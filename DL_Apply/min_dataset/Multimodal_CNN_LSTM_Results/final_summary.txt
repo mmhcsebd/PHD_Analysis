@@ -1,0 +1,49 @@
+Multimodal CNN LSTM
+MIN DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/min_dataset/Cleaned_oN_Selected_Min.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/min_dataset/Multimodal_CNN_LSTM_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Features: 25
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Trainable Parameters: 182021
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Parameters: {'base_channels': 64, 'kernel_size': 3, 'lstm_hidden': 32, 'lstm_layers': 1, 'conv_dropout': 0.1732756919514748, 'lstm_dropout': 0.3743039394883317, 'input_dropout': 0.18506270857449958, 'input_noise': 0.0316550728636634, 'classifier_hidden': 128, 'dense_dropout': 0.43148891971755987, 'learning_rate': 0.0014694924450340523, 'weight_decay': 0.0008478107036312342, 'label_smoothing': 0.0779875545857624}
+
+Selected Run: 1
+Selected Seed: 42
+Best Epoch: 3
+
+Optuna GroupKFold Accuracy: 0.6485
+Training Accuracy: 0.7482
+Validation Accuracy: 0.6575
+Generalization Gap: 0.0907
+Testing Accuracy: 0.5737
+
+Five Run Training: 0.7329 plus or minus 0.0140
+Five Run Validation: 0.6403 plus or minus 0.0105
+Five Run Gap: 0.0926 plus or minus 0.0083
+
+Full LOGO Accuracy: 0.6382 plus or minus 0.1879
+Full LOGO Folds: 42
+
+Precision Weighted: 0.6144
+Recall Weighted: 0.5737
+F1 Weighted: 0.5781
+F1 Macro: 0.5793
+Cohen Kappa: 0.4310
+MCC: 0.4418
+ROC AUC Weighted OVR: 0.8169
+
+Optuna Time: 54.92 minutes
+Five Run Time: 4.50 minutes
+LOGO Time: 12.47 minutes
+Algorithm Total Time: 71.94 minutes
+
+Modality Grouping: Balanced feature view fallback
+Modalities: ['feature_view_1', 'feature_view_2', 'feature_view_3']

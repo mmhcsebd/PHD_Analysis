@@ -1,0 +1,7 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+class_lecture,Muse EEG,clms58.csv,Beta_TP10,2670,1.4001657,0.9746317
+class_lecture,Muse EEG,clms58.csv,Beta_TP10,5724,1.4001657,0.9746317
+class_lecture,Muse EEG,clms58.csv,Gamma_TP10,2670,1.2857012,0.91658815
+class_lecture,Muse EEG,clms58.csv,Gamma_TP10,2671,1.2867295,0.9371117
+class_lecture,Muse EEG,clms58.csv,Gamma_TP10,5724,1.2857012,0.91658815
+class_lecture,Muse EEG,clms58.csv,Gamma_TP10,5725,1.2867295,0.9371117

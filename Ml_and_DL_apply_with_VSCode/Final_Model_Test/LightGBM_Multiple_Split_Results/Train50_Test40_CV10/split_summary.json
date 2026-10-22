@@ -1,0 +1,12 @@
+{
+    "Split_Name": "Train50_Test40_CV10",
+    "Requested_Train_Ratio": 0.5,
+    "Requested_Test_Ratio": 0.4,
+    "Requested_CV_Ratio": 0.1,
+    "Training_Participants": 30,
+    "Validation_Participants": 6,
+    "Testing_Participants": 24,
+    "Training_Rows": 75782,
+    "Validation_Rows": 13392,
+    "Testing_Rows": 60176
+}

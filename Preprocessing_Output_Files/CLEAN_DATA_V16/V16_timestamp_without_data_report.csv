@@ -1,0 +1,241 @@
+Serial,File_Name,Folder,Relative_Path,Timestamp_Column,Rows_Total,Rows_With_Timestamp,Rows_With_Timestamp_And_No_Other_Data,First_Empty_Data_Timestamp,Last_Empty_Data_Timestamp,Status
+1,clms1.csv,class_lecture,class_lecture/clms1.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+2,clms10.csv,class_lecture,class_lecture/clms10.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+3,clms11.csv,class_lecture,class_lecture/clms11.csv,TimeStamp,4501,4501,1490,9:50:12 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+4,clms12.csv,class_lecture,class_lecture/clms12.csv,TimeStamp,4501,4501,2391,9:35:11 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+5,clms13.csv,class_lecture,class_lecture/clms13.csv,TimeStamp,4501,4501,2762,9:29:00 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+6,clms14.csv,class_lecture,class_lecture/clms14.csv,TimeStamp,4501,4501,369,10:08:53 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+7,clms15.csv,class_lecture,class_lecture/clms15.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+8,clms16.csv,class_lecture,class_lecture/clms16.csv,TimeStamp,4501,4501,2868,9:27:14 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+9,clms17.csv,class_lecture,class_lecture/clms17.csv,TimeStamp,4501,4501,1673,9:47:09 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+10,clms18.csv,class_lecture,class_lecture/clms18.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+11,clms19.csv,class_lecture,class_lecture/clms19.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+12,clms2.csv,class_lecture,class_lecture/clms2.csv,TimeStamp,4501,4501,1490,9:50:12 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+13,clms20.csv,class_lecture,class_lecture/clms20.csv,TimeStamp,4501,4501,2334,9:36:08 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+14,clms21.csv,class_lecture,class_lecture/clms21.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+15,clms22.csv,class_lecture,class_lecture/clms22.csv,TimeStamp,4501,4501,2406,9:34:56 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+16,clms23.csv,class_lecture,class_lecture/clms23.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+17,clms24.csv,class_lecture,class_lecture/clms24.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+18,clms25.csv,class_lecture,class_lecture/clms25.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+19,clms26.csv,class_lecture,class_lecture/clms26.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+20,clms27.csv,class_lecture,class_lecture/clms27.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+21,clms28.csv,class_lecture,class_lecture/clms28.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+22,clms29.csv,class_lecture,class_lecture/clms29.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+23,clms3.csv,class_lecture,class_lecture/clms3.csv,TimeStamp,4501,4501,2266,9:37:16 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+24,clms30.csv,class_lecture,class_lecture/clms30.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+25,clms31.csv,class_lecture,class_lecture/clms31.csv,TimeStamp,4501,4501,2079,9:40:23 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+26,clms32.csv,class_lecture,class_lecture/clms32.csv,TimeStamp,4501,4501,1019,9:58:03 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+27,clms33.csv,class_lecture,class_lecture/clms33.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+28,clms34.csv,class_lecture,class_lecture/clms34.csv,TimeStamp,4501,4501,2895,9:26:47 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+29,clms35.csv,class_lecture,class_lecture/clms35.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+30,clms36.csv,class_lecture,class_lecture/clms36.csv,TimeStamp,4501,4501,2082,9:40:20 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+31,clms37.csv,class_lecture,class_lecture/clms37.csv,TimeStamp,4501,4501,2111,9:39:51 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+32,clms38.csv,class_lecture,class_lecture/clms38.csv,TimeStamp,4501,4501,2221,9:38:01 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+33,clms39.csv,class_lecture,class_lecture/clms39.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+34,clms4.csv,class_lecture,class_lecture/clms4.csv,TimeStamp,4501,4501,2334,9:36:08 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+35,clms40.csv,class_lecture,class_lecture/clms40.csv,TimeStamp,4501,4501,1777,9:45:25 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+36,clms41.csv,class_lecture,class_lecture/clms41.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+37,clms42.csv,class_lecture,class_lecture/clms42.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+38,clms43.csv,class_lecture,class_lecture/clms43.csv,TimeStamp,4501,4501,2868,9:27:14 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+39,clms44.csv,class_lecture,class_lecture/clms44.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+40,clms45.csv,class_lecture,class_lecture/clms45.csv,TimeStamp,4501,4501,2996,9:25:06 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+41,clms46.csv,class_lecture,class_lecture/clms46.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+42,clms47.csv,class_lecture,class_lecture/clms47.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+43,clms48.csv,class_lecture,class_lecture/clms48.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+44,clms49.csv,class_lecture,class_lecture/clms49.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+45,clms5.csv,class_lecture,class_lecture/clms5.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+46,clms50.csv,class_lecture,class_lecture/clms50.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+47,clms51.csv,class_lecture,class_lecture/clms51.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+48,clms52.csv,class_lecture,class_lecture/clms52.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+49,clms53.csv,class_lecture,class_lecture/clms53.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+50,clms54.csv,class_lecture,class_lecture/clms54.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+51,clms55.csv,class_lecture,class_lecture/clms55.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+52,clms56.csv,class_lecture,class_lecture/clms56.csv,TimeStamp,4501,4501,1490,9:50:12 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+53,clms57.csv,class_lecture,class_lecture/clms57.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+54,clms58.csv,class_lecture,class_lecture/clms58.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+55,clms59.csv,class_lecture,class_lecture/clms59.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+56,clms6.csv,class_lecture,class_lecture/clms6.csv,TimeStamp,4501,4501,587,10:05:15 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+57,clms60.csv,class_lecture,class_lecture/clms60.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+58,clms7.csv,class_lecture,class_lecture/clms7.csv,TimeStamp,4501,4501,2064,9:40:38 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+59,clms8.csv,class_lecture,class_lecture/clms8.csv,TimeStamp,4501,4501,2110,9:39:52 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+60,clms9.csv,class_lecture,class_lecture/clms9.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+61,mums1.csv,music,music/mums1.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+62,mums10.csv,music,music/mums10.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+63,mums11.csv,music,music/mums11.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+64,mums12.csv,music,music/mums12.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+65,mums13.csv,music,music/mums13.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+66,mums14.csv,music,music/mums14.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+67,mums15.csv,music,music/mums15.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+68,mums16.csv,music,music/mums16.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+69,mums17.csv,music,music/mums17.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+70,mums18.csv,music,music/mums18.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+71,mums19.csv,music,music/mums19.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+72,mums2.csv,music,music/mums2.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+73,mums20.csv,music,music/mums20.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+74,mums21.csv,music,music/mums21.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+75,mums22.csv,music,music/mums22.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+76,mums23.csv,music,music/mums23.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+77,mums24.csv,music,music/mums24.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+78,mums25.csv,music,music/mums25.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+79,mums26.csv,music,music/mums26.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+80,mums27.csv,music,music/mums27.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+81,mums28.csv,music,music/mums28.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+82,mums29.csv,music,music/mums29.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+83,mums3.csv,music,music/mums3.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+84,mums30.csv,music,music/mums30.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+85,mums31.csv,music,music/mums31.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+86,mums32.csv,music,music/mums32.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+87,mums33.csv,music,music/mums33.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+88,mums34.csv,music,music/mums34.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+89,mums35.csv,music,music/mums35.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+90,mums36.csv,music,music/mums36.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+91,mums37.csv,music,music/mums37.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+92,mums38.csv,music,music/mums38.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+93,mums39.csv,music,music/mums39.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+94,mums4.csv,music,music/mums4.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+95,mums40.csv,music,music/mums40.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+96,mums41.csv,music,music/mums41.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+97,mums42.csv,music,music/mums42.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+98,mums43.csv,music,music/mums43.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+99,mums44.csv,music,music/mums44.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+100,mums45.csv,music,music/mums45.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+101,mums46.csv,music,music/mums46.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+102,mums47.csv,music,music/mums47.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+103,mums48.csv,music,music/mums48.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+104,mums49.csv,music,music/mums49.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+105,mums5.csv,music,music/mums5.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+106,mums50.csv,music,music/mums50.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+107,mums51.csv,music,music/mums51.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+108,mums52.csv,music,music/mums52.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+109,mums53.csv,music,music/mums53.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+110,mums54.csv,music,music/mums54.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+111,mums55.csv,music,music/mums55.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+112,mums56.csv,music,music/mums56.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+113,mums57.csv,music,music/mums57.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+114,mums58.csv,music,music/mums58.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+115,mums59.csv,music,music/mums59.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+116,mums6.csv,music,music/mums6.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+117,mums60.csv,music,music/mums60.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+118,mums7.csv,music,music/mums7.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+119,mums8.csv,music,music/mums8.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+120,mums9.csv,music,music/mums9.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+121,norms1.csv,normal,normal/norms1.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+122,norms10.csv,normal,normal/norms10.csv,TimeStamp,4501,4501,1592,9:48:30 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+123,norms11.csv,normal,normal/norms11.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+124,norms12.csv,normal,normal/norms12.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+125,norms13.csv,normal,normal/norms13.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+126,norms14.csv,normal,normal/norms14.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+127,norms15.csv,normal,normal/norms15.csv,TimeStamp,4501,4501,1226,9:54:36 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+128,norms16.csv,normal,normal/norms16.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+129,norms17.csv,normal,normal/norms17.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+130,norms18.csv,normal,normal/norms18.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+131,norms19.csv,normal,normal/norms19.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+132,norms2.csv,normal,normal/norms2.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+133,norms20.csv,normal,normal/norms20.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+134,norms21.csv,normal,normal/norms21.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+135,norms22.csv,normal,normal/norms22.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+136,norms23.csv,normal,normal/norms23.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+137,norms24.csv,normal,normal/norms24.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+138,norms25.csv,normal,normal/norms25.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+139,norms26.csv,normal,normal/norms26.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+140,norms27.csv,normal,normal/norms27.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+141,norms28.csv,normal,normal/norms28.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+142,norms29.csv,normal,normal/norms29.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+143,norms3.csv,normal,normal/norms3.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+144,norms30.csv,normal,normal/norms30.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+145,norms31.csv,normal,normal/norms31.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+146,norms32.csv,normal,normal/norms32.csv,TimeStamp,4501,4501,24,10:14:38 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+147,norms33.csv,normal,normal/norms33.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+148,norms34.csv,normal,normal/norms34.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+149,norms35.csv,normal,normal/norms35.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+150,norms36.csv,normal,normal/norms36.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+151,norms37.csv,normal,normal/norms37.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+152,norms38.csv,normal,normal/norms38.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+153,norms39.csv,normal,normal/norms39.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+154,norms4.csv,normal,normal/norms4.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+155,norms40.csv,normal,normal/norms40.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+156,norms41.csv,normal,normal/norms41.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+157,norms42.csv,normal,normal/norms42.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+158,norms43.csv,normal,normal/norms43.csv,TimeStamp,4501,4501,51,10:14:11 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+159,norms44.csv,normal,normal/norms44.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+160,norms45.csv,normal,normal/norms45.csv,TimeStamp,4501,4501,279,10:10:23 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+161,norms46.csv,normal,normal/norms46.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+162,norms47.csv,normal,normal/norms47.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+163,norms48.csv,normal,normal/norms48.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+164,norms49.csv,normal,normal/norms49.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+165,norms5.csv,normal,normal/norms5.csv,TimeStamp,4501,4501,1944,9:42:38 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+166,norms50.csv,normal,normal/norms50.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+167,norms51.csv,normal,normal/norms51.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+168,norms52.csv,normal,normal/norms52.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+169,norms53.csv,normal,normal/norms53.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+170,norms54.csv,normal,normal/norms54.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+171,norms55.csv,normal,normal/norms55.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+172,norms56.csv,normal,normal/norms56.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+173,norms57.csv,normal,normal/norms57.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+174,norms58.csv,normal,normal/norms58.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+175,norms59.csv,normal,normal/norms59.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+176,norms6.csv,normal,normal/norms6.csv,TimeStamp,4501,4501,892,10:00:10 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+177,norms60.csv,normal,normal/norms60.csv,TimeStamp,4501,4501,556,10:05:46 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+178,norms7.csv,normal,normal/norms7.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+179,norms8.csv,normal,normal/norms8.csv,TimeStamp,4501,4501,1280,9:53:42 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+180,norms9.csv,normal,normal/norms9.csv,TimeStamp,4501,4501,512,10:06:30 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+181,rdms1.csv,reading,reading/rdms1.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+182,rdms10.csv,reading,reading/rdms10.csv,TimeStamp,4501,4501,2324,9:36:18 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+183,rdms11.csv,reading,reading/rdms11.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+184,rdms12.csv,reading,reading/rdms12.csv,TimeStamp,4501,4501,2067,9:40:35 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+185,rdms13.csv,reading,reading/rdms13.csv,TimeStamp,4501,4501,2407,9:34:55 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+186,rdms14.csv,reading,reading/rdms14.csv,TimeStamp,4501,4501,369,10:08:53 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+187,rdms15.csv,reading,reading/rdms15.csv,TimeStamp,4501,4501,1226,9:54:36 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+188,rdms16.csv,reading,reading/rdms16.csv,TimeStamp,4501,4501,2369,9:35:33 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+189,rdms17.csv,reading,reading/rdms17.csv,TimeStamp,4501,4501,2080,9:40:22 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+190,rdms18.csv,reading,reading/rdms18.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+191,rdms19.csv,reading,reading/rdms19.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+192,rdms2.csv,reading,reading/rdms2.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+193,rdms20.csv,reading,reading/rdms20.csv,TimeStamp,4501,4501,1834,9:44:28 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+194,rdms21.csv,reading,reading/rdms21.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+195,rdms22.csv,reading,reading/rdms22.csv,TimeStamp,4501,4501,2223,9:37:59 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+196,rdms23.csv,reading,reading/rdms23.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+197,rdms24.csv,reading,reading/rdms24.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+198,rdms25.csv,reading,reading/rdms25.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+199,rdms26.csv,reading,reading/rdms26.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+200,rdms27.csv,reading,reading/rdms27.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+201,rdms28.csv,reading,reading/rdms28.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+202,rdms29.csv,reading,reading/rdms29.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+203,rdms3.csv,reading,reading/rdms3.csv,TimeStamp,4501,4501,2262,9:37:20 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+204,rdms30.csv,reading,reading/rdms30.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+205,rdms31.csv,reading,reading/rdms31.csv,TimeStamp,4501,4501,3033,9:24:29 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+206,rdms32.csv,reading,reading/rdms32.csv,TimeStamp,4501,4501,1019,9:58:03 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+207,rdms33.csv,reading,reading/rdms33.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+208,rdms34.csv,reading,reading/rdms34.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+209,rdms35.csv,reading,reading/rdms35.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+210,rdms36.csv,reading,reading/rdms36.csv,TimeStamp,4501,4501,2571,9:32:11 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+211,rdms37.csv,reading,reading/rdms37.csv,TimeStamp,4501,4501,3047,9:24:15 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+212,rdms38.csv,reading,reading/rdms38.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+213,rdms39.csv,reading,reading/rdms39.csv,TimeStamp,4501,4501,1226,9:54:36 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+214,rdms4.csv,reading,reading/rdms4.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+215,rdms40.csv,reading,reading/rdms40.csv,TimeStamp,4501,4501,2671,9:30:31 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+216,rdms41.csv,reading,reading/rdms41.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+217,rdms42.csv,reading,reading/rdms42.csv,TimeStamp,4501,4501,2324,9:36:18 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+218,rdms43.csv,reading,reading/rdms43.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+219,rdms44.csv,reading,reading/rdms44.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+220,rdms45.csv,reading,reading/rdms45.csv,TimeStamp,4501,4501,1398,9:51:44 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+221,rdms46.csv,reading,reading/rdms46.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+222,rdms47.csv,reading,reading/rdms47.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+223,rdms48.csv,reading,reading/rdms48.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+224,rdms49.csv,reading,reading/rdms49.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+225,rdms5.csv,reading,reading/rdms5.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+226,rdms50.csv,reading,reading/rdms50.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+227,rdms51.csv,reading,reading/rdms51.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+228,rdms52.csv,reading,reading/rdms52.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+229,rdms53.csv,reading,reading/rdms53.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+230,rdms54.csv,reading,reading/rdms54.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+231,rdms55.csv,reading,reading/rdms55.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+232,rdms56.csv,reading,reading/rdms56.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+233,rdms57.csv,reading,reading/rdms57.csv,TimeStamp,4501,4501,1592,9:48:30 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+234,rdms58.csv,reading,reading/rdms58.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+235,rdms59.csv,reading,reading/rdms59.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+236,rdms6.csv,reading,reading/rdms6.csv,TimeStamp,4501,4501,587,10:05:15 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+237,rdms60.csv,reading,reading/rdms60.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT
+238,rdms7.csv,reading,reading/rdms7.csv,TimeStamp,4501,4501,2268,9:37:14 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+239,rdms8.csv,reading,reading/rdms8.csv,TimeStamp,4501,4501,2363,9:35:39 AM,10:15:01 AM,TIMESTAMP EXISTS BUT OTHER DATA EMPTY
+240,rdms9.csv,reading,reading/rdms9.csv,TimeStamp,4501,4501,0,,,TIMESTAMP AND OTHER DATA PRESENT

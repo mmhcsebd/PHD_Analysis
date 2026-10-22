@@ -1,0 +1,13 @@
+{
+    "total_rows": 1080240,
+    "total_columns": 37,
+    "missing_values": 13016,
+    "duplicate_rows": 0,
+    "participants": 60,
+    "classes": 4,
+    "participants_with_all_classes": 60,
+    "class_column": "Class",
+    "participant_column": "PersonSrial",
+    "timestamp_column": "TimeStamp",
+    "numeric_features": 33
+}

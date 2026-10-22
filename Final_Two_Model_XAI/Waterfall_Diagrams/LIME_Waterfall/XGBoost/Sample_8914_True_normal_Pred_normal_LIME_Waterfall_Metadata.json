@@ -1,0 +1,11 @@
+{
+    "Model": "XGBoost",
+    "Sample_Index": 8914,
+    "Participant": "9",
+    "True_Class": "normal",
+    "Predicted_Class": "normal",
+    "Model_Probability": 0.9999996423721312,
+    "LIME_Intercept": -0.008296892017697122,
+    "Calculated_Local_Surrogate": 1.0818097915582512,
+    "LIME_Reported_Local_Prediction": 1.0818097915582514
+}

@@ -1,0 +1,39 @@
+GAUSSIAN NAIVE BAYES
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_Gaussian_Naive_Bayes_Results
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Uniform Class Priors: True
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Optuna Best var_smoothing: 2.34888130e-09
+Selected Run: 1
+Selected var_smoothing: 1.48204390e-09
+
+Training Accuracy: 0.5895
+Validation Accuracy: 0.6042
+Testing Accuracy: 0.4393
+
+GroupKFold Accuracy: 0.5467 plus or minus 0.0693
+Full LOGO Accuracy: 0.5479 plus or minus 0.2354
+Full LOGO Folds: 42
+
+Precision Weighted: 0.4493
+Recall Weighted: 0.4393
+F1 Weighted: 0.3362
+F1 Macro: 0.3248
+Cohen Kappa: 0.2570
+MCC: 0.3207
+ROC AUC Weighted OVR: N/A
+
+Optuna Time: 25.69 seconds
+Five Run Time: 13.13 seconds
+LOGO Time This Session: 16.23 seconds
+Learning Curve Time: 4.65 seconds
+Total Execution Time: 71.89 seconds

@@ -1,0 +1,13 @@
+Parameter,Value
+Input rows,215760
+Input columns,699
+Feature columns,693
+Participants,60
+Classes,4
+Total missing feature cells,3364996
+Visualization sample,60000
+PCA sample,30000
+Sampling rate,1 Hz
+Window duration,10 seconds
+Step duration,5 seconds
+Potential outlier threshold,3.5

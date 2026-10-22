@@ -1,0 +1,22 @@
+{
+    "accuracy": 0.9004523222888243,
+    "precision_weighted": 0.905307706483483,
+    "recall_weighted": 0.9004523222888243,
+    "f1_weighted": 0.9007733991625845,
+    "f1_macro": 0.8995644813475078,
+    "cohen_kappa": 0.8670495954167392,
+    "mcc": 0.8682925173560186,
+    "roc_auc_weighted": 0.9889535068835619,
+    "training_accuracy": 0.9999907194298018,
+    "validation_accuracy": 0.9415480735855606,
+    "groupkfold_accuracy": 0.8937891930738878,
+    "groupkfold_std": 0.013244982441847233,
+    "full_logo_accuracy": 0.922555175871891,
+    "full_logo_std": 0.12236650345789336,
+    "full_logo_folds": 42,
+    "best_iteration": 241,
+    "optuna_time_seconds": 687.7422804832458,
+    "five_run_time_seconds": 272.2411081790924,
+    "logo_time_seconds": 402.58668756484985,
+    "learning_curve_time_seconds": 16.655864000320435
+}

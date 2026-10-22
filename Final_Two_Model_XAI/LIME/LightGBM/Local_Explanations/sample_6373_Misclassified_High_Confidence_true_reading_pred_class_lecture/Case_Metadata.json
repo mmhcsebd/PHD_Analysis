@@ -1,0 +1,9 @@
+{
+    "Model": "LightGBM",
+    "Sample_Index": 6373,
+    "PersonSrial": "7",
+    "Case_Type": "Misclassified_High_Confidence",
+    "True_Class": "reading",
+    "Predicted_Class": "class_lecture",
+    "Prediction_Confidence": 0.8675874419825477
+}

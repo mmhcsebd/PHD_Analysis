@@ -1,0 +1,42 @@
+CROSS ATTENTION MULTIMODAL TRANSFORMER
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/max_dataset/Cross_Attention_Multimodal_Transformer_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Feature Count: 232
+Feature Modalities: ['feature_view_1', 'feature_view_2', 'feature_view_3']
+Grouping Mode: Balanced feature view fallback
+Trainable Parameters: 1471236
+
+Best Parameters: {'d_model': 96, 'num_heads': 4, 'self_layers': 2, 'cross_layers': 2, 'ffn_expansion': 4, 'tokenizer_kernel': 3, 'tokenizer_stride': 4, 'dropout': 0.31518264581408584, 'classifier_hidden': 256, 'learning_rate': 0.00034919195993436214, 'weight_decay': 4.637921903458029e-06, 'label_smoothing': 0.009589229386694624}
+
+Selected Run: 4
+Selected Seed: 45
+Best Epoch: 5
+
+Optuna GroupKFold Accuracy: 0.8631
+Training Accuracy: 0.9955
+Validation Accuracy: 0.8691
+Testing Accuracy: 0.8249
+
+Five Run Training: 0.9901 plus or minus 0.0078
+Five Run Validation: 0.8538 plus or minus 0.0139
+
+Full LOGO Accuracy: 0.8301 plus or minus 0.1881
+Full LOGO Folds: 42
+
+Precision Weighted: 0.8312
+Recall Weighted: 0.8249
+F1 Weighted: 0.8233
+F1 Macro: 0.8241
+Cohen Kappa: 0.7666
+MCC: 0.7693
+ROC AUC Weighted OVR: 0.9710
+
+Optuna Time: 0.01 minutes
+Five Run Time: 18.95 minutes
+LOGO Time: 103.80 minutes
+Test Time: 1.60 seconds
+Total Execution Time: 122.99 minutes

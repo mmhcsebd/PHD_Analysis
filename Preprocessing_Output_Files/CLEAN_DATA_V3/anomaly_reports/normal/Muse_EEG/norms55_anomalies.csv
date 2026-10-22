@@ -1,0 +1,6 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+normal,Muse EEG,norms55.csv,Beta_AF7,3641,0.6344225,0.15321776
+normal,Muse EEG,norms55.csv,Gamma_AF7,1679,0.31529638,0.15120922499999997
+normal,Muse EEG,norms55.csv,Gamma_AF7,1680,0.5151623,0.02680078999999999
+normal,Muse EEG,norms55.csv,Gamma_AF8,4187,0.27505007,0.059600549999999974
+normal,Muse EEG,norms55.csv,Gamma_AF8,4188,0.5354882,-0.05786861500000001

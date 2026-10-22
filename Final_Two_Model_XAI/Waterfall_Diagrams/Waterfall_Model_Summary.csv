@@ -1,0 +1,5 @@
+Model,Case_Type,Number_of_Waterfalls,Mean_Prediction_Confidence
+LightGBM,Correct_High_Confidence,4,0.9999850162517288
+LightGBM,Misclassified_High_Confidence,4,0.9584005017138878
+XGBoost,Correct_High_Confidence,4,0.9999993443489075
+XGBoost,Misclassified_High_Confidence,4,0.9795617908239365

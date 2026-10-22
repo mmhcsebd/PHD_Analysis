@@ -1,0 +1,241 @@
+Activity Class,File Name,Total Rows,Outlier Count,Outlier Percentage,Lower IQR Limit,Upper IQR Limit,Graph
+Class Lecture,clmw1.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw1.png
+Class Lecture,clmw10.csv,2924,618,21.135430916552668,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw10.png
+Class Lecture,clmw11.csv,3179,455,14.312676942434727,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw11.png
+Class Lecture,clmw12.csv,1918,435,22.67987486965589,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw12.png
+Class Lecture,clmw13.csv,2084,388,18.618042226487525,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw13.png
+Class Lecture,clmw14.csv,1801,135,7.495835646862854,-7.5,12.5,./outlier_results/motion_watch_graphs/Class_Lecture_clmw14.png
+Class Lecture,clmw15.csv,5433,494,9.092582367016382,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw15.png
+Class Lecture,clmw16.csv,1998,248,12.412412412412413,-6.0,10.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw16.png
+Class Lecture,clmw17.csv,2720,244,8.970588235294118,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw17.png
+Class Lecture,clmw18.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw18.png
+Class Lecture,clmw19.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw19.png
+Class Lecture,clmw2.csv,5511,1068,19.379422972237343,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw2.png
+Class Lecture,clmw20.csv,2241,197,8.790718429272646,-9.0,15.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw20.png
+Class Lecture,clmw21.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw21.png
+Class Lecture,clmw22.csv,1785,132,7.394957983193278,-7.5,12.5,./outlier_results/motion_watch_graphs/Class_Lecture_clmw22.png
+Class Lecture,clmw23.csv,5543,957,17.26501894281075,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw23.png
+Class Lecture,clmw24.csv,5553,1134,20.42139384116694,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw24.png
+Class Lecture,clmw25.csv,5561,1363,24.509980219385003,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw25.png
+Class Lecture,clmw26.csv,5737,1089,18.982046365696355,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw26.png
+Class Lecture,clmw27.csv,5496,445,8.096797671033478,-7.5,12.5,./outlier_results/motion_watch_graphs/Class_Lecture_clmw27.png
+Class Lecture,clmw28.csv,5883,191,3.2466428692843787,-9.0,15.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw28.png
+Class Lecture,clmw29.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw29.png
+Class Lecture,clmw3.csv,3185,768,24.11302982731554,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw3.png
+Class Lecture,clmw30.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw30.png
+Class Lecture,clmw31.csv,5793,635,10.96150526497497,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw31.png
+Class Lecture,clmw32.csv,6083,1514,24.889035015617296,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw32.png
+Class Lecture,clmw33.csv,5701,1223,21.452376776004208,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw33.png
+Class Lecture,clmw34.csv,5777,140,2.4234031504240954,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw34.png
+Class Lecture,clmw35.csv,5479,474,8.651213725132322,-6.0,10.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw35.png
+Class Lecture,clmw36.csv,3512,423,12.044419134396357,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw36.png
+Class Lecture,clmw37.csv,2700,569,21.074074074074073,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw37.png
+Class Lecture,clmw38.csv,2390,183,7.656903765690376,-12.0,20.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw38.png
+Class Lecture,clmw39.csv,5527,536,9.697846933236837,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw39.png
+Class Lecture,clmw4.csv,5447,880,16.155682026803746,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw4.png
+Class Lecture,clmw40.csv,2780,666,23.9568345323741,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw40.png
+Class Lecture,clmw41.csv,4834,511,10.570955730244105,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw41.png
+Class Lecture,clmw42.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw42.png
+Class Lecture,clmw43.csv,5441,1248,22.93696011762544,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw43.png
+Class Lecture,clmw44.csv,5272,611,11.589529590288315,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw44.png
+Class Lecture,clmw45.csv,1801,135,7.495835646862854,-7.5,12.5,./outlier_results/motion_watch_graphs/Class_Lecture_clmw45.png
+Class Lecture,clmw46.csv,5511,857,15.55071674832154,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw46.png
+Class Lecture,clmw47.csv,6083,1514,24.889035015617296,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw47.png
+Class Lecture,clmw48.csv,5530,704,12.730560578661846,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw48.png
+Class Lecture,clmw49.csv,5441,495,9.097592354346627,-6.0,10.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw49.png
+Class Lecture,clmw5.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw5.png
+Class Lecture,clmw50.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw50.png
+Class Lecture,clmw51.csv,5485,984,17.939835916134914,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw51.png
+Class Lecture,clmw52.csv,5494,605,11.012013105205678,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw52.png
+Class Lecture,clmw53.csv,5484,717,13.074398249452953,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw53.png
+Class Lecture,clmw54.csv,5366,807,15.0391352963101,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw54.png
+Class Lecture,clmw55.csv,5262,376,7.145572025845687,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw55.png
+Class Lecture,clmw56.csv,3179,455,14.312676942434727,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw56.png
+Class Lecture,clmw57.csv,5261,883,16.78388139137046,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw57.png
+Class Lecture,clmw58.csv,5456,590,10.813782991202347,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw58.png
+Class Lecture,clmw59.csv,5097,1174,23.03315675887777,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw59.png
+Class Lecture,clmw6.csv,5737,1089,18.982046365696355,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw6.png
+Class Lecture,clmw60.csv,5511,715,12.974051896207584,-6.0,10.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw60.png
+Class Lecture,clmw7.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw7.png
+Class Lecture,clmw8.csv,3179,455,14.312676942434727,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw8.png
+Class Lecture,clmw9.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Class_Lecture_clmw9.png
+Music,mumw1.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw1.png
+Music,mumw10.csv,5496,445,8.096797671033478,-7.5,12.5,./outlier_results/motion_watch_graphs/Music_mumw10.png
+Music,mumw11.csv,5408,1153,21.32026627218935,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw11.png
+Music,mumw12.csv,5433,494,9.092582367016382,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw12.png
+Music,mumw13.csv,5289,509,9.6237474002647,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw13.png
+Music,mumw14.csv,4920,356,7.235772357723577,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw14.png
+Music,mumw15.csv,5243,869,16.574480259393475,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw15.png
+Music,mumw16.csv,5441,1248,22.93696011762544,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw16.png
+Music,mumw17.csv,5494,605,11.012013105205678,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw17.png
+Music,mumw18.csv,5530,704,12.730560578661846,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw18.png
+Music,mumw19.csv,5233,606,11.580355436652017,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw19.png
+Music,mumw2.csv,5511,1068,19.379422972237343,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw2.png
+Music,mumw20.csv,5447,880,16.155682026803746,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw20.png
+Music,mumw21.csv,5501,908,16.50608980185421,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw21.png
+Music,mumw22.csv,5525,361,6.53393665158371,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw22.png
+Music,mumw23.csv,5543,957,17.26501894281075,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw23.png
+Music,mumw24.csv,5553,1134,20.42139384116694,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw24.png
+Music,mumw25.csv,5561,1363,24.509980219385003,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw25.png
+Music,mumw26.csv,5737,1089,18.982046365696355,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw26.png
+Music,mumw27.csv,5511,857,15.55071674832154,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw27.png
+Music,mumw28.csv,5883,191,3.2466428692843787,-9.0,15.0,./outlier_results/motion_watch_graphs/Music_mumw28.png
+Music,mumw29.csv,5441,495,9.097592354346627,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw29.png
+Music,mumw3.csv,5328,444,8.333333333333332,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw3.png
+Music,mumw30.csv,5560,895,16.097122302158272,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw30.png
+Music,mumw31.csv,5472,741,13.541666666666666,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw31.png
+Music,mumw32.csv,4903,274,5.588415255965735,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw32.png
+Music,mumw33.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw33.png
+Music,mumw34.csv,5441,985,18.103289836427127,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw34.png
+Music,mumw35.csv,5492,518,9.431900946831755,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw35.png
+Music,mumw36.csv,5567,740,13.292617208550386,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw36.png
+Music,mumw37.csv,5481,1165,21.255245393176427,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw37.png
+Music,mumw38.csv,5538,769,13.885879378837126,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw38.png
+Music,mumw39.csv,5527,536,9.697846933236837,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw39.png
+Music,mumw4.csv,5521,1008,18.257562035863067,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw4.png
+Music,mumw40.csv,5701,1223,21.452376776004208,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw40.png
+Music,mumw41.csv,4834,511,10.570955730244105,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw41.png
+Music,mumw42.csv,5485,984,17.939835916134914,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw42.png
+Music,mumw43.csv,5466,1275,23.32601536772777,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw43.png
+Music,mumw44.csv,5663,1153,20.36023309200071,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw44.png
+Music,mumw45.csv,4985,312,6.2587763289869605,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw45.png
+Music,mumw46.csv,5247,1248,23.78502001143511,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw46.png
+Music,mumw47.csv,4800,1036,21.583333333333332,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw47.png
+Music,mumw48.csv,5192,631,12.153312788906009,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw48.png
+Music,mumw49.csv,5479,474,8.651213725132322,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw49.png
+Music,mumw5.csv,5499,511,9.292598654300782,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw5.png
+Music,mumw50.csv,4816,396,8.222591362126245,-9.0,15.0,./outlier_results/motion_watch_graphs/Music_mumw50.png
+Music,mumw51.csv,5471,1223,22.35423140193749,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw51.png
+Music,mumw52.csv,5657,710,12.550821990454306,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw52.png
+Music,mumw53.csv,5484,717,13.074398249452953,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw53.png
+Music,mumw54.csv,4809,331,6.8829278436265335,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw54.png
+Music,mumw55.csv,5544,753,13.582251082251082,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw55.png
+Music,mumw56.csv,5497,489,8.895761324358741,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw56.png
+Music,mumw57.csv,6083,1514,24.889035015617296,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw57.png
+Music,mumw58.csv,5410,848,15.67467652495379,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw58.png
+Music,mumw59.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw59.png
+Music,mumw6.csv,5465,506,9.258920402561758,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw6.png
+Music,mumw60.csv,5511,715,12.974051896207584,-6.0,10.0,./outlier_results/motion_watch_graphs/Music_mumw60.png
+Music,mumw7.csv,5418,648,11.960132890365449,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw7.png
+Music,mumw8.csv,5363,958,17.86313630430729,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw8.png
+Music,mumw9.csv,5801,1053,18.152042751249784,0.0,0.0,./outlier_results/motion_watch_graphs/Music_mumw9.png
+Normal,normw1.csv,5264,812,15.425531914893616,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw1.png
+Normal,normw10.csv,2978,626,21.02081934184016,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw10.png
+Normal,normw11.csv,5031,493,9.799244682965613,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw11.png
+Normal,normw12.csv,4714,598,12.685617310140007,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw12.png
+Normal,normw13.csv,5356,1045,19.510828976848394,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw13.png
+Normal,normw14.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw14.png
+Normal,normw15.csv,3560,466,13.089887640449438,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw15.png
+Normal,normw16.csv,4910,680,13.849287169042771,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw16.png
+Normal,normw17.csv,4528,705,15.569787985865723,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw17.png
+Normal,normw18.csv,4940,295,5.97165991902834,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw18.png
+Normal,normw19.csv,5275,356,6.748815165876778,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw19.png
+Normal,normw2.csv,5065,1012,19.98025666337611,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw2.png
+Normal,normw20.csv,4830,883,18.281573498964804,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw20.png
+Normal,normw21.csv,4895,264,5.393258426966292,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw21.png
+Normal,normw22.csv,4815,934,19.397715472481828,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw22.png
+Normal,normw23.csv,4770,615,12.89308176100629,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw23.png
+Normal,normw24.csv,4946,942,19.045693489688638,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw24.png
+Normal,normw25.csv,4968,794,15.982286634460547,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw25.png
+Normal,normw26.csv,4892,384,7.849550286181521,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw26.png
+Normal,normw27.csv,4751,579,12.186908019364344,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw27.png
+Normal,normw28.csv,4825,599,12.414507772020725,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw28.png
+Normal,normw29.csv,4825,509,10.549222797927461,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw29.png
+Normal,normw3.csv,4928,518,10.511363636363637,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw3.png
+Normal,normw30.csv,5049,414,8.19964349376114,-6.0,10.0,./outlier_results/motion_watch_graphs/Normal_normw30.png
+Normal,normw31.csv,4978,413,8.296504620329449,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw31.png
+Normal,normw32.csv,5517,644,11.673010694217872,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw32.png
+Normal,normw33.csv,4980,487,9.779116465863453,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw33.png
+Normal,normw34.csv,5056,887,17.543512658227847,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw34.png
+Normal,normw35.csv,5344,504,9.431137724550897,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw35.png
+Normal,normw36.csv,5045,511,10.128840436075322,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw36.png
+Normal,normw37.csv,5491,621,11.309415407029686,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw37.png
+Normal,normw38.csv,4876,457,9.372436423297785,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw38.png
+Normal,normw39.csv,4874,527,10.812474353713581,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw39.png
+Normal,normw4.csv,4800,788,16.416666666666664,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw4.png
+Normal,normw40.csv,4960,692,13.951612903225808,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw40.png
+Normal,normw41.csv,5085,599,11.779744346116027,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw41.png
+Normal,normw42.csv,4943,586,11.855148695124418,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw42.png
+Normal,normw43.csv,5051,248,4.9099188279548605,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw43.png
+Normal,normw44.csv,5181,796,15.36382937656823,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw44.png
+Normal,normw45.csv,5448,514,9.434654919236417,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw45.png
+Normal,normw46.csv,4728,609,12.880710659898478,-7.5,12.5,./outlier_results/motion_watch_graphs/Normal_normw46.png
+Normal,normw47.csv,5321,482,9.058447660214245,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw47.png
+Normal,normw48.csv,4891,518,10.590881210386424,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw48.png
+Normal,normw49.csv,4878,482,9.88109881098811,-7.5,12.5,./outlier_results/motion_watch_graphs/Normal_normw49.png
+Normal,normw5.csv,2588,437,16.88562596599691,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw5.png
+Normal,normw50.csv,4856,537,11.058484349258649,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw50.png
+Normal,normw51.csv,4800,964,20.083333333333332,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw51.png
+Normal,normw52.csv,4976,899,18.066720257234728,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw52.png
+Normal,normw53.csv,4831,429,8.880149037466364,-7.5,12.5,./outlier_results/motion_watch_graphs/Normal_normw53.png
+Normal,normw54.csv,4878,928,19.02419024190242,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw54.png
+Normal,normw55.csv,4817,257,5.335270915507578,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw55.png
+Normal,normw56.csv,4800,466,9.708333333333332,-7.5,12.5,./outlier_results/motion_watch_graphs/Normal_normw56.png
+Normal,normw57.csv,4941,248,5.019226877150374,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw57.png
+Normal,normw58.csv,4801,357,7.435950843574256,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw58.png
+Normal,normw59.csv,4843,821,16.95230229196779,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw59.png
+Normal,normw6.csv,2400,265,11.041666666666666,-7.5,12.5,./outlier_results/motion_watch_graphs/Normal_normw6.png
+Normal,normw60.csv,2401,307,12.786339025406082,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw60.png
+Normal,normw7.csv,4848,997,20.565181518151814,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw7.png
+Normal,normw8.csv,3418,368,10.766530134581627,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw8.png
+Normal,normw9.csv,2401,104,4.331528529779258,0.0,0.0,./outlier_results/motion_watch_graphs/Normal_normw9.png
+Reading,rdmw1.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw1.png
+Reading,rdmw10.csv,2419,557,23.02604381976023,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw10.png
+Reading,rdmw11.csv,5701,1223,21.452376776004208,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw11.png
+Reading,rdmw12.csv,2336,297,12.71404109589041,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw12.png
+Reading,rdmw13.csv,3577,466,13.02767682415432,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw13.png
+Reading,rdmw14.csv,1801,135,7.495835646862854,-7.5,12.5,./outlier_results/motion_watch_graphs/Reading_rdmw14.png
+Reading,rdmw15.csv,3560,466,13.089887640449438,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw15.png
+Reading,rdmw16.csv,2370,222,9.367088607594937,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw16.png
+Reading,rdmw17.csv,4834,511,10.570955730244105,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw17.png
+Reading,rdmw18.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw18.png
+Reading,rdmw19.csv,5233,606,11.580355436652017,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw19.png
+Reading,rdmw2.csv,5511,1068,19.379422972237343,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw2.png
+Reading,rdmw20.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw20.png
+Reading,rdmw21.csv,5289,509,9.6237474002647,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw21.png
+Reading,rdmw22.csv,3045,270,8.866995073891626,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw22.png
+Reading,rdmw23.csv,5701,1223,21.452376776004208,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw23.png
+Reading,rdmw24.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw24.png
+Reading,rdmw25.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw25.png
+Reading,rdmw26.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw26.png
+Reading,rdmw27.csv,2419,557,23.02604381976023,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw27.png
+Reading,rdmw28.csv,5509,1194,21.673624977309856,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw28.png
+Reading,rdmw29.csv,5479,474,8.651213725132322,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw29.png
+Reading,rdmw3.csv,2297,198,8.619939050936004,-12.0,20.0,./outlier_results/motion_watch_graphs/Reading_rdmw3.png
+Reading,rdmw30.csv,5560,895,16.097122302158272,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw30.png
+Reading,rdmw31.csv,1909,426,22.315348349921425,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw31.png
+Reading,rdmw32.csv,6083,1514,24.889035015617296,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw32.png
+Reading,rdmw33.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw33.png
+Reading,rdmw34.csv,5441,985,18.103289836427127,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw34.png
+Reading,rdmw35.csv,5492,518,9.431900946831755,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw35.png
+Reading,rdmw36.csv,6083,225,3.698832812756864,-7.5,12.5,./outlier_results/motion_watch_graphs/Reading_rdmw36.png
+Reading,rdmw37.csv,1221,259,21.21212121212121,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw37.png
+Reading,rdmw38.csv,2460,370,15.040650406504067,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw38.png
+Reading,rdmw39.csv,3560,466,13.089887640449438,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw39.png
+Reading,rdmw4.csv,5701,1223,21.452376776004208,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw4.png
+Reading,rdmw40.csv,1948,231,11.858316221765913,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw40.png
+Reading,rdmw41.csv,4834,511,10.570955730244105,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw41.png
+Reading,rdmw42.csv,2336,297,12.71404109589041,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw42.png
+Reading,rdmw43.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw43.png
+Reading,rdmw44.csv,5065,1012,19.98025666337611,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw44.png
+Reading,rdmw45.csv,3600,482,13.38888888888889,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw45.png
+Reading,rdmw46.csv,5481,1165,21.255245393176427,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw46.png
+Reading,rdmw47.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw47.png
+Reading,rdmw48.csv,5543,957,17.26501894281075,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw48.png
+Reading,rdmw49.csv,5441,495,9.097592354346627,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw49.png
+Reading,rdmw5.csv,5499,511,9.292598654300782,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw5.png
+Reading,rdmw50.csv,5372,831,15.469099032017871,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw50.png
+Reading,rdmw51.csv,5485,984,17.939835916134914,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw51.png
+Reading,rdmw52.csv,5617,658,11.714438312266335,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw52.png
+Reading,rdmw53.csv,5511,1068,19.379422972237343,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw53.png
+Reading,rdmw54.csv,4891,518,10.590881210386424,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw54.png
+Reading,rdmw55.csv,4978,413,8.296504620329449,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw55.png
+Reading,rdmw56.csv,4817,257,5.335270915507578,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw56.png
+Reading,rdmw57.csv,2978,626,21.02081934184016,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw57.png
+Reading,rdmw58.csv,4714,598,12.685617310140007,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw58.png
+Reading,rdmw59.csv,4800,1036,21.583333333333332,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw59.png
+Reading,rdmw6.csv,5737,1089,18.982046365696355,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw6.png
+Reading,rdmw60.csv,5511,715,12.974051896207584,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw60.png
+Reading,rdmw7.csv,5492,518,9.431900946831755,-6.0,10.0,./outlier_results/motion_watch_graphs/Reading_rdmw7.png
+Reading,rdmw8.csv,3,0,0.0,,,./outlier_results/motion_watch_graphs/Reading_rdmw8.png
+Reading,rdmw9.csv,5777,635,10.991864289423576,0.0,0.0,./outlier_results/motion_watch_graphs/Reading_rdmw9.png

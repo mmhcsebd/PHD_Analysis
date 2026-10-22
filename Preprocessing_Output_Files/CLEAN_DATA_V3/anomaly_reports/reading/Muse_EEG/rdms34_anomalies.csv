@@ -1,0 +1,2 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms34.csv,Gamma_AF8,67,1.150487,1.0665922

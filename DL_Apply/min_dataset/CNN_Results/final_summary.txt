@@ -1,0 +1,46 @@
+CNN
+MIN DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/DL_Apply/min_dataset/Cleaned_oN_Selected_Min.csv
+Output Directory: /home/rakib/Desktop/ml_apply/DL_Apply/min_dataset/CNN_Results
+
+Device: Intel(R) Arc(TM) A750 Graphics
+Features: 25
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+Trainable Parameters: 113252
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Best Parameters: {'n_conv_blocks': 3, 'base_filters': 32, 'kernel_size': 3, 'conv_dropout': 0.2928175866714864, 'dense_units': 128, 'dense_dropout': 0.45208619905645775, 'learning_rate': 0.0008330803890301997, 'weight_decay': 9.833181933644894e-06, 'label_smoothing': 0.006355835028602364}
+
+Selected Run: 2
+Selected Seed: 43
+Best Epoch: 2
+
+Optuna GroupKFold Accuracy: 0.6282
+Training Accuracy: 0.7257
+Validation Accuracy: 0.6318
+Generalization Gap: 0.0939
+Testing Accuracy: 0.5517
+
+Five Run Training: 0.7364 plus or minus 0.0176
+Five Run Validation: 0.6208 plus or minus 0.0088
+Five Run Gap: 0.1156 plus or minus 0.0156
+
+Full LOGO Accuracy: 0.6255 plus or minus 0.1922
+Full LOGO Folds: 42
+
+Precision Weighted: 0.5932
+Recall Weighted: 0.5517
+F1 Weighted: 0.5535
+F1 Macro: 0.5542
+Cohen Kappa: 0.4016
+MCC: 0.4128
+ROC AUC Weighted OVR: 0.8238
+
+Optuna Time: 0.01 minutes
+Five Run Time: 0.00 minutes
+LOGO Time: 0.00 minutes
+Algorithm Total Time: 0.10 minutes

@@ -1,0 +1,4 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+music,Muse EEG,mums15.csv,Beta_AF7,1240,0.5629854,0.027823241
+music,Muse EEG,mums15.csv,Gamma_AF7,4992,0.14734116,-0.24014969
+music,Muse EEG,mums15.csv,Gamma_AF8,3626,0.14759198,-0.183174135

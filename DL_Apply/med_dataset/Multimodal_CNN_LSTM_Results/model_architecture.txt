@@ -1,0 +1,44 @@
+MultimodalCNNLSTM(
+  (input_noise): GaussianNoise()
+  (input_dropout): Dropout(p=0.16411775729253464, inplace=False)
+  (encoders): ModuleList(
+    (0-2): 3 x ModalityCNNLSTMEncoder(
+      (cnn): Sequential(
+        (0): Conv1d(1, 32, kernel_size=(7,), stride=(1,), padding=(3,), bias=False)
+        (1): BatchNorm1d(32, eps=1e-05, momentum=0.1, affine=True, bias=True, track_running_stats=True)
+        (2): GELU(approximate='none')
+        (3): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+        (4): Dropout1d(p=0.17989856148457542, inplace=False)
+        (5): Conv1d(32, 64, kernel_size=(7,), stride=(1,), padding=(3,), bias=False)
+        (6): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, bias=True, track_running_stats=True)
+        (7): GELU(approximate='none')
+        (8): MaxPool1d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+        (9): Dropout1d(p=0.17989856148457542, inplace=False)
+      )
+      (lstm): XPUManualLSTM(
+        (input_linears): ModuleList(
+          (0): Linear(in_features=64, out_features=384, bias=True)
+        )
+        (hidden_linears): ModuleList(
+          (0): Linear(in_features=96, out_features=384, bias=False)
+        )
+        (inter_layer_dropout): Dropout(p=0.3283111968057487, inplace=False)
+      )
+      (output_norm): LayerNorm((192,), eps=1e-05, elementwise_affine=True, bias=True)
+      (output_dropout): Dropout(p=0.3283111968057487, inplace=False)
+    )
+  )
+  (modality_gate): Sequential(
+    (0): Linear(in_features=192, out_features=96, bias=True)
+    (1): GELU(approximate='none')
+    (2): Dropout(p=0.38068320734549854, inplace=False)
+    (3): Linear(in_features=96, out_features=1, bias=True)
+  )
+  (classifier): Sequential(
+    (0): LayerNorm((960,), eps=1e-05, elementwise_affine=True, bias=True)
+    (1): Linear(in_features=960, out_features=64, bias=True)
+    (2): GELU(approximate='none')
+    (3): Dropout(p=0.38068320734549854, inplace=False)
+    (4): Linear(in_features=64, out_features=4, bias=True)
+  )
+)

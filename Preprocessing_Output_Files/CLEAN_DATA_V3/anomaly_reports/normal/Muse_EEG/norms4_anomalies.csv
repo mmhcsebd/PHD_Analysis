@@ -1,0 +1,12 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+normal,Muse EEG,norms4.csv,Beta_AF8,1031,0.6523569,0.31410162
+normal,Muse EEG,norms4.csv,Beta_AF8,1050,0.5711835,0.03327491999999999
+normal,Muse EEG,norms4.csv,Beta_AF8,3936,0.7760354,0.31163308500000003
+normal,Muse EEG,norms4.csv,Gamma_TP9,991,1.0890851,0.384736105
+normal,Muse EEG,norms4.csv,Gamma_TP9,1981,0.9687966,0.420664795
+normal,Muse EEG,norms4.csv,Gamma_AF7,2718,0.76063865,0.473698885
+normal,Muse EEG,norms4.csv,Gamma_AF7,3932,0.95026284,0.502070755
+normal,Muse EEG,norms4.csv,Gamma_AF8,2141,0.23357686,-0.18874221000000002
+normal,Muse EEG,norms4.csv,Gamma_AF8,2707,0.29361746,-0.09609936999999999
+normal,Muse EEG,norms4.csv,Gamma_AF8,2708,0.32856086,-0.12264887000000002
+normal,Muse EEG,norms4.csv,Gamma_AF8,4239,0.70083064,0.145831735

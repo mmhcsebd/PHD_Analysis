@@ -1,0 +1,22 @@
+Method,Comparison,Statistic,P_Value,Significance,Status,Interpretation
+Bootstrap 95% Confidence Interval,LightGBM minus XGBoost accuracy,0.0076980129592787135,,Not applicable,Completed,"Participant cluster bootstrap 95% CI: [-0.000273, 0.017152]"
+McNemar Test,LightGBM versus XGBoost,125.05236139630391,1.2083388437553679e-29,Statistically significant at alpha = 0.05,Completed,"Exact two sided paired classification comparison. The raw EEG windows are correlated within participants, so participant level tests should also be considered."
+Wilcoxon Signed Rank Test,Participant level accuracy,16.0,0.1306650895957666,Not statistically significant at alpha = 0.05,Completed,Two sided paired nonparametric comparison of participant level accuracy.
+Paired t Test,Participant level accuracy,1.6915575577058666,0.10897839816762135,Not statistically significant at alpha = 0.05,Completed,Two sided paired t test using one accuracy value per test participant.
+Friedman Test,LightGBM versus XGBoost,,,Not applicable,Not Applicable,The Friedman test requires three or more related algorithms or treatments for a meaningful algorithm comparison. The current experiment contains only LightGBM and XGBoost. Therefore the Friedman test is not performed.
+Nemenyi Test,LightGBM versus XGBoost,,,Not applicable,Not Applicable,"The Nemenyi procedure is normally a post hoc test following a Friedman comparison involving three or more algorithms. With only LightGBM and XGBoost, a Nemenyi comparison is not appropriate."
+DeLong Test,Classwise one versus rest ROC AUC,,3.189615071935716e-25,Statistically significant at alpha = 0.05,Completed,DeLong was applied separately to each class using one versus rest ROC analysis. Bonferroni adjusted p values are reported.
+Permutation Test,Participant level accuracy,0.00995430303210045,0.11038896110388961,Not statistically significant at alpha = 0.05,Completed,Two sided paired sign permutation test using participant level accuracy differences.
+Cochran Q Test,LightGBM versus XGBoost,,,Not applicable,Not Applicable,Cochran Q is an extension of McNemar testing for three or more matched classifiers or treatments. Only two classifiers are included here. Therefore McNemar is the appropriate corresponding test.
+Cohen Kappa,True labels versus LightGBM,0.9217477022481995,,Not applicable,Completed,Chance corrected agreement between true class and LightGBM prediction.
+Cohen Kappa,True labels versus XGBoost,0.9115598908201672,,Not applicable,Completed,Chance corrected agreement between true class and XGBoost prediction.
+Chi Square Test,LightGBM,116865.5979906304,0.0,Statistically significant at alpha = 0.05,Completed,Association between true multiclass labels and predicted multiclass labels.
+Chi Square Test,XGBoost,114590.11966870556,0.0,Statistically significant at alpha = 0.05,Completed,Association between true multiclass labels and predicted multiclass labels.
+Repeated Stratified Cross Validation,LightGBM,0.906348641404763,,Not applicable,Completed,5 repeats x 5 StratifiedGroupKFold.
+Repeated Stratified Cross Validation,XGBoost,0.9092953737700458,,Not applicable,Completed,5 repeats x 5 StratifiedGroupKFold.
+Brier Score,LightGBM,0.08295639976681443,,Not applicable,Completed,Lower multiclass Brier score indicates better probability quality.
+Brier Score,XGBoost,0.09599345415011927,,Not applicable,Completed,Lower multiclass Brier score indicates better probability quality.
+Calibration Curve,LightGBM ECE,0.008721394748233325,,Not applicable,Completed,Lower Expected Calibration Error indicates better calibration.
+Calibration Curve,XGBoost ECE,0.029195365096235652,,Not applicable,Completed,Lower Expected Calibration Error indicates better calibration.
+Hosmer Lemeshow Test,LightGBM classwise one versus rest,208.19361378104668,2.543220949486094e-87,Statistically significant at alpha = 0.05,Completed,Classwise one versus rest Hosmer Lemeshow analysis with Bonferroni adjusted p values.
+Hosmer Lemeshow Test,XGBoost classwise one versus rest,1601.2507159628071,0.0,Statistically significant at alpha = 0.05,Completed,Classwise one versus rest Hosmer Lemeshow analysis with Bonferroni adjusted p values.

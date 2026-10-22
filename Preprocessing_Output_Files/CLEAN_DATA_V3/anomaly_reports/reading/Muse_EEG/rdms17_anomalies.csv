@@ -1,0 +1,13 @@
+activity,sensor_type,file,channel,row_index,original_value,cleaned_value
+reading,Muse EEG,rdms17.csv,Delta_TP9,2211,4.0853505,2.061329685
+reading,Muse EEG,rdms17.csv,Delta_TP9,2212,3.4997919,2.3092098749999996
+reading,Muse EEG,rdms17.csv,Delta_TP9,2382,3.39566,1.23652065
+reading,Muse EEG,rdms17.csv,Theta_TP9,2211,3.1255727,1.56735555
+reading,Muse EEG,rdms17.csv,Theta_TP9,2212,2.5524342,1.771541975
+reading,Muse EEG,rdms17.csv,Alpha_TP9,2211,3.0207078,1.7389982000000002
+reading,Muse EEG,rdms17.csv,Alpha_TP9,2212,2.9888058,1.60125447
+reading,Muse EEG,rdms17.csv,Alpha_TP9,2382,2.724476,1.2192922
+reading,Muse EEG,rdms17.csv,Beta_TP9,2211,2.6103928,1.19387135
+reading,Muse EEG,rdms17.csv,Beta_TP9,2212,2.0551567,1.404842
+reading,Muse EEG,rdms17.csv,Beta_TP9,2382,1.9286702,0.79357357
+reading,Muse EEG,rdms17.csv,Gamma_TP9,2211,1.9862792,0.7315921449999999

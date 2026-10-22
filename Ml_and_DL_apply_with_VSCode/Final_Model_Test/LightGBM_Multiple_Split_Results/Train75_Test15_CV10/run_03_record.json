@@ -1,0 +1,11 @@
+{
+    "Run_Signature": "c06c7b800a9bdd6d",
+    "Run": 3,
+    "Seed": 44,
+    "Training_Accuracy": 0.9994246611166805,
+    "Validation_Accuracy": 0.8393070489844683,
+    "GroupKFold_Accuracy": 0.8874662872141158,
+    "GroupKFold_STD": 0.037670093864352557,
+    "Best_Iteration": 203,
+    "Execution_Time_Seconds": 45.150226354599
+}

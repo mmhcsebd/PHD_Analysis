@@ -1,0 +1,23 @@
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:              Delta_TP9   No. Observations:                   76
+Model:                 ARIMA(0, 1, 1)   Log Likelihood                 217.260
+Date:                Tue, 22 Sep 2026   AIC                           -430.519
+Time:                        14:25:15   BIC                           -425.884
+Sample:                    09-22-2026   HQIC                          -428.668
+                         - 09-22-2026                                         
+Covariance Type:                  opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+ma.L1         -0.3152      0.100     -3.157      0.002      -0.511      -0.120
+sigma2         0.0002   2.45e-05      7.255      0.000       0.000       0.000
+===================================================================================
+Ljung-Box (L1) (Q):                   0.03   Jarque-Bera (JB):                 2.31
+Prob(Q):                              0.86   Prob(JB):                         0.31
+Heteroskedasticity (H):               0.74   Skew:                             0.07
+Prob(H) (two-sided):                  0.47   Kurtosis:                         3.85
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).

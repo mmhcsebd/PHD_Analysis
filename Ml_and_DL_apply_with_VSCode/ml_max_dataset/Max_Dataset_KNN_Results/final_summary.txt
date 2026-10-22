@@ -1,0 +1,43 @@
+KNN
+MAX DATASET
+
+Input File: /home/rakib/Desktop/ml_apply/ml_max_dataset/Cleaned_oN_Selected_Max.csv
+Output Directory: /home/rakib/Desktop/ml_apply/ml_max_dataset/Max_Dataset_KNN_Results
+
+Feature Count: 232
+Classes: ['class_lecture', 'music', 'normal', 'reading']
+
+Training Participants: 42
+Validation Participants: 6
+Testing Participants: 12
+
+Optuna Best Accuracy: 0.7096
+Optuna Best Parameters: {'n_neighbors': 29, 'weights': 'uniform', 'p': 1}
+
+Selected Run: 5
+Selected Parameters: {'n_neighbors': 31, 'weights': 'uniform', 'p': 1}
+
+Training Accuracy: 0.9959
+Validation Accuracy: 0.8735
+Testing Accuracy: 0.6804
+
+GroupKFold Accuracy: 0.7097 plus or minus 0.0590
+
+LOGO Available Folds: 42
+LOGO Used Folds: 5
+LOGO Accuracy: 0.7235 plus or minus 0.2182
+
+Precision Weighted: 0.6914
+Recall Weighted: 0.6804
+F1 Weighted: 0.6824
+F1 Macro: 0.6780
+Cohen Kappa: 0.5741
+MCC: 0.5762
+ROC AUC Weighted OVR: 0.8056
+
+Optuna Time: 56.93 minutes
+Five Run Time: 36.27 minutes
+LOGO Time: 1.07 minutes
+Test Time: 1.92 minutes
+Learning Curve Time: 30.70 minutes
+Total Execution Time: 134.67 minutes

@@ -1,0 +1,11 @@
+{
+    "n_lstm_layers": 1,
+    "lstm_units": 32,
+    "dense_units": 128,
+    "dropout": 0.09242722776276352,
+    "recurrent_dropout": 0.38783385110582347,
+    "input_dropout": 0.23253984700833435,
+    "l2": 0.0006584106160121611,
+    "learning_rate": 0.00331348361550895,
+    "activation": "tanh"
+}

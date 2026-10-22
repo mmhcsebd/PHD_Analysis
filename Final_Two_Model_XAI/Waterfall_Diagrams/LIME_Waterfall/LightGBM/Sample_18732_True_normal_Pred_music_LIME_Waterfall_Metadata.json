@@ -1,0 +1,11 @@
+{
+    "Model": "LightGBM",
+    "Sample_Index": 18732,
+    "Participant": "32",
+    "True_Class": "normal",
+    "Predicted_Class": "music",
+    "Model_Probability": 0.985835181721774,
+    "LIME_Intercept": 0.3364928972624571,
+    "Calculated_Local_Surrogate": 0.8461881997632065,
+    "LIME_Reported_Local_Prediction": 0.8461881997632065
+}
